@@ -1,0 +1,50 @@
+---
+/** Numbered steps (WP "service" widget style-five): dotted frame, red number. */
+interface Props {
+  items: { num: string; text: string }[];
+}
+
+const { items } = Astro.props;
+---
+
+<ol class="steps">
+  {
+    items.map((s) => (
+      <li class="step">
+        <span class="num">{s.num}</span>
+        <span class="text">{s.text}</span>
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .steps {
+    display: grid;
+    gap: 16px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .step {
+    display: grid;
+    grid-template-columns: 48px 1fr;
+    gap: 16px;
+    align-items: center;
+    min-height: 72px;
+    padding: 10px 20px;
+    border: var(--border-dotted);
+    background: var(--white);
+  }
+
+  .num {
+    font: 400 26px/1 Georgia, 'Times New Roman', serif;
+    color: var(--color-accent);
+  }
+
+  .text {
+    font-size: 16px;
+    line-height: 1.45;
+  }
+</style>

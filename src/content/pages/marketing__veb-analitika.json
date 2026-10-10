@@ -1,0 +1,352 @@
+{
+ "path": "/marketing/veb-analitika/",
+ "h1": "Веб аналитика",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Веб аналитика — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 7,
+  "menuLabel": "Веб аналитика"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Анализ эффективности сайта и рекламы",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Увеличиваем прибыль от вложений в маркетинг с помощью веб-аналитики. Повышаем конверсию сайта в заявки и в продажи путем определения наиболее рентабельных каналов продвижения продукта. Анализируем поведение посетителей вашего сайта, откуда они пришли и по каким ключевым словам. Это позволяет лучше узнать потребности ваших клиентов и скорректировать ваше уникальное торговое предложение.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Получить консультацию"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/tems.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2024/04/roistat-3.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/istochniki.-svodka.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/obshhaya-poseshhaemost.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/google-analitika.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/poseshhaemost-po-vremeni-sutok.png",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Зачем нужна веб-аналитика",
+         "level": "h2",
+         "lead": "<p>Веб-аналитик выявляет недостатки сайта и источников трафика, которые приводят людей. Анализ позволит выявить, сколько человек интересовалось тем или иным товаром, откуда пришли эти люди и с какой потребностью, как долго провели время и почему ушли, не заказав ничего. Внедрение рекомендаций веб-аналитика позволяет в разы повысить эффективность рекламы и продвижения, что значительно сэкономит ваш бюджет и увеличит количество заказов.</p>",
+         "align": "left",
+         "onDark": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Какие работы проводим по веб-аналитике",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 5,
+         "items": [
+          {
+           "iconName": "data",
+           "title": "Настройка счетчиков Яндекс Метрика и Google Analytics"
+          },
+          {
+           "iconName": "select",
+           "title": "Настройка сквозной аналитики"
+          },
+          {
+           "iconName": "support-6",
+           "title": "Анкетирование целевой аудитории"
+          },
+          {
+           "title": "Юзабилити исследование"
+          },
+          {
+           "iconName": "sign",
+           "title": "А/Б тестирование"
+          },
+          {
+           "iconName": "trending-up",
+           "title": "Анализ эффективности сайта"
+          },
+          {
+           "iconName": "value",
+           "title": "Конкурентный анализ"
+          },
+          {
+           "iconName": "settings-1",
+           "title": "Анализ эффективности сайта"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-sky",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Стоимость услуг по веб-аналитике",
+         "level": "h2",
+         "lead": "<p>Разработка рекомендаций по сайту и настройкам рекламных кампаний стоит от 50 000 руб. <br>Веб-аналитик с опытом работы в тематике вашего бизнеса проведет оценку эффективности контекстной и таргетированной рекламы, SEO, SMM. Он находит несоответствия информации на вашем сайте ожиданиям посетителей и дает рекомендации либо по изменению структуры, текста, изображений на страницах сайта, либо по изменению настроек рекламы и поискового продвижения, чтобы на сайт приходили более целевые посетители с потребностью в вашем продукте. </p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Получить консультацию"
+         },
+         "variant": "primary"
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/ffff.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2022/01/section1-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Наибольший эффект дает систематический анализ на протяжении длительного времени (от 3-х месяцев), когда можно увидеть динамику улучшений. Это позволяет разработать комплекс мер не только по улучшению сайта и рекламы, но и позволит глубже погрузиться в ваш продукт и найти потенциал по росту спроса на него. Выявление точек роста позволит увеличить вашу клиентскую базу и прибыль. Для расчета стоимости сопровождения закажите консультацию у менеджера."
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "НАШИ КОМПЕТЕНЦИИ",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2024/03/ya_metrik150a.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/ggggczczczczcz.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/roistat_logo_black_transparent_m.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "igor-petrushin",
+     "role": "Ведущий веб-аналитик и digital-стратег"
+    },
+    {
+     "member": "maksim-usachev",
+     "role": "Веб-аналитик в IT и B2B продуктах"
+    },
+    {
+     "member": "kamila-aburova",
+     "role": "Веб-аналитик в бьюти, здоровье и красоте"
+    },
+    {
+     "member": "ekaterina-semenova",
+     "role": "Веб-аналитик в строительстве и производстве"
+    },
+    {
+     "member": "aleksey-kulikov",
+     "role": "Веб-аналитик в торговле, финансах и юр. услугах"
+    }
+   ],
+   "title": "Наши веб-аналитики"
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "dehO1T6B5uo",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, для чего нужна веб-аналитика. Как анализ трафика на сайте помогает делать больше продаж. Какой счетчик установить на сайт. И как анализировать сайт с помощью Яндекс Метрики и Google Analytics.</p>"
+  }
+ ]
+}

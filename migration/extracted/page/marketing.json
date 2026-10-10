@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "1fadc19",
+   "width": 1440,
    "height": 516,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "fced6b5",
      "width": 1140,
+     "height": 453,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "602e0d0",
@@ -44,16 +48,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "d4b7da9",
+       "width": 1108,
        "height": 372,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "659e69a",
          "width": 554,
+         "height": 372,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "ea7bf9d",
@@ -88,9 +95,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "0740260",
          "width": 554,
+         "height": 372,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "8fa3c7e",
@@ -118,18 +128,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "b6327a6",
+   "width": 1440,
    "height": 192,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "5d3bd69",
      "width": 1140,
+     "height": 192,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "32a5ec4",
@@ -159,29 +173,36 @@
    ]
   },
   {
+   "type": "section",
    "id": "ebbaf5f",
+   "width": 1440,
    "height": 646,
    "bg": {
     "color": "rgb(245, 245, 245)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "01ad855",
      "width": 1190,
+     "height": 583,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "36ade52",
+       "width": 1170,
        "height": 61,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "2289bee",
          "width": 1170,
+         "height": 61,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "5e3d11a",
@@ -204,16 +225,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "2ce065f",
+       "width": 1170,
        "height": 261,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "95a2524",
          "width": 585,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "c393157",
@@ -240,9 +264,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "e95f109",
          "width": 293,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "7b5322f",
@@ -269,9 +296,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "1ca8c85",
          "width": 289,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "cabd785",
@@ -300,16 +330,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "b152ee0",
+       "width": 1170,
        "height": 261,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "d3f0619",
          "width": 293,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "a468aa6",
@@ -336,9 +369,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "816e783",
          "width": 293,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "eeb3de9",
@@ -365,9 +401,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "b378903",
          "width": 293,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "7f9b24d",
@@ -394,9 +433,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "8ac9c05",
          "width": 293,
+         "height": 261,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "691e77a",
@@ -429,15 +471,19 @@
    ]
   },
   {
+   "type": "section",
    "id": "9e84c32",
+   "width": 1440,
    "height": 2043,
    "bg": {},
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "8f3e8f6",
      "width": 1140,
+     "height": 2043,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "ca6c37d",
@@ -478,16 +524,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "88ed83a",
+       "width": 1120,
        "height": 225,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "cc8e2fb",
          "width": 308,
+         "height": 225,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "fdccfb7",
@@ -508,9 +557,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "5f74ded",
          "width": 812,
+         "height": 225,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "54a971e",
@@ -551,16 +603,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "997b78f",
+       "width": 1120,
        "height": 450,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "bd22a78",
          "width": 507,
+         "height": 450,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "bcc91e5",
@@ -634,9 +689,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "ad4f9d3",
          "width": 613,
+         "height": 450,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "d067824",
@@ -660,16 +718,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "3111b04",
+       "width": 1120,
        "height": 293,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "c1b6d4b",
          "width": 363,
+         "height": 293,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "88155b5",
@@ -708,9 +769,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "68732af",
          "width": 757,
+         "height": 293,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "0c97d9d",
@@ -751,16 +815,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "be436c2",
+       "width": 1120,
        "height": 201,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "d0d595e",
          "width": 1120,
+         "height": 201,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "e6782cb",
@@ -801,16 +868,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "75fee3c",
+       "width": 1120,
        "height": 245,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "c890433",
          "width": 586,
+         "height": 245,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "b75cb91",
@@ -849,9 +919,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "dcf95de",
          "width": 534,
+         "height": 245,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "4d20e73",
@@ -892,16 +965,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "5715f79",
+       "width": 1120,
        "height": 233,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "88c75ac",
          "width": 361,
+         "height": 233,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "149dc0e",
@@ -923,9 +999,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "83ec792",
          "width": 759,
+         "height": 233,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "6cfa00a",
@@ -966,16 +1045,19 @@
        ]
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "ec9a313",
+       "width": 1120,
        "height": 245,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "69926ed",
          "width": 560,
+         "height": 245,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "e7f37a7",
@@ -1014,9 +1096,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "9f10f22",
          "width": 560,
+         "height": 245,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "feature.default",
            "id": "4b06aa6",
@@ -1061,17 +1146,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "212a1db",
+   "width": 1440,
    "height": 467,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "3d7aa3a",
      "width": 648,
+     "height": 467,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "ee43dc2",
@@ -1084,16 +1173,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "97d9fd9",
+       "width": 628,
        "height": 1,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "a9c9306",
          "width": 628,
+         "height": 1,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       },
@@ -1135,9 +1227,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "c4bde66",
      "width": 492,
+     "height": 467,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image.default",
        "id": "e5fb924",
@@ -1161,18 +1256,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "bce79f9",
+   "width": 1440,
    "height": 550,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "e229b7d",
      "width": 1140,
+     "height": 487,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "7ca2d9a",
@@ -1191,16 +1290,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "42afa89",
+       "width": 1108,
        "height": 312,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "4a4291a",
          "width": 554,
+         "height": 312,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "text-editor.default",
            "id": "4f02b79",
@@ -1217,9 +1319,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "d893096",
          "width": 554,
+         "height": 312,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "text-editor.default",
            "id": "6b5a030",
@@ -1277,17 +1382,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "5e84839",
+   "width": 1440,
    "height": 325,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/000.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "5386e3b",
      "width": 380,
+     "height": 325,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "ab3b8fa",
@@ -1319,9 +1428,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "0a3a35b",
      "width": 39,
+     "height": 325,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "dbedbc7",
@@ -1347,9 +1459,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "130b926",
      "width": 717,
+     "height": 325,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "324b403",
@@ -1390,17 +1505,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "0eaa0ee",
+   "width": 1440,
    "height": 151,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "7112127",
      "width": 1140,
+     "height": 151,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "0071387",
@@ -1434,46 +1553,300 @@
    ]
   },
   {
+   "type": "section",
    "id": "7108add",
+   "width": 1440,
    "height": 454,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-stretched elementor-section-boxed",
-   "columns": []
+   "slider": "3",
+   "children": [
+    {
+     "type": "column",
+     "id": "36ce3be",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "9429d2d",
+       "heading": {
+        "tag": "h3",
+        "text": "Сергей Шестов"
+       },
+       "text": "Сергей Шестов Руководитель группы таргетологов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5601\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Сергей Шестов</h3><p class=\"elementor-image-box-description\">Руководитель группы таргетологов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "08becf6",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "192d66e",
+       "heading": {
+        "tag": "h3",
+        "text": "Андрей Шевченко"
+       },
+       "text": "Андрей Шевченко Руководитель группы SEO-специалистов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5602\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-80x80.jpg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Андрей Шевченко</h3><p class=\"elementor-image-box-description\">Руководитель группы SEO-специалистов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "1c86a1a",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "e39fb98",
+       "heading": {
+        "tag": "h3",
+        "text": "Юлия Ким"
+       },
+       "text": "Юлия Ким Координатор региональных медиа-агентств",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5606\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Юлия Ким</h3><p class=\"elementor-image-box-description\">Координатор региональных медиа-агентств</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "f345853",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "a2a0b0c",
+       "heading": {
+        "tag": "h3",
+        "text": "Камила Муратова"
+       },
+       "text": "Камила Муратова Руководитель группы веб-аналитиков",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5604\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Камила Муратова</h3><p class=\"elementor-image-box-description\">Руководитель группы веб-аналитиков</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "f415d53",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "b0478f1",
+       "heading": {
+        "tag": "h3",
+        "text": "Ирина Павлова"
+       },
+       "text": "Ирина Павлова Главный редактор",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5711\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-300x300.jpg 300w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-80x80.jpg 80w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211.jpg 750w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Ирина Павлова</h3><p class=\"elementor-image-box-description\">Главный редактор</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148568138211.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "9b78f3e",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "e4827b0",
+       "heading": {
+        "tag": "h3",
+        "text": "Кристина Низамова"
+       },
+       "text": "Кристина Низамова Руководитель группы PR-менеджеров",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5717\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Кристина Низамова</h3><p class=\"elementor-image-box-description\">Руководитель группы PR-менеджеров</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "a591658",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "5ad09b3",
+       "heading": {
+        "tag": "h3",
+        "text": "Анастасия Орлова"
+       },
+       "text": "Анастасия Орлова Руководитель группы SMM-специалистов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5716\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-80x80.jpg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Анастасия Орлова</h3><p class=\"elementor-image-box-description\">Руководитель группы SMM-специалистов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
+   "type": "container",
    "id": "30ef5b0",
+   "width": 1440,
    "height": 70,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "e-con-boxed",
-   "columns": []
+   "children": [
+    {
+     "type": "spacer.default",
+     "id": "cf258a1",
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
+    }
+   ]
   },
   {
+   "type": "section",
    "id": "a0126c3",
+   "width": 1440,
    "height": 598,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "b5d3f6e",
      "width": 1140,
+     "height": 540,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "caa075b",
+       "width": 1120,
        "height": 520,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "0d4a9ce",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "0264778",
@@ -1513,9 +1886,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "233ab76",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "shortcode.default",
            "id": "d520a6c",
@@ -1542,17 +1918,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "8a731ac",
+   "width": 1440,
    "height": 470,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "6ee8e7a",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "video.default",
        "id": "48f5148",
@@ -1568,20 +1948,26 @@
      ]
     },
     {
+     "type": "column",
+     "id": "0677c3c",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "de22ff0",
+       "width": 700,
        "height": 200,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "34a3405",
          "width": 502,
+         "height": 200,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "fb31460",
@@ -1602,9 +1988,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "d0fba89",
          "width": 194,
+         "height": 200,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       }

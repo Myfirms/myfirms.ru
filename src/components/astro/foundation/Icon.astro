@@ -1,0 +1,43 @@
+---
+/**
+ * Inline SVG icon from lucide-static (ISC). The WP site used the theme's
+ * Flaticon webfont; those names are mapped to the closest Lucide glyph, so
+ * content keeps the original names and no icon font is downloaded.
+ */
+import { readFileSync } from 'node:fs';
+import { createRequire } from 'node:module';
+
+interface Props {
+  name: string;
+  size?: number;
+  class?: string;
+  label?: string;
+}
+
+const ALIASES: Record<string, string> = {
+  'angle-double-right': 'chevrons-right', analytics: 'chart-line', 'bar-chart': 'chart-column', connection: 'network',
+  data: 'database', design: 'pen-tool', 'idea-1': 'lightbulb', 'money-1': 'banknote', 'monitor-1': 'monitor',
+  'network-1': 'share-2', networking: 'users', responsive: 'smartphone', school: 'graduation-cap',
+  select: 'mouse-pointer-click', 'settings-1': 'settings', sign: 'signpost', 'support-4': 'headphones',
+  'support-6': 'life-buoy', team: 'users', 'temporary-agency': 'briefcase', test: 'flask-conical', time: 'clock',
+  'user-1': 'user-round', value: 'gem', world: 'globe', youtube: 'circle-play', 'arrow-right-circle': 'circle-arrow-right',
+};
+
+const { name, size = 24, class: className, label } = Astro.props;
+const require = createRequire(import.meta.url);
+const resolve = (n: string) => {
+  try {
+    return readFileSync(require.resolve(`lucide-static/icons/${n}.svg`), 'utf8');
+  } catch {
+    return undefined;
+  }
+};
+const raw = resolve(ALIASES[name] ?? name) ?? resolve('circle')!;
+const svg = raw
+  .replace(/<!--[\s\S]*?-->/g, '')
+  .replace(/\swidth="\d+"/, ` width="${size}"`)
+  .replace(/\sheight="\d+"/, ` height="${size}"`)
+  .replace('<svg', `<svg ${label ? `role="img" aria-label="${label}"` : 'aria-hidden="true" focusable="false"'} class="icon${className ? ` ${className}` : ''}"`);
+---
+
+<Fragment set:html={svg} />

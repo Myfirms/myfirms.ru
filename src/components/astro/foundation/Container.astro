@@ -1,0 +1,23 @@
+---
+/** Container — the 1140px boxed width of the WP/Elementor layout. */
+interface Props {
+  wide?: boolean;
+}
+
+const { wide = false } = Astro.props;
+---
+
+<div class:list={['container', wide && 'container--wide']}><slot /></div>
+
+<style>
+  .container {
+    width: 100%;
+    max-width: calc(var(--content-max) + 2 * var(--side-pad));
+    margin: 0 auto;
+    padding-inline: var(--side-pad);
+  }
+
+  .container--wide {
+    max-width: calc(var(--content-wide) + 2 * var(--side-pad));
+  }
+</style>

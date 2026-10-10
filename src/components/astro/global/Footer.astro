@@ -1,0 +1,132 @@
+---
+/**
+ * Footer. On WP the "Публичная оферта", "Политика конфиденциальности" and
+ * "Реквизиты" links pointed to "#" — they now lead to real pages.
+ */
+import { Image } from 'astro:assets';
+import logo from '../../../assets/brand/logo.png';
+import { company } from '../../../lib/data/company';
+import { legalLinks } from '../../../lib/data/legal';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="footer" data-surface="dark">
+  <div class="inner">
+    <div class="brand">
+      <a href="/" aria-label="MyFirms — на главную">
+        <Image src={logo} alt="MyFirms" width={120} height={73} />
+      </a>
+      <p class="tagline">{company.legalName} —<br />{company.tagline}</p>
+    </div>
+
+    <ul class="links">
+      <li><a href={legalLinks.offer}>Публичная оферта</a></li>
+      <li><a href={legalLinks.privacy}>Политика конфиденциальности</a></li>
+      <li><a href={legalLinks.requisites}>Реквизиты</a></li>
+      <li><a href="/contacts/">Информация для партнеров</a></li>
+    </ul>
+
+    <div class="contacts">
+      <p>{company.address.short}</p>
+      <p><a href={`mailto:${company.email}`}>{company.email}</a></p>
+    </div>
+  </div>
+  <div class="bottom">
+    <p>© {company.foundedYear}–{year} {company.brand}. ИНН {company.inn}, ОГРН {company.ogrn}</p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--surface-footer);
+    color: var(--color-on-dark);
+  }
+
+  .inner {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: var(--gap-xl);
+    align-items: start;
+    max-width: calc(var(--content-max) + 2 * var(--side-pad));
+    margin: 0 auto;
+    padding: 60px var(--side-pad) 32px;
+  }
+
+  .brand {
+    display: flex;
+    gap: var(--gap-lg);
+    align-items: flex-start;
+  }
+
+  .brand :global(img) {
+    width: auto;
+    height: 72px;
+  }
+
+  .tagline {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .links {
+    display: grid;
+    grid-template-columns: repeat(2, max-content);
+    gap: 8px 40px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .links a {
+    display: inline-flex;
+    gap: 10px;
+    font: 600 16px/1.6 var(--font-display);
+  }
+
+  .links a::before {
+    content: '—';
+    font-weight: 400;
+  }
+
+  .links a:hover,
+  .contacts a:hover {
+    color: var(--color-accent);
+  }
+
+  .contacts p {
+    margin: 0 0 4px;
+    font-size: 15px;
+  }
+
+  .bottom {
+    border-top: 1px solid rgb(255 255 255 / 0.1);
+  }
+
+  .bottom p {
+    max-width: calc(var(--content-max) + 2 * var(--side-pad));
+    margin: 0 auto;
+    padding: 16px var(--side-pad);
+    font-size: var(--text-caption);
+    color: var(--color-on-dark-muted);
+  }
+
+  @media (max-width: 1023px) {
+    .inner {
+      grid-template-columns: 1fr;
+      gap: var(--gap-lg);
+    }
+  }
+
+  @media (max-width: 639px) {
+    .brand {
+      flex-direction: column;
+      gap: var(--gap-md);
+    }
+
+    .links {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,381 @@
+{
+ "path": "/marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/",
+ "h1": "Продвижение сайта в топ 10 Яндекс и Google",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Продвижение сайта в топ 10 Яндекс и Google — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 100,
+  "menuLabel": "Продвижение сайта в топ 10 Яндекс и Google"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2022/01/round1-1.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            },
+            {
+             "kind": "image",
+             "src": "wp/2023/10/keeksuccessful-female-entrepreneur-in-blue-collar-shirt-1.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Сделаем ваш сайт эффективным",
+             "level": "h2",
+             "lead": "<p>Мы знаем, как использовать алгоритмы Яндекса и Google для увеличения позиций в поиске сайта. Проведем комплекс работ по поисковой оптимизации и выйдем на первые поисковые позиции Яндекса и Google </p>",
+             "align": "left",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Что такое поисковая оптимизация сайта",
+         "level": "h2",
+         "lead": "<p>SEO (поисковая оптимизация) – это комплекс мероприятий по улучшению веб-сайта для достижения высоких позиций в результатах поиска Яндекса и Google по определенным запросам. Это направлено на увеличение посещаемости сайта и, в конечном итоге, на получение дохода.</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2023/10/2022-12-18_11-56-31.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/2022-12-18_11-50-44.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/2022-12-11_13-49-39.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/2022-12-17_17-29-59.png",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Как мы выведем ваш сайт в топ поисковых систем",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "check",
+         "items": [
+          {
+           "text": "Проведем анализ текущего состояния сайта и поможем исправить технические ошибки",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Проведем конкурентный анализ"
+          },
+          {
+           "text": "Соберем семантическое ядро и подберем поисковые запросы"
+          },
+          {
+           "text": "Соберем ключевые слова и правильно распределим их по страницам сайта"
+          },
+          {
+           "text": "Создадим и разместим качественный контент, который будет отвечать требованиям поисковых систем"
+          },
+          {
+           "text": "Подготовим рекомендации по юзабилити сайта для более успешного функционирования ресурса"
+          },
+          {
+           "text": "Подготовим статистику и дадим полный отчет о результатах"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "ЗАКАЗАТЬ РЕКЛАМУ"
+         },
+         "variant": "primary"
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2023/10/business-research.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Сколько стоит вывести сайт в топ поисковых систем",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<h2>Цена за услуги по настройке рассчитывается индивидуально. Мы узнаем, какой у вас бюджет. Проводим анализ текущей позиции сайта. Рассчитаем охват рынка и конкуренцию. По исходным данным предоставим вам прогноз по изменению позиций сайта в поисковой выдачи и объем выполняемых работ. Наше вознаграждение будет складываться из минимальной стоимости за работы и премии. Премия рассчитывается исходя из количества заявок и затраченного бюджета на привлечение. Мы сделаем расчет так, чтобы вам окупались инвестиции в рекламу и затраты на наши услуги.</h2>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши компетенции",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/121.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/snimok-ekrana-2023-10-10-v-21.37.35.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/150x56.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/1google-search-console.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши лучшие кейсы по оптимизации сайта",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 4,
+         "items": [
+          {
+           "iconName": "angle-double-right",
+           "title": "Scloud",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Geobooking",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Landix",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Народное ЖКХ",
+           "text": "Professionally formulate error free after B2C human it"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Портфолио"
+         },
+         "variant": "primary"
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Обучающие материалы по маркетингу и развитию бизнеса",
+             "level": "h2",
+             "lead": "<p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p>",
+             "align": "left",
+             "onDark": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "button",
+             "link": {
+              "label": "Все уроки"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  }
+ ]
+}

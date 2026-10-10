@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "2a818d6",
+   "width": 1440,
    "height": 503,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/11/techno-4.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "d3c5717",
      "width": 720,
+     "height": 440,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image.default",
        "id": "faf1be8",
@@ -65,20 +69,26 @@
      ]
     },
     {
+     "type": "column",
+     "id": "8cb067b",
      "width": 720,
+     "height": 440,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "7a0583a",
+       "width": 700,
        "height": 409,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "26ae7b1",
          "width": 502,
+         "height": 409,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "5226884",
@@ -135,9 +145,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "0cac1f7",
          "width": 194,
+         "height": 409,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       }
@@ -146,17 +159,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "bce79f9",
+   "width": 1440,
    "height": 547,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "e229b7d",
      "width": 700,
+     "height": 484,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "7ca2d9a",
@@ -190,9 +207,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "588c6e2",
      "width": 700,
+     "height": 484,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image-carousel.default",
        "id": "1bae26f",
@@ -241,28 +261,35 @@
    ]
   },
   {
+   "type": "section",
    "id": "a118769",
+   "width": 1440,
    "height": 293,
    "bg": {
     "color": "rgb(254, 245, 243)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "2a7912c",
      "width": 1140,
+     "height": 173,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "b9ece66",
+       "width": 1120,
        "height": 153,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "6f0827f",
          "width": 1120,
+         "height": 153,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "fdefce5",
@@ -289,44 +316,298 @@
    ]
   },
   {
+   "type": "section",
    "id": "e37864c",
+   "width": 1440,
    "height": 454,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-stretched elementor-section-boxed",
-   "columns": []
+   "slider": "3",
+   "children": [
+    {
+     "type": "column",
+     "id": "f9b0f8c",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "92af631",
+       "heading": {
+        "tag": "h3",
+        "text": "Сергей Шестов"
+       },
+       "text": "Сергей Шестов Руководитель группы таргетологов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5601\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Сергей Шестов</h3><p class=\"elementor-image-box-description\">Руководитель группы таргетологов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/sergej-shestovjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "aca1618",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "554320d",
+       "heading": {
+        "tag": "h3",
+        "text": "Андрей Шевченко"
+       },
+       "text": "Андрей Шевченко Руководитель группы SEO-специалистов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5602\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-80x80.jpg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Андрей Шевченко</h3><p class=\"elementor-image-box-description\">Руководитель группы SEO-специалистов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/andrej-shevchenkojpg-560x560.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "d423045",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "8502020",
+       "heading": {
+        "tag": "h3",
+        "text": "Кристина Низамова"
+       },
+       "text": "Кристина Низамова Руководитель группы веб-аналитиков",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5717\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Кристина Низамова</h3><p class=\"elementor-image-box-description\">Руководитель группы веб-аналитиков</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/kristina-nazimovajpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "a1aac9e",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "4b4c24d",
+       "heading": {
+        "tag": "h3",
+        "text": "Ирина Павлова"
+       },
+       "text": "Ирина Павлова Главный редактор",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"750\" height=\"750\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/2148568138211.jpg\" class=\"elementor-animation-grow attachment-large size-large wp-image-5711\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/2148568138211.jpg 750w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-300x300.jpg 300w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/2148568138211-80x80.jpg 80w\" sizes=\"(max-width: 750px) 100vw, 750px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Ирина Павлова</h3><p class=\"elementor-image-box-description\">Главный редактор</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148568138211.jpg",
+         "w": 750,
+         "h": 750
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "4455d15",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "d911fba",
+       "heading": {
+        "tag": "h3",
+        "text": "Камила Муратова"
+       },
+       "text": "Камила Муратова Руководитель группы PR-менеджеров",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5604\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Камила Муратова</h3><p class=\"elementor-image-box-description\">Руководитель группы PR-менеджеров</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/kamila-muratovajpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "eda6c2e",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "b2599f0",
+       "heading": {
+        "tag": "h3",
+        "text": "Анастасия Орлова"
+       },
+       "text": "Анастасия Орлова Руководитель группы SMM-специалистов",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5716\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-80x80.jpg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Анастасия Орлова</h3><p class=\"elementor-image-box-description\">Руководитель группы SMM-специалистов</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/anastasiya-orlovajpg-1-560x560.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "044a54b",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "bdba6c1",
+       "heading": {
+        "tag": "h3",
+        "text": "Юлия Ким"
+       },
+       "text": "Юлия Ким Координатор региональных медиа-агентств",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5606\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Юлия Ким</h3><p class=\"elementor-image-box-description\">Координатор региональных медиа-агентств</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/yuliya-kimjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
+   "type": "container",
    "id": "13ab350",
+   "width": 1440,
    "height": 20,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "e-con-boxed",
-   "columns": []
+   "children": [
+    {
+     "type": "spacer.default",
+     "id": "504b255",
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
+    }
+   ]
   },
   {
+   "type": "section",
    "id": "cf4792a",
+   "width": 1440,
    "height": 683,
    "bg": {},
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "77a6887",
      "width": 1140,
+     "height": 533,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "d3abdad",
+       "width": 1120,
        "height": 101,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "bddd343",
          "width": 1120,
+         "height": 101,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "924b2bf",
@@ -669,28 +950,35 @@
    ]
   },
   {
+   "type": "section",
    "id": "48f9769",
+   "width": 1440,
    "height": 598,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "536fab4",
      "width": 1140,
+     "height": 540,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "0a26d82",
+       "width": 1120,
        "height": 520,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "bfee77c",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "f828529",
@@ -730,9 +1018,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "adeeeda",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "shortcode.default",
            "id": "564562f",

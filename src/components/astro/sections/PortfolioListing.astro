@@ -1,0 +1,189 @@
+---
+/**
+ * Portfolio grid + "Категории" sidebar, shared by /portfolio/ (paginated)
+ * and /portfolio_filter/<slug>/. Empty WP categories ("Performance
+ * маркетинг", "Интеграции") are not listed — they led to blank pages.
+ */
+import type { CollectionEntry } from 'astro:content';
+import PortfolioCard from '../cards/PortfolioCard.astro';
+import Section from '../foundation/Section.astro';
+
+interface Props {
+  cases: CollectionEntry<'portfolio'>[];
+  filters: CollectionEntry<'portfolioFilters'>[];
+  activeFilter?: string;
+  pagination?: { current: number; last: number; url: (n: number) => string };
+}
+
+const { cases, filters, activeFilter, pagination } = Astro.props;
+const names = new Map(filters.map((f) => [f.id, f.data.name]));
+const sorted = [...filters].sort((a, b) => a.data.order - b.data.order);
+---
+
+<Section background="gray">
+  <div class="layout">
+    <div>
+      <div class="grid">
+        {
+          cases.map((c) => (
+            <PortfolioCard
+              href={`/portfolio-item/${c.id}/`}
+              title={c.data.title}
+              image={c.data.image}
+              category={names.get(activeFilter ?? c.data.filters[0]?.id ?? '')}
+              headingLevel="h2"
+            />
+          ))
+        }
+      </div>
+      {
+        pagination && pagination.last > 1 && (
+          <nav class="pager" aria-label="Страницы портфолио">
+            {pagination.current > 1 && (
+              <a href={pagination.url(pagination.current - 1)} rel="prev" aria-label="Предыдущая страница">
+                «
+              </a>
+            )}
+            {Array.from({ length: pagination.last }, (_, i) => i + 1).map((n) =>
+              n === pagination.current ? <span aria-current="page">{n}</span> : <a href={pagination.url(n)}>{n}</a>,
+            )}
+            {pagination.current < pagination.last && (
+              <a href={pagination.url(pagination.current + 1)} rel="next" aria-label="Следующая страница">
+                »
+              </a>
+            )}
+          </nav>
+        )
+      }
+    </div>
+    <aside class="sidebar" aria-labelledby="cats-title">
+      <h2 id="cats-title" class="side-title">Категории</h2>
+      <ul>
+        <li>
+          <a href="/portfolio/" aria-current={!activeFilter ? 'page' : undefined}>
+            Все проекты
+          </a>
+        </li>
+        {
+          sorted.map((f) => (
+            <li>
+              <a href={`/portfolio_filter/${f.id}/`} aria-current={f.id === activeFilter ? 'page' : undefined}>
+                {f.data.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </aside>
+  </div>
+</Section>
+
+<style>
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 260px;
+    gap: 30px;
+    align-items: start;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+  }
+
+  .sidebar {
+    padding: 28px 24px;
+    border-radius: var(--radius-md);
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+  }
+
+  .side-title {
+    margin-bottom: 18px;
+    font-size: 20px;
+    color: #7a1438;
+  }
+
+  .side-title::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    margin-top: 8px;
+    background: linear-gradient(90deg, var(--color-accent) 20%, #c8d6ff 20%);
+  }
+
+  .sidebar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar li {
+    border-top: 1px solid var(--surface-gray);
+  }
+
+  .sidebar a {
+    display: block;
+    padding: 9px 0;
+    font: 400 15px/1.3 var(--font-display);
+  }
+
+  .sidebar a:hover,
+  .sidebar a[aria-current='page'] {
+    color: var(--color-accent);
+  }
+
+  .pager {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    margin-top: var(--gap-lg);
+  }
+
+  .pager a,
+  .pager span {
+    display: grid;
+    place-items: center;
+    min-width: 40px;
+    height: 40px;
+    border-radius: var(--radius-sm);
+    background: var(--white);
+    font-weight: 500;
+  }
+
+  .pager a {
+    color: var(--color-link);
+  }
+
+  .pager a:hover {
+    background: var(--color-primary);
+    color: var(--white);
+  }
+
+  .pager span {
+    background: var(--color-primary);
+    color: var(--white);
+  }
+
+  @media (max-width: 1023px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .sidebar {
+      order: -1;
+    }
+  }
+
+  @media (max-width: 559px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

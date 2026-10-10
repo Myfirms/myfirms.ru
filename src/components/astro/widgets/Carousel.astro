@@ -1,0 +1,141 @@
+---
+/** Image carousel (WP image-carousel) — photo slider or logo strip. */
+import { Image } from 'astro:assets';
+import { asset } from '../../../lib/assets';
+import Icon from '../foundation/Icon.astro';
+
+interface Props {
+  images: { src: string; alt: string }[];
+  logos?: boolean;
+}
+
+const { images, logos = false } = Astro.props;
+---
+
+<div class:list={['carousel', logos && 'carousel--logos']} data-carousel data-autoplay={logos ? 3000 : 5000}>
+  <div class="track" data-carousel-track>
+    {
+      images.map((img) => (
+        <div class="slide">
+          <Image src={asset(img.src)} alt={img.alt} widths={logos ? [150, 300] : [480, 720, 1080]} sizes={logos ? '150px' : '(max-width: 767px) 100vw, 560px'} />
+        </div>
+      ))
+    }
+  </div>
+  {
+    !logos && images.length > 1 && (
+      <>
+        <button type="button" class="nav nav--prev" data-carousel-prev aria-label="Предыдущий слайд">
+          <Icon name="chevron-left" />
+        </button>
+        <button type="button" class="nav nav--next" data-carousel-next aria-label="Следующий слайд">
+          <Icon name="chevron-right" />
+        </button>
+        <div class="dots" data-carousel-dots />
+      </>
+    )
+  }
+</div>
+
+<script>
+  import '../../../scripts/carousel';
+</script>
+
+<style>
+  .carousel {
+    position: relative;
+  }
+
+  .track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 100%;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    border-radius: var(--radius-lg);
+  }
+
+  .track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .slide {
+    scroll-snap-align: start;
+  }
+
+  .slide :global(img) {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+  }
+
+  .carousel--logos .track {
+    grid-auto-columns: calc((100% - 3 * 32px) / 4);
+    gap: 32px;
+    border-radius: 0;
+  }
+
+  .carousel--logos .slide {
+    display: grid;
+    place-items: center;
+    min-height: 60px;
+  }
+
+  .carousel--logos .slide :global(img) {
+    width: auto;
+    max-height: 44px;
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+
+  .nav {
+    position: absolute;
+    top: 50%;
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 44px;
+    border: 0;
+    background: rgb(0 0 0 / 0.3);
+    color: var(--white);
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .nav--prev {
+    left: 0;
+  }
+
+  .nav--next {
+    right: 0;
+  }
+
+  .dots {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 10px;
+  }
+
+  .dots :global(button) {
+    width: 8px;
+    height: 8px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: #c9c9d0;
+    cursor: pointer;
+  }
+
+  .dots :global(button[aria-current='true']) {
+    background: var(--color-heading);
+  }
+
+  @media (max-width: 767px) {
+    .carousel--logos .track {
+      grid-auto-columns: calc((100% - 32px) / 2);
+    }
+  }
+</style>

@@ -1,0 +1,113 @@
+---
+import '../styles/global.css';
+import { company } from '../lib/data/company';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Path ("/marketing/") the canonical/OG URL points to. Defaults to the current path. */
+  canonicalPath?: string;
+  ogImage?: string;
+  /** Force noindex (e.g. /internal/*). Defaults to the inverse of PUBLIC_LAUNCHED. */
+  noindex?: boolean;
+  /** Extra JSON-LD objects for this page (BreadcrumbList, Service, …). */
+  jsonLd?: object[];
+}
+
+/** Site-wide pre-launch gate. Unset/anything but "true" = blocked: every page
+ * renders noindex and robots.txt disallows everything (src/pages/robots.txt.ts),
+ * and no analytics tags load, so the Amplify preview neither gets indexed nor
+ * pollutes the live Метрика/GA stats. Set PUBLIC_LAUNCHED=true in Amplify at
+ * cut-over and redeploy. */
+const SITE_LAUNCHED = import.meta.env.PUBLIC_LAUNCHED === 'true';
+
+/** Counters from the WP site; env vars allow overriding/disabling ("" = off). */
+const YM_ID = import.meta.env.PUBLIC_YM_ID ?? '97147329';
+const GA4_ID = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID ?? 'G-KPNZ32WW2F';
+const analytics = SITE_LAUNCHED;
+
+const { title, description, canonicalPath = Astro.url.pathname, ogImage, noindex = !SITE_LAUNCHED, jsonLd = [] } = Astro.props;
+const site = Astro.site ?? new URL('https://myfirms.ru');
+const canonical = new URL(canonicalPath, site).toString();
+const og = ogImage ? new URL(ogImage, site).toString() : undefined;
+
+const organization = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: company.brand,
+  legalName: company.legalName,
+  url: site.toString(),
+  logo: new URL('/icon-192.png', site).toString(),
+  email: company.email,
+  taxID: company.inn,
+  foundingDate: String(company.foundedYear),
+  address: {
+    '@type': 'PostalAddress',
+    postalCode: company.address.postalCode,
+    addressRegion: company.address.region,
+    addressLocality: company.address.locality,
+    streetAddress: company.address.street,
+    addressCountry: 'RU',
+  },
+  sameAs: [company.youtube],
+};
+---
+
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" />
+    <link rel="icon" href="/icon-192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#121b51" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:site_name" content="MyFirms" />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonical} />
+    {og && <meta property="og:image" content={og} />}
+    <meta name="twitter:card" content={og ? 'summary_large_image' : 'summary'} />
+
+    <script type="application/ld+json" set:html={JSON.stringify([organization, ...jsonLd])} />
+
+    {
+      analytics && YM_ID && (
+        <script is:inline define:vars={{ YM_ID }}>
+          window.__YM_ID__ = Number(YM_ID);
+          (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments); };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t); a = e.getElementsByTagName(t)[0];
+            k.async = 1; k.src = r; a.parentNode.insertBefore(k, a);
+          })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym');
+          ym(Number(YM_ID), 'init', { clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true });
+        </script>
+      )
+    }
+    {
+      analytics && GA4_ID && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`} />
+          <script is:inline define:vars={{ GA4_ID }}>
+            window.dataLayer = window.dataLayer || [];
+            window.gtag = function () { dataLayer.push(arguments); };
+            gtag('js', new Date());
+            gtag('config', GA4_ID);
+          </script>
+        </>
+      )
+    }
+    <slot name="head" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

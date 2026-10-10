@@ -1,0 +1,47 @@
+---
+/** Red "subscribe to the YouTube channel" band above the footer (every WP page). */
+import { company } from '../../../lib/data/company';
+import Button from '../foundation/Button.astro';
+---
+
+<section class="band" data-surface="dark" aria-label="YouTube-канал MyFirms">
+  <div class="inner">
+    <p class="text">Системный маркетинг в бизнесе: более 25 полезных видео уроков для руководителей и предпринимателей.</p>
+    <Button href={company.youtube} variant="youtube" arrow={false}>Подписывайтесь на канал!</Button>
+  </div>
+</section>
+
+<style>
+  .band {
+    background: var(--surface-accent);
+    color: var(--white);
+  }
+
+  .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--gap-lg);
+    max-width: calc(var(--content-max) + 2 * var(--side-pad));
+    margin: 0 auto;
+    padding: 24px var(--side-pad);
+  }
+
+  .text {
+    margin: 0;
+    max-width: 720px;
+    font-size: 22px;
+    line-height: 1.35;
+  }
+
+  @media (max-width: 767px) {
+    .inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .text {
+      font-size: 18px;
+    }
+  }
+</style>

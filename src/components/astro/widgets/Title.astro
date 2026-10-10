@@ -1,0 +1,74 @@
+---
+/**
+ * Section title — the theme's "sectiontitle" widget: uppercase Roboto
+ * Condensed heading, optional green chip ("О компании") and lead paragraph.
+ * Page H1 lives in the banner, so content titles are h2/h3.
+ */
+interface Props {
+  text: string;
+  level?: 'h2' | 'h3';
+  eyebrow?: string;
+  lead?: string;
+  align?: 'left' | 'center';
+  onDark?: boolean;
+}
+
+const { text, level = 'h2', eyebrow, lead, align = 'left', onDark = false } = Astro.props;
+const Tag = level;
+---
+
+<div class:list={['title', `title--${align}`, onDark && 'title--dark']}>
+  {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+  <Tag class="heading">{text}</Tag>
+  {lead && <div class="lead prose" set:html={lead} />}
+</div>
+
+<style>
+  .title {
+    display: grid;
+    gap: 14px;
+  }
+
+  .title--center {
+    justify-items: center;
+    text-align: center;
+  }
+
+  .eyebrow {
+    justify-self: start;
+    margin: 0;
+    padding: 4px 14px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--green-100), transparent);
+    color: var(--green-500);
+    font: 700 16px/1.4 var(--font-display);
+    text-transform: uppercase;
+  }
+
+  .title--center .eyebrow {
+    justify-self: center;
+  }
+
+  .heading {
+    font-size: var(--text-h2);
+    text-transform: uppercase;
+  }
+
+  .lead {
+    max-width: 860px;
+    font-size: var(--text-body-lg);
+    line-height: 1.5;
+    color: #000;
+  }
+
+  .title--center .lead {
+    margin-inline: auto;
+  }
+
+  .title--dark .heading,
+  .title--dark .lead,
+  :global([data-surface='dark']) .heading,
+  :global([data-surface='dark']) .lead {
+    color: var(--white);
+  }
+</style>

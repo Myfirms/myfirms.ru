@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "f60a87c",
+   "width": 1440,
    "height": 509,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "fcaff3d",
      "width": 1140,
+     "height": 446,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "2fa38c4",
@@ -44,16 +48,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "b74286c",
+       "width": 1108,
        "height": 365,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "90c30c1",
          "width": 554,
+         "height": 365,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "f458eda",
@@ -88,9 +95,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "661b780",
          "width": 554,
+         "height": 365,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "867aaee",
@@ -118,15 +128,19 @@
    ]
   },
   {
+   "type": "container",
    "id": "60c8380",
+   "width": 1440,
    "height": 608,
    "bg": {},
-   "cls": "e-con-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "container",
+     "id": "ee27379",
      "width": 1140,
+     "height": 61,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "b07ce80",
@@ -145,21 +159,126 @@
        }
       }
      ]
+    },
+    {
+     "type": "bdt-interactive-tabs.default",
+     "id": "b4c2d3d",
+     "heading": {
+      "tag": "h3",
+      "text": "Электроника и бытовая техника"
+     },
+     "text": "Электроника и бытовая техника Косметика, парфюмерия и бьюти оборудование Одежда и аксессуары Ювелирные изделия Товары для дома и повседневного спроса Кафе, рестораны Здоровое питание Фитнес центры и SPA Клининговые услуги Образование, курсы и прочие онлайн-услуги",
+     "html": " <div class=\"bdt-interactive-tabs\"> <div class=\"bdt-interactive-tabs-wrap\"> <div class=\"bdt-interactive-tabs-item bdt-active\" data-slide=\"0\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-blender\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M416 384H160c-35.35 0-64 28.65-64 64v32c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-32c0-35.35-28.65-64-64-64zm-128 96c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm40-416h166.54L512 0H48C21.49 0 0 21.49 0 48v160c0 26.51 21.49 48 48 48h103.27l8.73 96h256l17.46-64H328c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h114.18l17.46-64H328c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h140.36l17.46-64H328c-4.42 0-8-3.58-8-8V72c0-4.42 3.58-8 8-8zM64 192V64h69.82l11.64 128H64z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Электроника и бытовая техника </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"1\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-spray-can\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224 32c0-17.67-14.33-32-32-32h-64c-17.67 0-32 14.33-32 32v96h128V32zm256 96c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32zm-256 32H96c-53.02 0-96 42.98-96 96v224c0 17.67 14.33 32 32 32h256c17.67 0 32-14.33 32-32V256c0-53.02-42.98-96-96-96zm-64 256c-44.18 0-80-35.82-80-80s35.82-80 80-80 80 35.82 80 80-35.82 80-80 80zM480 96c17.67 0 32-14.33 32-32s-14.33-32-32-32-32 14.33-32 32 14.33 32 32 32zm-96 32c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32zm-96-96c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32zm96 0c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32zm96 192c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Косметика, парфюмерия и бьюти оборудование </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"2\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-tshirt\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M631.2 96.5L436.5 0C416.4 27.8 371.9 47.2 320 47.2S223.6 27.8 203.5 0L8.8 96.5c-7.9 4-11.1 13.6-7.2 21.5l57.2 114.5c4 7.9 13.6 11.1 21.5 7.2l56.6-27.7c10.6-5.2 23 2.5 23 14.4V480c0 17.7 14.3 32 32 32h256c17.7 0 32-14.3 32-32V226.3c0-11.8 12.4-19.6 23-14.4l56.6 27.7c7.9 4 17.5.8 21.5-7.2L638.3 118c4-7.9.8-17.6-7.1-21.5z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Одежда и аксессуары </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"3\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-gem\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M485.5 0L576 160H474.9L405.7 0h79.8zm-128 0l69.2 160H149.3L218.5 0h139zm-267 0h79.8l-69.2 160H0L90.5 0zM0 192h100.7l123 251.7c1.5 3.1-2.7 5.9-5 3.3L0 192zm148.2 0h279.6l-137 318.2c-1 2.4-4.5 2.4-5.5 0L148.2 192zm204.1 251.7l123-251.7H576L357.3 446.9c-2.3 2.7-6.5-.1-5-3.2z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Ювелирные изделия </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"4\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-hammer\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M571.31 193.94l-22.63-22.63c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31-28.9-28.9c5.63-21.31.36-44.9-16.35-61.61l-45.25-45.25c-62.48-62.48-163.79-62.48-226.28 0l90.51 45.25v18.75c0 16.97 6.74 33.25 18.75 45.25l49.14 49.14c16.71 16.71 40.3 21.98 61.61 16.35l28.9 28.9-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63l22.63 22.63c6.25 6.25 16.38 6.25 22.63 0l90.51-90.51c6.23-6.24 6.23-16.37-.02-22.62zm-286.72-15.2c-3.7-3.7-6.84-7.79-9.85-11.95L19.64 404.96c-25.57 23.88-26.26 64.19-1.53 88.93s65.05 24.05 88.93-1.53l238.13-255.07c-3.96-2.91-7.9-5.87-11.44-9.41l-49.14-49.14z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Товары для дома и повседневного спроса </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"5\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-coffee\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M192 384h192c53 0 96-43 96-96h32c70.6 0 128-57.4 128-128S582.6 32 512 32H120c-13.3 0-24 10.7-24 24v232c0 53 43 96 96 96zM512 96c35.3 0 64 28.7 64 64s-28.7 64-64 64h-32V96h32zm47.7 384H48.3c-47.6 0-61-64-36-64h583.3c25 0 11.8 64-35.9 64z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Кафе, рестораны </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"6\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-utensils\" viewBox=\"0 0 416 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M207.9 15.2c.8 4.7 16.1 94.5 16.1 128.8 0 52.3-27.8 89.6-68.9 104.6L168 486.7c.7 13.7-10.2 25.3-24 25.3H80c-13.7 0-24.7-11.5-24-25.3l12.9-238.1C27.7 233.6 0 196.2 0 144 0 109.6 15.3 19.9 16.1 15.2 19.3-5.1 61.4-5.4 64 16.3v141.2c1.3 3.4 15.1 3.2 16 0 1.4-25.3 7.9-139.2 8-141.8 3.3-20.8 44.7-20.8 47.9 0 .2 2.7 6.6 116.5 8 141.8.9 3.2 14.8 3.4 16 0V16.3c2.6-21.6 44.8-21.4 48-1.1zm119.2 285.7l-15 185.1c-1.2 14 9.9 26 23.9 26h56c13.3 0 24-10.7 24-24V24c0-13.2-10.7-24-24-24-82.5 0-221.4 178.5-64.9 300.9z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Здоровое питание </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"7\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-swimming-pool\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M624 416h-16c-26.04 0-45.8-8.42-56.09-17.9-8.9-8.21-19.66-14.1-31.77-14.1h-16.3c-12.11 0-22.87 5.89-31.77 14.1C461.8 407.58 442.04 416 416 416s-45.8-8.42-56.09-17.9c-8.9-8.21-19.66-14.1-31.77-14.1h-16.3c-12.11 0-22.87 5.89-31.77 14.1C269.8 407.58 250.04 416 224 416s-45.8-8.42-56.09-17.9c-8.9-8.21-19.66-14.1-31.77-14.1h-16.3c-12.11 0-22.87 5.89-31.77 14.1C77.8 407.58 58.04 416 32 416H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h16c38.62 0 72.72-12.19 96-31.84 23.28 19.66 57.38 31.84 96 31.84s72.72-12.19 96-31.84c23.28 19.66 57.38 31.84 96 31.84s72.72-12.19 96-31.84c23.28 19.66 57.38 31.84 96 31.84h16c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zm-400-32v-96h192v96c19.12 0 30.86-6.16 34.39-9.42 9.17-8.46 19.2-14.34 29.61-18.07V128c0-17.64 14.36-32 32-32s32 14.36 32 32v16c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-16c0-52.94-43.06-96-96-96s-96 43.06-96 96v96H224v-96c0-17.64 14.36-32 32-32s32 14.36 32 32v16c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-16c0-52.94-43.06-96-96-96s-96 43.06-96 96v228.5c10.41 3.73 20.44 9.62 29.61 18.07 3.53 3.27 15.27 9.43 34.39 9.43z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Фитнес центры и SPA </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"8\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-broom\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M256.47 216.77l86.73 109.18s-16.6 102.36-76.57 150.12C206.66 523.85 0 510.19 0 510.19s3.8-23.14 11-55.43l94.62-112.17c3.97-4.7-.87-11.62-6.65-9.5l-60.4 22.09c14.44-41.66 32.72-80.04 54.6-97.47 59.97-47.76 163.3-40.94 163.3-40.94zM636.53 31.03l-19.86-25c-5.49-6.9-15.52-8.05-22.41-2.56l-232.48 177.8-34.14-42.97c-5.09-6.41-15.14-5.21-18.59 2.21l-25.33 54.55 86.73 109.18 58.8-12.45c8-1.69 11.42-11.2 6.34-17.6l-34.09-42.92 232.48-177.8c6.89-5.48 8.04-15.53 2.55-22.44z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Клининговые услуги </h3> </div> </div> <div class=\"bdt-interactive-tabs-item\" data-slide=\"9\"> <div class=\"bdt-interactive-tabs-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-graduation-cap\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z\"></path></svg> </div> <div> <h3 class=\"bdt-interactive-tabs-title\"> Образование, курсы и прочие онлайн-услуги </h3> </div> </div> </div> <div id=\"bdt-interactive-tabs-b4c2d3d\" class=\"bdt-interactive-tabs-content bdt-arrows-align-bottom-left\" data-settings=\"{&quot;id&quot;:&quot;#bdt-interactive-tabs-b4c2d3d&quot;,&quot;autoplay&quot;:{&quot;delay&quot;:4000},&quot;loop&quot;:true,&quot;speed&quot;:300,&quot;effect&quot;:&quot;fade&quot;,&quot;fadeEffect&quot;:{&quot;crossFade&quot;:true},&quot;lazy&quot;:true,&quot;autoHeight&quot;:true,&quot;slidesPerView&quot;:1,&quot;observer&quot;:true,&quot;observeParents&quot;:true,&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;#bdt-interactive-tabs-b4c2d3d .bdt-navigation-next&quot;,&quot;prevEl&quot;:&quot;#bdt-interactive-tabs-b4c2d3d .bdt-navigation-prev&quot;},&quot;pagination&quot;:{&quot;el&quot;:&quot;#bdt-interactive-tabs-b4c2d3d .swiper-pagination&quot;,&quot;type&quot;:&quot;&quot;,&quot;clickable&quot;:&quot;true&quot;,&quot;dynamicBullets&quot;:false},&quot;scrollbar&quot;:{&quot;el&quot;:&quot;#bdt-interactive-tabs-b4c2d3d .swiper-scrollbar&quot;,&quot;hide&quot;:&quot;true&quot;}}\"> <div class=\"swiper-container swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress\"> <div class=\"swiper-wrapper\" id=\"swiper-wrapper-4027837e4b58ee68\" aria-live=\"off\" style=\"transition-duration: 0ms; height: 339px;\"><div id=\"bdt-tab-10b4c2d3d\" class=\"swiper-slide swiper-slide-duplicate swiper-slide-prev\" data-swiper-slide-index=\"9\" role=\"group\" aria-label=\"10 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(0px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/obrazovanie-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Образование, курсы и прочие онлайн-услуги\"> </div> </div> <div id=\"bdt-tab-1b4c2d3d\" class=\"swiper-slide swiper-slide-visible swiper-slide-active\" data-swiper-slide-index=\"0\" role=\"group\" aria-label=\"1 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 1; transform: translate3d(-555px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/tehnika-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Электроника и бытовая техника\"> </div> </div> <div id=\"bdt-tab-2b4c2d3d\" class=\"swiper-slide swiper-slide-next\" data-swiper-slide-index=\"1\" role=\"group\" aria-label=\"2 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-1110px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/parfyumeriya-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Косметика, парфюмерия и бьюти оборудование\"> </div> </div> <div id=\"bdt-tab-3b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"2\" role=\"group\" aria-label=\"3 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-1665px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/odezhda-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Одежда и аксессуары\"> </div> </div> <div id=\"bdt-tab-4b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"3\" role=\"group\" aria-label=\"4 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2220px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/yuvelirka-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Ювелирные изделия\"> </div> </div> <div id=\"bdt-tab-5b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"4\" role=\"group\" aria-label=\"5 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2775px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/tovary-dlya-doma-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Товары для дома и повседневного спроса\"> </div> </div> <div id=\"bdt-tab-6b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"5\" role=\"group\" aria-label=\"6 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3330px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/kafe-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Кафе, рестораны\"> </div> </div> <div id=\"bdt-tab-7b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"6\" role=\"group\" aria-label=\"7 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3885px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/pitanie-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Здоровое питание\"> </div> </div> <div id=\"bdt-tab-8b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"7\" role=\"group\" aria-label=\"8 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4440px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/sport-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Фитнес центры и SPA\"> </div> </div> <div id=\"bdt-tab-9b4c2d3d\" class=\"swiper-slide\" data-swiper-slide-index=\"8\" role=\"group\" aria-label=\"9 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4995px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/klining-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Клининговые услуги\"> </div> </div> <div id=\"bdt-tab-10b4c2d3d\" class=\"swiper-slide swiper-slide-duplicate-prev\" data-swiper-slide-index=\"9\" role=\"group\" aria-label=\"10 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-5550px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/obrazovanie-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Образование, курсы и прочие онлайн-услуги\"> </div> </div> <div id=\"bdt-tab-1b4c2d3d\" class=\"swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active\" data-swiper-slide-index=\"0\" role=\"group\" aria-label=\"1 / 10\" style=\"width: 555px; transition-duration: 0ms; opacity: 0; transform: translate3d(-6105px, 0px, 0px);\"> <div class=\"bdt-interactive-tabs-main-img\"> <img decoding=\"async\" width=\"900\" height=\"550\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/tehnika-900x550.jpg\" class=\"attachment-techno-blog-single size-techno-blog-single\" alt=\"Электроника и бытовая техника\"> </div> </div></div> <span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div> <div class=\"bdt-position-z-index bdt-position-bottom-left bdt-visible@m\"> <div class=\"bdt-arrows-container bdt-slidenav-container\"> <a href=\"\" class=\"bdt-navigation-prev bdt-slidenav-previous bdt-icon bdt-slidenav\" tabindex=\"0\" role=\"button\" aria-label=\"Previous slide\" aria-controls=\"swiper-wrapper-4027837e4b58ee68\"> <i class=\"ep-icon-arrow-left-circle-4\" aria-hidden=\"true\"></i> </a> <a href=\"\" class=\"bdt-navigation-next bdt-slidenav-next bdt-icon bdt-slidenav\" tabindex=\"0\" role=\"button\" aria-label=\"Next slide\" aria-controls=\"swiper-wrapper-4027837e4b58ee68\"> <i class=\"ep-icon-arrow-right-circle-4\" aria-hidden=\"true\"></i> </a> </div> </div> </div> </div> ",
+     "images": [
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/obrazovanie-900x550.jpg",
+       "alt": "Образование, курсы и прочие онлайн-услуги",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/tehnika-900x550.jpg",
+       "alt": "Электроника и бытовая техника",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/parfyumeriya-900x550.jpg",
+       "alt": "Косметика, парфюмерия и бьюти оборудование",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/odezhda-900x550.jpg",
+       "alt": "Одежда и аксессуары",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/yuvelirka-900x550.jpg",
+       "alt": "Ювелирные изделия",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/tovary-dlya-doma-900x550.jpg",
+       "alt": "Товары для дома и повседневного спроса",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/kafe-900x550.jpg",
+       "alt": "Кафе, рестораны",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/pitanie-900x550.jpg",
+       "alt": "Здоровое питание",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/sport-900x550.jpg",
+       "alt": "Фитнес центры и SPA",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/klining-900x550.jpg",
+       "alt": "Клининговые услуги",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/obrazovanie-900x550.jpg",
+       "alt": "Образование, курсы и прочие онлайн-услуги",
+       "w": 900,
+       "h": 550
+      },
+      {
+       "src": "https://myfirms.ru/wp-content/uploads/2024/04/tehnika-900x550.jpg",
+       "alt": "Электроника и бытовая техника",
+       "w": 900,
+       "h": 550
+      }
+     ],
+     "links": [
+      {
+       "text": "",
+       "href": ""
+      },
+      {
+       "text": "",
+       "href": ""
+      }
+     ],
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
     }
    ]
   },
   {
+   "type": "section",
    "id": "8ee76f0",
+   "width": 1440,
    "height": 503,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "66eb54c",
      "width": 570,
+     "height": 440,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "5a5ab5c",
@@ -192,9 +311,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "d34ff6c",
      "width": 570,
+     "height": 440,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "aaab7de",
@@ -213,16 +335,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "4a05106",
+       "width": 538,
        "height": 182,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "25dda18",
          "width": 538,
+         "height": 182,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "text-editor.default",
            "id": "99482be",
@@ -267,17 +392,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "809ed9c",
+   "width": 1440,
    "height": 360,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "7944a92",
      "width": 493,
+     "height": 297,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image.default",
        "id": "e677cc3",
@@ -320,8 +449,8 @@
        "images": [
         {
          "src": "https://myfirms.ru/wp-content/uploads/2024/03/icon-dzen.png",
-         "w": 98,
-         "h": 98
+         "w": 0,
+         "h": 0
         }
        ],
        "style": {
@@ -356,8 +485,8 @@
        "images": [
         {
          "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-youtube-play-96-80x80.png",
-         "w": 80,
-         "h": 80
+         "w": 0,
+         "h": 0
         }
        ],
        "style": {
@@ -371,9 +500,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "a896080",
      "width": 783,
+     "height": 297,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "5740c4d",
@@ -429,35 +561,45 @@
      ]
     },
     {
+     "type": "column",
+     "id": "40679f3",
      "width": 49,
+     "height": 297,
      "bg": {},
-     "items": []
+     "children": []
     }
    ]
   },
   {
+   "type": "section",
    "id": "f1877b3",
+   "width": 1440,
    "height": 210,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "6462b43",
      "width": 1140,
+     "height": 150,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "2ff2177",
+       "width": 1120,
        "height": 130,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "d52f873",
          "width": 1120,
+         "height": 130,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "heading.default",
            "id": "c9418a6",
@@ -550,18 +692,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "cba8d42",
+   "width": 1440,
    "height": 433,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "69d9abd",
      "width": 648,
+     "height": 433,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "c706aac",
@@ -647,9 +793,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "89b5974",
      "width": 492,
+     "height": 433,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "ed50997",
@@ -731,17 +880,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "a168311",
+   "width": 1440,
    "height": 470,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "7f3134f",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "video.default",
        "id": "3650c3d",
@@ -757,20 +910,26 @@
      ]
     },
     {
+     "type": "column",
+     "id": "232da0d",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "bc142b5",
+       "width": 700,
        "height": 248,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "52eb7d9",
          "width": 502,
+         "height": 248,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "0ac3ddc",
@@ -791,9 +950,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "e167e37",
          "width": 194,
+         "height": 248,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       }

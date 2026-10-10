@@ -1,0 +1,19 @@
+:root {
+  --content-max: 1140px;
+  --content-wide: 1320px;
+  --side-pad: 16px;
+  --section-pad: clamp(48px, 6vw, 80px);
+  --section-pad-sm: clamp(32px, 4vw, 48px);
+  --gap-xs: 8px;
+  --gap-sm: 12px;
+  --gap-md: 20px;
+  --gap-lg: 32px;
+  --gap-xl: 48px;
+  --header-h: 96px;
+
+  /* Reference only — media queries hardcode these; JS imports lib/tokens/breakpoints.ts. */
+  --bp-mobile: 640px;
+  --bp-tablet: 768px;
+  --bp-nav: 1024px;
+  --bp-desktop: 1200px;
+}

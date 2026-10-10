@@ -1,0 +1,55 @@
+---
+/** "Истории о наших проектах" — case cards on the lavender band. */
+import type { Block } from '../../../content.config';
+import { portfolioFiltersRepository, portfolioRepository } from '../../../lib/repository';
+import PortfolioCard from '../cards/PortfolioCard.astro';
+import Button from '../foundation/Button.astro';
+import Section from '../foundation/Section.astro';
+import Title from '../widgets/Title.astro';
+
+type Props = Extract<Block, { type: 'portfolio' }>;
+
+const { title, items, link } = Astro.props;
+const filters = new Map((await portfolioFiltersRepository.getAll()).map((f) => [f.id, f.data.name]));
+const cases = (await Promise.all(items.map((i) => portfolioRepository.getBySlug(i.id)))).filter((c) => c !== undefined);
+---
+
+<Section background="lavender">
+  {title && <div class="head"><Title text={title} align="center" /></div>}
+  <div class="grid">
+    {cases.map((c) => <PortfolioCard href={`/portfolio-item/${c.id}/`} title={c.data.title} image={c.data.image} category={filters.get(c.data.filters[0]?.id ?? '')} />)}
+  </div>
+  {link && <div class="more"><Button href={link.href}>{link.label}</Button></div>}
+</Section>
+
+<style>
+  .head {
+    margin-bottom: var(--gap-lg);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .more {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--gap-lg);
+  }
+
+  @media (max-width: 1023px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 559px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

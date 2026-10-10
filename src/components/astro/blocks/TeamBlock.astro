@@ -1,0 +1,148 @@
+---
+/** Team slider: 3 cards per view on desktop (as on WP), swipe on mobile. */
+import { Image } from 'astro:assets';
+import type { Block } from '../../../content.config';
+import { asset } from '../../../lib/assets';
+import { teamRepository } from '../../../lib/repository';
+import Icon from '../foundation/Icon.astro';
+import Section from '../foundation/Section.astro';
+import Title from '../widgets/Title.astro';
+
+type Props = Extract<Block, { type: 'team' }>;
+
+const { title, lead, background, members } = Astro.props;
+const people = await Promise.all(
+  members.map(async (m) => {
+    const entry = await teamRepository.getBySlug(m.member.id);
+    if (!entry) throw new Error(`Unknown team member ${m.member.id}`);
+    return { ...entry.data, role: m.role };
+  }),
+);
+---
+
+<Section background={background}>
+  {title && <div class="head"><Title text={title} lead={lead} align="center" /></div>}
+  <div class="team" data-carousel>
+    <ul class="track" data-carousel-track>
+      {
+        people.map((p) => (
+          <li class="person">
+            <Image src={asset(p.photo)} alt={p.name} widths={[360, 560]} sizes="(max-width: 767px) 80vw, 360px" class="photo" />
+            <div class="caption">
+              <p class="name">{p.name}</p>
+              <p class="role">{p.role}</p>
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+    {
+      people.length > 3 && (
+        <>
+          <button type="button" class="nav nav--prev" data-carousel-prev aria-label="Предыдущие сотрудники">
+            <Icon name="chevron-left" size={30} />
+          </button>
+          <button type="button" class="nav nav--next" data-carousel-next aria-label="Следующие сотрудники">
+            <Icon name="chevron-right" size={30} />
+          </button>
+        </>
+      )
+    }
+  </div>
+</Section>
+
+<script>
+  import '../../../scripts/carousel';
+</script>
+
+<style>
+  .head {
+    margin-bottom: var(--gap-lg);
+  }
+
+  .team {
+    position: relative;
+  }
+
+  .track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: calc((100% - 2 * 12px) / 3);
+    gap: 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .person {
+    display: flex;
+    flex-direction: column;
+    background: var(--white);
+    scroll-snap-align: start;
+  }
+
+  .person :global(.photo) {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 4px 4px 0 0;
+  }
+
+  .caption {
+    padding: 10px 12px 14px;
+    text-align: center;
+  }
+
+  .name {
+    margin: 0;
+    font: 400 24px/1.25 var(--font-sans);
+    color: var(--navy-900);
+  }
+
+  .role {
+    margin: 2px 0 0;
+    font-size: 14px;
+    line-height: 1.35;
+    color: var(--color-accent);
+  }
+
+  .nav {
+    position: absolute;
+    top: 38%;
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 56px;
+    border: 0;
+    background: rgb(255 255 255 / 0.85);
+    color: var(--navy-900);
+    cursor: pointer;
+  }
+
+  .nav--prev {
+    left: 0;
+  }
+
+  .nav--next {
+    right: 0;
+  }
+
+  @media (max-width: 1023px) {
+    .track {
+      grid-auto-columns: calc((100% - 12px) / 2);
+    }
+  }
+
+  @media (max-width: 559px) {
+    .track {
+      grid-auto-columns: 82%;
+    }
+  }
+</style>

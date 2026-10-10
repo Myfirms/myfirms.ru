@@ -1,0 +1,488 @@
+{
+ "path": "/",
+ "h1": "Главная",
+ "seo": {
+  "title": "Главная — MyFirms",
+  "description": ""
+ },
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "title": "Привлечем клиентов",
+     "subtitle": "из интернета",
+     "points": [
+      "Настроим рекламу под ключ",
+      "Продвинем сайт в топ-10",
+      "Настроим сквозную аналитику",
+      "Запустим PR кампанию"
+     ],
+     "link": {
+      "label": "Подробнее",
+      "href": "/marketing/"
+     }
+    },
+    {
+     "title": "Выведем бизнес",
+     "subtitle": "на новый уровень",
+     "points": [
+      "Проведем анализ рынка и составим план по его охвату",
+      "Разместим товары на маркетплейсах",
+      "Поможем с освоением зарубежных рынков"
+     ],
+     "link": {
+      "label": "Подробнее",
+      "href": "/marketing/"
+     }
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Маркетинговое агентство MyFirms",
+         "level": "h2",
+         "lead": "<p>Мы создадим для вас отдел маркетинга на аутсорсе. И привлечем только необходимых специалистов для достижения результата, измеримого в продажах и выручке.</p>",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 4,
+         "items": [
+          {
+           "iconName": "network-1",
+           "title": "Реклама в интернете",
+           "text": "Запустим поток заявок с контекстной и таргетированной рекламы.",
+           "href": "/marketing/reklama-v-internete/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "support-6",
+           "title": "SEO продвижение сайта",
+           "text": "Приведем потенциальных клиентов на ваш сайт из поисковых систем Яндекса и Google.",
+           "href": "/marketing/seo_prodvizhenie/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "networking",
+           "title": "SMM продвижение",
+           "text": "Найдем подписчиков в ваши сообщества и сделаем их вашими клиентами.",
+           "href": "/marketing/smm-prodvizhenie/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "user",
+           "title": "PR и контент-маркетинг",
+           "text": "Повысим узнаваемость бренда и продукта через электронные СМИ и соц. сети.",
+           "href": "/marketing/kontent-marketing-i-pr/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "59ErBbcQUyw",
+   "title": "Упаковка бизнеса",
+   "text": "<p>Мы сделаем ваш сайт полезным для вашей целевой аудитории. Выделим ваши ключевые преимущества перед конкурентами и расскажем о них понятным языком. Выберем подходящую стратегию маркетинга, с помощью которой будем захватывать рынок и увеличивать прибыль.</p>",
+   "link": {
+    "label": "Подробнее"
+   }
+  },
+  {
+   "type": "layout",
+   "background": "sand",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Продвижение товаров и услуг",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<ul><li><a href=\"/marketing/prodvizhenie-na-marketplejsah/\">Разработаем современный интернет-магазин или каталог услуг;</a></li><li>Разместим информацию в поисковых справочниках, картах, рейтингах и отзовиках;</li><li>Настроим учет остатков и бухгалтерский учет в 1С;</li><li><a href=\"/marketing/prodvizhenie-na-marketplejsah/\">Разместим ассортимент в маркетплейсах Wildberries, Ozon, Яндекс Маркет, СберМаркет и др;</a></li><li>Поможем с интеграцией торгового оборудования.</li></ul>",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2024/03/torgovyj.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/pppppppp.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/pppyyypp.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/vapva.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/ozon.jpg",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "НАШИ КОМПЕТЕНЦИИ",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2021/09/k04.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k08.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/ya_metrik150a.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/ggggczczczczcz.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k01.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/vk-165-reklama-yyylogo-3.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-gray",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/01/about2.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Мы работаем по модели perfomance",
+         "level": "h2",
+         "eyebrow": "О Компании",
+         "lead": "<p>MyFirms заинтересован в росте вашего бизнеса. Потому что наша система мотивации (KPI) включает вознаграждение за достижение измеримых маркетинговых и бизнес показателей: </p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "iconboxes",
+         "items": [
+          {
+           "iconName": "messages-square",
+           "title": "Количество заявок"
+          },
+          {
+           "iconName": "wallet",
+           "title": "Стоимость заявки"
+          },
+          {
+           "iconName": "money-1",
+           "title": "Доход с заявок"
+          },
+          {
+           "iconName": "time",
+           "title": "Окупаемость вложений"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Подробнее"
+         },
+         "variant": "primary"
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Улучшим ваши показатели",
+             "level": "h2",
+             "align": "left",
+             "onDark": false
+            },
+            {
+             "kind": "progress",
+             "items": [
+              {
+               "label": "Посетителей сайта",
+               "value": 90
+              },
+              {
+               "label": "Конверсия сайта",
+               "value": 65
+              },
+              {
+               "label": "Заявок на сайте",
+               "value": 80
+              },
+              {
+               "label": "Конверсия в продажи",
+               "value": 70
+              },
+              {
+               "label": "Количество продаж",
+               "value": 85
+              },
+              {
+               "label": "Средний чек",
+               "value": 75
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2022/04/single-img2.jpg",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 5,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "У нас достаточно опыта для реализации проекта любого масштаба и сложности",
+         "level": "h2",
+         "lead": "<p>Мы накопили внушительный опыт развития бизнесов в разных сферах: IT-сервисы, финансовый сектор, строительство, медицина, бьюти-индустрия, сельское хозяйство, сфера образования и др. </p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 7,
+       "widgets": [
+        {
+         "kind": "counters",
+         "items": [
+          {
+           "iconName": "trending-up",
+           "value": "15",
+           "suffix": "+",
+           "label": "лет на рынке маркетинга и IT"
+          },
+          {
+           "iconName": "lightbulb",
+           "value": "200",
+           "suffix": "+",
+           "label": "реализованных проектов"
+          },
+          {
+           "iconName": "temporary-agency",
+           "value": "1",
+           "suffix": "млн+",
+           "label": "приведенных клиентов"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "portfolio",
+   "items": [
+    "servis-po-onlain-bronirovaniyu-otelei",
+    "prilozhenie-dlya-hr-speczialistov",
+    "kancelyarskij-mir",
+    "avtomaticheskie-kormushki-dlya-zhivotnyh",
+    "finansovyj-ehkspert",
+    "byuti-lain"
+   ],
+   "link": {
+    "label": "Все проекты",
+    "href": "/portfolio/"
+   },
+   "title": "Истории о наших проектах"
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "kristina-nizamova",
+     "role": "Руководитель группы веб-аналитиков"
+    },
+    {
+     "member": "andrey-shevchenko",
+     "role": "Руководитель группы SEO-специалистов"
+    },
+    {
+     "member": "irina-pavlova",
+     "role": "Главный редактор"
+    },
+    {
+     "member": "sergey-shestov",
+     "role": "Руководитель группы таргетологов"
+    },
+    {
+     "member": "kamila-muratova",
+     "role": "Руководитель группы PR-менеджеров"
+    },
+    {
+     "member": "anastasiya-orlova",
+     "role": "Руководитель группы SMM-специалистов"
+    },
+    {
+     "member": "yuliya-kim",
+     "role": "Координатор региональных медиа-агентств"
+    }
+   ],
+   "title": "Наша команда экспертов",
+   "lead": "<p>В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.</p>"
+  },
+  {
+   "type": "lessons",
+   "title": "Обучающие материалы по маркетингу и развитию бизнеса",
+   "lead": "<p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p>",
+   "link": {
+    "label": "Все уроки"
+   },
+   "items": [
+    {
+     "title": "Бесплатные уроки по интернет маркетингу для владельцев бизнесов, предпринимателей и руководителей"
+    },
+    {
+     "title": "Как устроен маркетинг в интернете. Коротко про контекстную рекламу, таргетинг, SEO и SMM"
+    },
+    {
+     "title": "Что такое системный маркетинг? Как увеличивать продажи с помощью планирования?"
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  }
+ ]
+}

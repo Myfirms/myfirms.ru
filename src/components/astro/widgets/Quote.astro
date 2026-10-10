@@ -1,0 +1,27 @@
+---
+/** Highlighted statement box (WP blockquote). */
+interface Props {
+  text: string;
+}
+
+const { text } = Astro.props;
+---
+
+<blockquote class="quote"><p>{text}</p></blockquote>
+
+<style>
+  .quote {
+    margin: 0;
+    padding: 26px 30px;
+    border-left: 4px solid var(--color-accent);
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+  }
+
+  .quote p {
+    margin: 0;
+    font-size: var(--text-body-lg);
+    line-height: 1.55;
+    color: #313131;
+  }
+</style>

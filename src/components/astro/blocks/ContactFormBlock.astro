@@ -1,0 +1,72 @@
+---
+/** "Готовы обсудить условия?" — photo + extended request form (light sky background). */
+import { Image } from 'astro:assets';
+import { asset } from '../../../lib/assets';
+import RequestForm from '../../react/RequestForm';
+import Section from '../foundation/Section.astro';
+
+interface Props {
+  title: string;
+  source?: 'section' | 'case-study';
+}
+
+const { title, source = 'section' } = Astro.props;
+---
+
+<Section background="contact" aria-labelledby="contact-form-title">
+  <div class="grid">
+    <div class="photo">
+      <Image src={asset('wp/2022/01/contact-shape1.png')} alt="" class="arrow" width={160} height={160} />
+      <Image src={asset('wp/2024/03/phojczjto.png')} alt="Основатель MyFirms с книгой «Системный маркетинг»" widths={[480, 720, 1000]} sizes="(max-width: 767px) 100vw, 560px" class="man" />
+    </div>
+    <div class="form">
+      <h2 id="contact-form-title">{title}</h2>
+      <RequestForm client:visible source={source} extended />
+    </div>
+  </div>
+</Section>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--gap-xl);
+    align-items: center;
+  }
+
+  .photo {
+    position: relative;
+    align-self: end;
+  }
+
+  .photo :global(.man) {
+    width: 100%;
+    height: auto;
+  }
+
+  .photo :global(.arrow) {
+    position: absolute;
+    top: -4%;
+    right: 10%;
+    width: 24%;
+    height: auto;
+  }
+
+  h2 {
+    margin-bottom: 22px;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 767px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+
+    .photo {
+      order: 2;
+      max-width: 420px;
+    }
+  }
+</style>

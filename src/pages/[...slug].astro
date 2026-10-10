@@ -1,0 +1,46 @@
+---
+/**
+ * Every content page except home and the portfolio listing (those have
+ * their own routes): /marketing/, the service pages, /o-kompanii/,
+ * /contacts/. URLs are the WP URLs 1:1 (content `path`).
+ */
+import type { GetStaticPaths } from 'astro';
+import Blocks from '../components/astro/blocks/Blocks.astro';
+import SiteLayout from '../layouts/SiteLayout.astro';
+import type { BreadcrumbItem } from '../lib/contracts/breadcrumbs';
+import { pagesRepository } from '../lib/repository';
+
+export const getStaticPaths = (async () => {
+  const pages = await pagesRepository.getAll();
+  const byPath = new Map(pages.map((p) => [p.data.path, p]));
+  return pages
+    .filter((p) => p.data.path !== '/' && p.data.path !== '/portfolio/')
+    .map((p) => {
+      const crumbs: BreadcrumbItem[] = [{ label: 'Главная', href: '/' }];
+      const parent = p.data.parent && byPath.get(p.data.parent);
+      if (parent) crumbs.push({ label: parent.data.crumb ?? parent.data.h1, href: parent.data.path });
+      crumbs.push({ label: p.data.crumb ?? p.data.h1, href: p.data.path });
+      return { params: { slug: p.data.path.slice(1, -1) }, props: { page: p.data, crumbs } };
+    });
+}) satisfies GetStaticPaths;
+
+const { page, crumbs } = Astro.props;
+const site = (Astro.site ?? new URL('https://myfirms.ru')).toString();
+const jsonLd = page.service
+  ? [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'Service',
+        name: page.h1,
+        description: page.seo.description,
+        provider: { '@type': 'Organization', name: 'MyFirms', url: site },
+        areaServed: 'RU',
+        url: new URL(page.path, site).toString(),
+      },
+    ]
+  : [];
+---
+
+<SiteLayout seo={page.seo} h1={page.h1} crumbs={crumbs} jsonLd={jsonLd}>
+  <Blocks blocks={page.blocks} />
+</SiteLayout>

@@ -1,0 +1,56 @@
+---
+/**
+ * Page banner — H1 + breadcrumbs on the navy "slider-7" background, as on
+ * every inner WP page. The header overlays its top part.
+ */
+import { getImage } from 'astro:assets';
+import { asset } from '../../../lib/assets';
+import type { BreadcrumbItem } from '../../../lib/contracts/breadcrumbs';
+import Breadcrumbs from '../foundation/Breadcrumbs.astro';
+
+interface Props {
+  title: string;
+  crumbs: BreadcrumbItem[];
+}
+
+const { title, crumbs } = Astro.props;
+const bg = await getImage({ src: asset('wp/2022/01/slider-7.jpg'), width: 1920, format: 'webp', quality: 65 });
+---
+
+<div class="banner" style={`--banner-bg: url(${bg.src})`} data-surface="dark">
+  <h1>{title}</h1>
+  <Breadcrumbs items={crumbs} />
+</div>
+
+<style>
+  .banner {
+    display: grid;
+    justify-items: center;
+    gap: 22px;
+    padding: calc(var(--header-h) + 70px) var(--side-pad) 50px;
+    background: var(--surface-banner) var(--banner-bg) center / cover no-repeat;
+    text-align: center;
+  }
+
+  h1 {
+    max-width: 900px;
+    font-size: var(--text-banner);
+    font-weight: 600;
+    color: var(--white);
+  }
+
+  h1::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 2px;
+    margin: 16px auto 0;
+    background: var(--color-accent);
+  }
+
+  @media (max-width: 1023px) {
+    .banner {
+      padding-top: calc(76px + 48px);
+    }
+  }
+</style>

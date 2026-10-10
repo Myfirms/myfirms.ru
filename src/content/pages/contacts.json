@@ -1,0 +1,59 @@
+{
+ "path": "/contacts/",
+ "h1": "Контакты",
+ "seo": {
+  "title": "Контакты — MyFirms",
+  "description": ""
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "shape-gray",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Маркетинговое агентство MyFirms",
+         "level": "h2",
+         "lead": "<p>Мы принимаем заказы по России и за рубежом. Для связи с нами напишите или позвоните нам по указанным ниже контактам.</p>",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 2,
+         "items": [
+          {
+           "iconName": "mail",
+           "title": "Написать нам",
+           "text": "info@myfirms.ru"
+          },
+          {
+           "iconName": "map-pin",
+           "title": "Наш адрес",
+           "text": "Тула, Болдина 98, офис 607"
+          }
+         ]
+        },
+        {
+         "kind": "text",
+         "html": "<p>Мы готовы созвониться с вами по Zoom, Google meet, Skype, Teams или Discord. При необходимости можем организовать встречу очно с нашим менеджером.</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "requisites",
+   "title": "Реквизиты компании в России"
+  }
+ ]
+}

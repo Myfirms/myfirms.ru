@@ -1,0 +1,46 @@
+---
+/** Legal documents (src/content/legal/*.md): policy, consent, offer. */
+import type { GetStaticPaths } from 'astro';
+import { render } from 'astro:content';
+import Section from '../components/astro/foundation/Section.astro';
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { legalRepository } from '../lib/repository';
+
+export const getStaticPaths = (async () => {
+  const docs = await legalRepository.getAll();
+  return docs.map((d) => ({ params: { legal: d.data.path.slice(1, -1) }, props: { doc: d } }));
+}) satisfies GetStaticPaths;
+
+const { doc } = Astro.props;
+const { Content } = await render(doc);
+const updated = new Date(doc.data.updated).toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', year: 'numeric' });
+const crumbs = [
+  { label: 'Главная', href: '/' },
+  { label: doc.data.title, href: doc.data.path },
+];
+---
+
+<SiteLayout seo={doc.data.seo} h1={doc.data.title} crumbs={crumbs}>
+  <Section background="white">
+    <article class="doc prose">
+      <p class="updated">Редакция от {updated}</p>
+      <Content />
+    </article>
+  </Section>
+</SiteLayout>
+
+<style>
+  .doc {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .updated {
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+  }
+
+  .doc :global(h2) {
+    font-size: 22px;
+  }
+</style>

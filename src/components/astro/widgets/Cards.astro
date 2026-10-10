@@ -1,0 +1,137 @@
+---
+/**
+ * Feature cards (WP "feature" widgets laid out in columns): icon, title,
+ * optional text and "Подробнее" link. On WP the /marketing/ grid had cards
+ * of different widths and heights; here every row is an even grid with
+ * equal-height cards.
+ */
+import { Image } from 'astro:assets';
+import { asset } from '../../../lib/assets';
+import Icon from '../foundation/Icon.astro';
+
+interface Props {
+  columns: number;
+  items: { icon?: string; iconName?: string; title: string; text?: string; href?: string; linkLabel?: string }[];
+}
+
+const { columns, items } = Astro.props;
+const cols = Math.min(columns, 4);
+---
+
+<ul class="cards" style={`--cols: ${cols}`}>
+  {
+    items.map((item, i) => (
+      <li class:list={['card', item.href && 'card--link', `tone-${i % 4}`]}>
+        {(item.icon || item.iconName) && (
+          <span class="icon">
+            {item.icon ? <Image src={asset(item.icon)} alt="" width={52} height={52} /> : <Icon name={item.iconName!} size={34} />}
+          </span>
+        )}
+        <h3 class="card-title">{item.href ? <a href={item.href}>{item.title}</a> : item.title}</h3>
+        {item.text && <p class="text">{item.text}</p>}
+        {item.href && (
+          <span class="more" aria-hidden="true">
+            {item.linkLabel ?? 'Подробнее'}
+          </span>
+        )}
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 32px 22px 26px;
+    border-radius: var(--card-radius);
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+    transition:
+      box-shadow var(--transition),
+      transform var(--transition);
+  }
+
+  .card--link:hover {
+    box-shadow: var(--shadow-card-hover);
+    transform: translateY(-3px);
+  }
+
+  .icon {
+    display: grid;
+    place-items: center;
+    width: 66px;
+    height: 66px;
+    border-radius: 50%;
+    background: var(--white);
+    box-shadow: 0 6px 20px rgb(30 60 220 / 0.12);
+    color: var(--blue-500);
+  }
+
+  /* WP used multi-colour Flaticon glyphs; cycle the same four hues. */
+  .tone-0 .icon {
+    color: var(--blue-500);
+  }
+
+  .tone-1 .icon {
+    color: #a219ff;
+  }
+
+  .tone-2 .icon {
+    color: var(--green-500);
+  }
+
+  .tone-3 .icon {
+    color: var(--navy-900);
+  }
+
+  .card-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--navy-900);
+  }
+
+  /* Whole card is clickable; the heading link carries the accessible name. */
+  .card-title a::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .text {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .more {
+    margin-top: auto;
+    padding-top: 12px;
+    font: 700 13px/1 var(--font-display);
+    text-transform: uppercase;
+    color: var(--color-link);
+  }
+
+  @media (max-width: 1023px) {
+    .cards {
+      grid-template-columns: repeat(min(var(--cols), 2), minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 559px) {
+    .cards {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

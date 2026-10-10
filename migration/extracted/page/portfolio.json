@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "ebbaf5f",
+   "width": 1440,
    "height": 1199,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "01ad855",
      "width": 1036,
+     "height": 1136,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "posts.cards",
        "id": "85eae20",
@@ -218,9 +222,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "1f21041",
      "width": 363,
+     "height": 1136,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sidebar.default",
        "id": "08514df",

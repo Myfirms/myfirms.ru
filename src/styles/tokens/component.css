@@ -1,0 +1,9 @@
+:root {
+  --btn-h: 56px;
+  --btn-pad-x: 30px;
+  --btn-radius: 5px;
+  --btn-font: 700 18px/1 var(--font-display);
+  --input-h: 54px;
+  --input-radius: 5px;
+  --card-radius: var(--radius-md);
+}

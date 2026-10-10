@@ -1,0 +1,80 @@
+---
+/** Generic Elementor-section block: rows of 12-column grids holding widgets. */
+import type { Block } from '../../../content.config';
+import Section from '../foundation/Section.astro';
+import Widgets from '../widgets/Widgets.astro';
+
+type Props = Extract<Block, { type: 'layout' }>;
+
+const { background, rows } = Astro.props;
+---
+
+<Section background={background}>
+  <div class="rows">
+    {
+      rows.map((row) =>
+        row.columns.length === 1 ? (
+          <div class="col">
+            <Widgets widgets={row.columns[0].widgets} />
+          </div>
+        ) : (
+          <div class:list={['row', row.reverseOnMobile && 'row--reverse']}>
+            {row.columns.map((c) => (
+              <div class="col" style={`--span: ${c.span}`}>
+                <Widgets widgets={c.widgets} />
+              </div>
+            ))}
+          </div>
+        ),
+      )
+    }
+  </div>
+</Section>
+
+<style>
+  .rows {
+    display: grid;
+    gap: var(--gap-xl);
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: var(--gap-xl);
+    align-items: center;
+  }
+
+  .col {
+    display: grid;
+    align-content: start;
+    gap: var(--gap-md);
+    min-width: 0;
+  }
+
+  /* Span only inside a multi-column row — on a single-column .col it would
+   * create 12 implicit tracks in .rows and push rows side by side. */
+  .row > .col {
+    grid-column: span var(--span);
+    align-content: center;
+  }
+
+  @media (max-width: 1023px) {
+    .row {
+      gap: var(--gap-lg);
+    }
+  }
+
+  @media (max-width: 767px) {
+    .row {
+      grid-template-columns: 1fr;
+    }
+
+    .row > .col {
+      grid-column: auto;
+    }
+
+    .row--reverse > .col:first-child {
+      order: 2;
+    }
+  }
+</style>

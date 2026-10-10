@@ -1,0 +1,310 @@
+{
+ "path": "/marketing/video-reklama/",
+ "h1": "Настройка видеорекламы",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Настройка видеорекламы — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 4,
+  "menuLabel": "Настройка видеорекламы"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Видеомаркетинг",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Повысим узнаваемость вашего бренда через видеомаркетинг. Мы познакомим с вашим товаром или услугой широкую аудиторию видеосети YouTube и VK. С помощью коротких видеороликов на вашем канале, а также через видеорекламу мы донесем ценность вашего продукта и завоюем доверие ваших потенциальных клиентов. Это в конечном итоге принесет вам больше продаж.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/12388.jpg",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-vk-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-telegramma-app-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icon-dzen.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/zzz.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/icons8-odnoklassniki-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/icons8-odnoklassniki-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-youtube-play-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Где будет показываться ваша реклама",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "pin",
+         "items": [
+          {
+           "text": "YouTube (медийная реклама временно недоступна в РФ, но возможно продвижение через свой канал и нативное размещение у блогеров)",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Вконтакте"
+          },
+          {
+           "text": "Одноклассники"
+          },
+          {
+           "text": "Видеосеть Яндекса (реклама в электронных СМИ, блогах, тематических сайтах и др.)"
+          },
+          {
+           "text": "Зарубежные соц. сети и сервисы (работающие за пределами РФ)"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/13581.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Какие преимущества вы получите от видеомаркетинга",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Вы обретете свою лояльную аудиторию, которая не только впоследствии станет вашими клиентами, но и будет активно делиться вашими видео с друзьями, коллегами и знакомыми. Мы создаем видео под интересы вашей целевой аудитории, делаем их яркими, запоминающимися и эмоциональными. Видеореклама будет показываться тем, кто с наибольшей вероятностью станет вашим клиентом в будущем или вашим подписчиком в настоящем. Наши креативные видео захватывают внимание с первых секунд и удерживают зрителя до конца видеоролика. </p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Как мы будем анализировать результат",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "steps",
+         "items": [
+          {
+           "num": "01",
+           "text": "Post-view заявки - когда пользователь смотрит какое-либо видео, видит рекламу, по которой не переходит но запоминает ее, и позже переходит из любого другого источника на ваш сайт, где оформляет заказ;"
+          },
+          {
+           "num": "02",
+           "text": "Post-click заявки - когда пользователь смотрит видео, ему отображается реклама, по которой он переходит на сайт и либо сразу совершает заказ, либо делает это спустя время, когда будет готов к покупке."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Стоимость услуг видеомаркетинга",
+         "level": "h2",
+         "lead": "<p>Создание видеороликов о продукте и рекламных видеороликов достаточно дорогое мероприятие. Производство подобного контента и его распространение стоит от 500 000 руб. в мес. в зависимости от выбранного формата видеоролика (рекламное 15 сек, имиджевое 1 мин., информационно-познавательное до 30 мин. и др.) и способа продвижения (через рекламную сеть или через собственный канал и блогеров). Для каждого типа бизнеса мы разрабатываем индивидуальный медиаплан, который сможет дать максимальный эффект. Рассчитать стоимость поможет менеджер с опытом продвижения в вашем бизнесе.</p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/yvayva.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "GUu7_1rGf6U",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как привлекать клиентов через YouTube. Как раскрутить ютуб канал для бизнеса. Продвижение бренда и реклама продукта через видео контент.</p>"
+  }
+ ]
+}

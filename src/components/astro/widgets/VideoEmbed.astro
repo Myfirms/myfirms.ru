@@ -1,0 +1,84 @@
+---
+/**
+ * YouTube video as a lightweight facade: a poster + play button, the
+ * iframe (youtube-nocookie) is injected only on click. On WP the embeds
+ * rendered as black boxes until the heavy player loaded.
+ */
+interface Props {
+  youtubeId: string;
+  title?: string;
+}
+
+const { youtubeId, title = 'Видео MyFirms' } = Astro.props;
+const poster = `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg`;
+---
+
+<div class="video" data-youtube={youtubeId}>
+  <button type="button" class="play" aria-label={`Смотреть видео: ${title}`}>
+    <img src={poster} alt="" loading="lazy" decoding="async" width="480" height="360" />
+    <span class="icon" aria-hidden="true">
+      <svg viewBox="0 0 68 48" width="68" height="48"><path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C55.3.3 34 .3 34 .3s-21.3 0-26.5 1.4a8.5 8.5 0 0 0-6 6C.1 13 .1 24 .1 24s0 11 1.4 16.3a8.5 8.5 0 0 0 6 6C12.7 47.7 34 47.7 34 47.7s21.3 0 26.5-1.4a8.5 8.5 0 0 0 6-6C67.9 35 67.9 24 67.9 24s0-11-1.4-16.3z" fill="#ed2c41"></path><path d="M45 24 27 14v20z" fill="#fff"></path></svg>
+    </span>
+  </button>
+</div>
+
+<script>
+  import { trackGoal } from '../../../lib/analytics/track';
+
+  document.querySelectorAll<HTMLElement>('[data-youtube]').forEach((box) => {
+    box.querySelector('button')?.addEventListener('click', () => {
+      const id = box.dataset.youtube!;
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;
+      iframe.title = box.querySelector('button')?.getAttribute('aria-label') ?? 'Видео';
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      iframe.allowFullscreen = true;
+      box.replaceChildren(iframe);
+      trackGoal('youtube_click', { id });
+    });
+  });
+</script>
+
+<style>
+  .video {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #000;
+  }
+
+  .play {
+    position: absolute;
+    inset: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+  }
+
+  .play img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform var(--transition);
+  }
+
+  .play:hover .icon {
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+
+  .video :global(iframe) {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>

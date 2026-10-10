@@ -1,0 +1,379 @@
+{
+ "path": "/marketing/reklama-u-blogerov/",
+ "h1": "Реклама у блогеров",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Реклама у блогеров — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 5,
+  "menuLabel": "Реклама у блогеров"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Нативная реклама в социальных сетях",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Превратим подписчиков популярных блогеров в ваших клиентов. Пользователи социальных сетей регулярно просматривают контент каналов, на которые подписаны. Рекомендация инфлюенсера делают ваш продукт популярным. Подписчики лучше запоминают ваш бренд, так как доверяют мнению своего кумира.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/vysyvsyv.jpg",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Кому подходит реклама у блогеров",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "tabs",
+         "items": [
+          {
+           "title": "Электроника и бытовая техника",
+           "html": ""
+          },
+          {
+           "title": "Косметика, парфюмерия и бьюти оборудование",
+           "html": ""
+          },
+          {
+           "title": "Одежда и аксессуары",
+           "html": ""
+          },
+          {
+           "title": "Ювелирные изделия",
+           "html": ""
+          },
+          {
+           "title": "Товары для дома и повседневного спроса",
+           "html": ""
+          },
+          {
+           "title": "Кафе, рестораны",
+           "html": ""
+          },
+          {
+           "title": "Здоровое питание",
+           "html": ""
+          },
+          {
+           "title": "Фитнес центры и SPA",
+           "html": ""
+          },
+          {
+           "title": "Клининговые услуги",
+           "html": ""
+          },
+          {
+           "title": "Образование, курсы и прочие онлайн-услуги",
+           "html": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2023/10/handsome-male-recoding-unboxing-video-at-home_23-2148581836.jpeg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Форматы инфлюенс-маркетинга",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<ul><li>Прямое упоминание о товаре, услуге или бренде;</li><li>Нативная интеграция, упоминание “невзначай”;</li><li>Обзор о продукте и его преимуществах перед конкурентами;</li><li>Официальный представитель (амбассадор)</li></ul>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-vk-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-telegramma-app-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icon-dzen.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/icons8-instagram-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-youtube-play-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "О вашем бренде узнают миллионы людей",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "pin",
+         "items": [
+          {
+           "text": "Telegram",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "YouTube"
+          },
+          {
+           "text": "Вконтакте"
+          },
+          {
+           "text": "Дзен"
+          },
+          {
+           "text": "Зарубежные соц. сети"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "НАШИ КОМПЕТЕНЦИИ",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2021/09/k13.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/ddd.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/uuuu.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-sky",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 7,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Стоимость рекламы у блогеров",
+         "level": "h2",
+         "lead": "<p>Цена зависит от популярности блогера и количества его подписчиков. Стартует с 10 000 руб. Однако в узких нишах, где аудитория блогера - предприниматели и руководители бизнеса, цена значительно выше. Обратитесь к менеджеру для расчета стоимости рекламы у блогеров в вашей нише.</p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        },
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 5,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/13585-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "8XjUQBh-bbM",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как социальные сети помогут вашему продукту обрести популярность среди аудитории. Какую целевую аудиторию нужно привлекать. Как устроены соц. сети Вконтакте, Телеграм и Одноклассники.</p>"
+  }
+ ]
+}

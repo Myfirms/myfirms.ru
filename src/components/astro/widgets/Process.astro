@@ -1,0 +1,65 @@
+---
+/**
+ * "Как мы работаем" — numbered process boxes with dotted frames. WP placed
+ * them in a hand-arranged zig-zag with arrow images that broke on narrow
+ * screens; here they flow in a 2-column grid with CSS arrows.
+ */
+interface Props {
+  items: { title: string; text: string }[];
+}
+
+const { items } = Astro.props;
+---
+
+<ol class="process">
+  {
+    items.map((s, i) => (
+      <li class="box">
+        <h3 class="box-title">
+          {i + 1}. {s.title}
+        </h3>
+        {s.text && <p class="box-text">{s.text}</p>}
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .process {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 28px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: step;
+  }
+
+  .box {
+    position: relative;
+    display: grid;
+    align-content: center;
+    gap: 10px;
+    min-height: 150px;
+    padding: 22px 24px;
+    border: var(--border-dotted);
+    background: var(--white);
+  }
+
+  .box-title {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .box-text {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 767px) {
+    .process {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,91 @@
+---
+/**
+ * Cookie / metrics notice. Яндекс.Метрика and GA set cookies, which are
+ * personal data under 152-ФЗ — the visitor is informed and pointed to the
+ * policy. Dismissal is remembered in localStorage (per-browser convenience).
+ */
+import { legalLinks } from '../../../lib/data/legal';
+---
+
+<div class="cookie" data-cookie-notice hidden role="region" aria-label="Уведомление о cookie">
+  <p>
+    Мы используем cookie и сервисы веб-аналитики (Яндекс.Метрика), чтобы сайт работал лучше. Продолжая пользоваться сайтом,
+    вы соглашаетесь с <a href={legalLinks.privacy}>политикой обработки персональных данных</a>.
+  </p>
+  <button type="button" data-cookie-accept>Понятно</button>
+</div>
+
+<script>
+  const KEY = 'mf-cookie-ok';
+  const box = document.querySelector<HTMLElement>('[data-cookie-notice]');
+  let seen = false;
+  try {
+    seen = localStorage.getItem(KEY) === '1';
+  } catch {
+    /* storage blocked — show the notice every visit */
+  }
+  if (box && !seen) {
+    box.hidden = false;
+    box.querySelector('[data-cookie-accept]')?.addEventListener('click', () => {
+      box.hidden = true;
+      try {
+        localStorage.setItem(KEY, '1');
+      } catch {
+        /* ignore */
+      }
+    });
+  }
+</script>
+
+<style>
+  .cookie {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    z-index: 60;
+    display: flex;
+    gap: var(--gap-md);
+    align-items: center;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 14px 18px;
+    border-radius: var(--radius-md);
+    background: var(--white);
+    box-shadow: 0 10px 40px rgb(0 0 0 / 0.2);
+    font-size: var(--text-small);
+    line-height: 1.45;
+  }
+
+  .cookie[hidden] {
+    display: none;
+  }
+
+  .cookie p {
+    margin: 0;
+  }
+
+  .cookie a {
+    color: var(--color-link);
+    text-decoration: underline;
+  }
+
+  .cookie button {
+    flex: none;
+    min-height: 40px;
+    padding: 0 18px;
+    border: 0;
+    border-radius: var(--radius-sm);
+    background: var(--color-primary);
+    color: var(--white);
+    font: 700 15px/1 var(--font-display);
+    cursor: pointer;
+  }
+
+  @media (max-width: 639px) {
+    .cookie {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>

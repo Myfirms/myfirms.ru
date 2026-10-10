@@ -27,11 +27,14 @@ for (const [group, url] of inv) {
     const clean = (s) => (s ?? '').replace(/\s+/g, ' ').trim();
     const bg = (el) => {
       const s = getComputedStyle(el);
+      // Some sections paint their colour on ::before (Steroids plugin overlays).
+      const pb = getComputedStyle(el, '::before');
+      const before = pb.content !== 'none' && pb.backgroundColor !== 'rgba(0, 0, 0, 0)' ? pb.backgroundColor : undefined;
       const img = s.backgroundImage.match(/url\("?([^")]+)/)?.[1];
       const ov = el.querySelector(':scope > .elementor-background-overlay');
       const os = ov && getComputedStyle(ov);
       return {
-        color: s.backgroundColor !== 'rgba(0, 0, 0, 0)' ? s.backgroundColor : undefined,
+        color: s.backgroundColor !== 'rgba(0, 0, 0, 0)' ? s.backgroundColor : before,
         image: img, gradient: s.backgroundImage.includes('gradient') ? s.backgroundImage : undefined,
         overlay: os && (os.backgroundColor !== 'rgba(0, 0, 0, 0)' || os.backgroundImage !== 'none')
           ? { color: os.backgroundColor, image: os.backgroundImage.slice(0, 200), opacity: os.opacity } : undefined,
@@ -59,16 +62,19 @@ for (const [group, url] of inv) {
       out.style = { color: st.color, fontSize: st.fontSize, fontWeight: st.fontWeight, fontFamily: st.fontFamily.split(',')[0], align: st.textAlign };
       return out;
     };
+    const EL = '.elementor-element, .elementor-column, .elementor-section, .e-con';
     const walk = (el) => {
-      // A section/container: its direct column children, each with widgets or nested sections.
-      const cols = [...el.querySelectorAll(':scope > .elementor-container > .elementor-column, :scope > .e-con-inner > .e-con, :scope > .e-con')];
+      if (el.classList.contains('elementor-widget')) return widget(el);
+      // Nearest Elementor descendants, regardless of wrapper markup
+      // (.elementor-container, .e-con-inner, swiper/glider slider wrappers).
+      const kids = [...el.querySelectorAll(EL)].filter((k) => k.parentElement.closest(EL) === el && !k.closest('.swiper-slide-duplicate'));
+      const settings = (() => { try { return JSON.parse(el.dataset.settings ?? '{}'); } catch { return {}; } })();
       return {
-        id: el.dataset.id, height: Math.round(el.getBoundingClientRect().height), bg: bg(el), cls: [...el.classList].filter((c) => /stretched|full_width|boxed|inner/.test(c)).join(' '),
-        columns: cols.map((c) => ({
-          width: Math.round(c.getBoundingClientRect().width), bg: bg(c.querySelector('.elementor-widget-wrap') ?? c),
-          items: [...(c.querySelector(':scope > .elementor-widget-wrap') ?? c).children].map((ch) =>
-            ch.classList.contains('elementor-widget') ? widget(ch) : ch.matches('.elementor-section,.e-con') ? { type: 'inner-section', ...walk(ch) } : null).filter(Boolean),
-        })),
+        type: el.classList.contains('elementor-column') ? 'column' : el.classList.contains('e-con') ? 'container' : 'section',
+        id: el.dataset.id, width: Math.round(el.getBoundingClientRect().width), height: Math.round(el.getBoundingClientRect().height),
+        bg: bg(el.querySelector(':scope > .elementor-widget-wrap') ?? el),
+        slider: settings._ob_glider_is_slider === 'yes' ? (settings._ob_glider_slides_per_view ?? true) : undefined,
+        children: kids.map(walk),
       };
     };
     const root = document.querySelector('[data-elementor-type=wp-page], [data-elementor-type=wp-post], [data-elementor-type=single-post], .elementor[data-elementor-type]') ;
@@ -87,7 +93,7 @@ for (const [group, url] of inv) {
   const slug = decodeURI(new URL(url).pathname).replace(/^\/|\/$/g, '').replace(/\//g, '__') || 'index';
   await mkdir(`extracted/${group}`, { recursive: true });
   await writeFile(`extracted/${group}/${slug}.json`, JSON.stringify({ url, group, ...data }, null, 1));
-  const sigOf = (s) => s.columns.map((c) => c.items.map((i) => i.type === 'inner-section' ? `[${sigOf(i)}]` : i.type.split('.')[0]).join('+')).join(' | ');
+  const sigOf = (n) => n.children ? (n.type === 'column' ? n.children.map(sigOf).join('+') : `[${n.children.map(sigOf).join(' | ')}]`) : n.type.split('.')[0];
   data.sections.forEach((s, i) => sigs.push(`${sigOf(s)}\t${slug}#${i}`));
   process.stdout.write(`${slug}:${data.sections.length}${data.article ? 'A' : ''} `);
 }

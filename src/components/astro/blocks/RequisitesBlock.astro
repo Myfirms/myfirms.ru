@@ -1,0 +1,79 @@
+---
+/** Company requisites table (anchor #rekvizity — linked from the footer). */
+import { company } from '../../../lib/data/company';
+import Section from '../foundation/Section.astro';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+const rows: [string, string][] = [
+  ['Полное наименование', `Общество с ограниченной ответственностью «Майфирмс» (${company.legalName})`],
+  ['ОГРН', `${company.ogrn} от ${company.ogrnDate}`],
+  ['ИНН / КПП', `${company.inn} / ${company.kpp}`],
+  ['Дата регистрации', company.registrationDate],
+  ['Юридический адрес', company.address.full],
+  ['E-mail', company.email],
+];
+---
+
+<Section background="gray" id="rekvizity" aria-labelledby="rekvizity-title">
+  <h2 id="rekvizity-title" class="title">{title}</h2>
+  <dl class="table">
+    {
+      rows.map(([k, v]) => (
+        <div class="row">
+          <dt>{k}</dt>
+          <dd>{k === 'E-mail' ? <a href={`mailto:${v}`}>{v}</a> : v}</dd>
+        </div>
+      ))
+    }
+  </dl>
+</Section>
+
+<style>
+  .title {
+    margin-bottom: var(--gap-md);
+    font-size: var(--text-h3);
+    text-transform: uppercase;
+  }
+
+  .table {
+    margin: 0;
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: var(--gap-md);
+    padding: 14px 22px;
+    border-bottom: 1px solid var(--surface-gray);
+  }
+
+  .row:last-child {
+    border-bottom: 0;
+  }
+
+  dt {
+    font-weight: 500;
+    color: var(--color-text-muted);
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  dd a {
+    color: var(--color-link);
+  }
+
+  @media (max-width: 639px) {
+    .row {
+      grid-template-columns: 1fr;
+      gap: 2px;
+    }
+  }
+</style>

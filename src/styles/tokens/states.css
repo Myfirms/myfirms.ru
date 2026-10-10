@@ -1,0 +1,10 @@
+:root {
+  --focus-ring: 2px solid var(--blue-500);
+  --focus-ring-on-dark: 2px solid var(--white);
+  --focus-offset: 3px;
+  --state-disabled-opacity: 0.55;
+  --color-error: #c4162a;
+  --color-error-bg: #fdecee;
+  --color-success: #2f7d32;
+  --color-success-bg: #e9f6ea;
+}

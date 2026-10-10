@@ -1,0 +1,55 @@
+---
+/** Progress bars ("Улучшим ваши показатели") — blue / red / green cycle as on WP. */
+interface Props {
+  items: { label: string; value: number }[];
+}
+
+const { items } = Astro.props;
+const colors = ['var(--blue-500)', 'var(--red-500)', 'var(--green-500)'];
+---
+
+<ul class="bars">
+  {
+    items.map((b, i) => (
+      <li class="bar">
+        <span class="label">{b.label}</span>
+        <span class="track" role="img" aria-label={`${b.label}: ${b.value}%`}>
+          <span class="fill" style={`--value: ${b.value}%; --color: ${colors[i % colors.length]}`} />
+        </span>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .bars {
+    display: grid;
+    gap: 22px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .bar {
+    display: grid;
+    gap: 10px;
+  }
+
+  .label {
+    font: 500 16px/1.2 var(--font-sans);
+    color: var(--white);
+  }
+
+  .track {
+    display: block;
+    height: 4px;
+    background: rgb(255 255 255 / 0.25);
+  }
+
+  .fill {
+    display: block;
+    width: var(--value);
+    height: 100%;
+    background: var(--color);
+  }
+</style>

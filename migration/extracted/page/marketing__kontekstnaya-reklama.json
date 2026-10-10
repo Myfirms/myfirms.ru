@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "429d082",
+   "width": 1440,
    "height": 560,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "b1d84f0",
      "width": 1140,
+     "height": 497,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "bb6c2e9",
@@ -44,16 +48,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "df0155a",
+       "width": 1108,
        "height": 376,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "51744c6",
          "width": 554,
+         "height": 376,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "c0d4189",
@@ -99,9 +106,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "92649e7",
          "width": 554,
+         "height": 376,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "32503f9",
@@ -142,18 +152,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "f479501",
+   "width": 1440,
    "height": 428,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "c06f9f3",
      "width": 570,
+     "height": 428,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "7ddc869",
@@ -222,9 +236,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "f9f4373",
      "width": 570,
+     "height": 428,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "256420f",
@@ -282,18 +299,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "44c0267",
+   "width": 1440,
    "height": 483,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "2660d2c",
      "width": 648,
+     "height": 483,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "0d566cd",
@@ -379,9 +400,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "ee4cd60",
      "width": 492,
+     "height": 483,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "3f7fb6e",
@@ -452,18 +476,33 @@
    ]
   },
   {
+   "type": "container",
    "id": "f4ed96d",
+   "width": 1440,
    "height": 232,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "e-con-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "spacer.default",
+     "id": "080827c",
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
+    },
+    {
+     "type": "container",
+     "id": "6561cf3",
      "width": 1140,
+     "height": 152,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "blockquote.default",
        "id": "60670a1",
@@ -478,32 +517,50 @@
        }
       }
      ]
+    },
+    {
+     "type": "spacer.default",
+     "id": "38ce9e7",
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
     }
    ]
   },
   {
+   "type": "section",
    "id": "1ae0125",
+   "width": 1440,
    "height": 210,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "2346926",
      "width": 1140,
+     "height": 150,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "7ac4a88",
+       "width": 1120,
        "height": 130,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "4fc0182",
          "width": 1120,
+         "height": 130,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "heading.default",
            "id": "ef945db",
@@ -578,28 +635,35 @@
    ]
   },
   {
+   "type": "section",
    "id": "534d613",
+   "width": 1440,
    "height": 221,
    "bg": {
     "color": "rgb(254, 245, 243)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "c78a754",
      "width": 1140,
+     "height": 101,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "0a96c33",
+       "width": 1140,
        "height": 101,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "fa897a6",
          "width": 1140,
+         "height": 101,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "7adf011",
@@ -639,33 +703,152 @@
    ]
   },
   {
+   "type": "section",
    "id": "a959063",
+   "width": 1440,
    "height": 454,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-stretched elementor-section-boxed",
-   "columns": []
+   "slider": "3",
+   "children": [
+    {
+     "type": "column",
+     "id": "2095a33",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "59876ba",
+       "heading": {
+        "tag": "h3",
+        "text": "Руслан Аксаков"
+       },
+       "text": "Руслан Аксаков Руководитель группы контекстной рекламы",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5615\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Руслан Аксаков</h3><p class=\"elementor-image-box-description\">Руководитель группы контекстной рекламы</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/ruslan-aksakovjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "6a34b62",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "f7e1cb8",
+       "heading": {
+        "tag": "h3",
+        "text": "Алексей Фирсов"
+       },
+       "text": "Алексей Фирсов Ведущий специалист по контекстной рекламе",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-560x560.jpeg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5611\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-560x560.jpeg 560w, https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-150x150.jpeg 150w, https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-450x450.jpeg 450w, https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-106x106.jpeg 106w, https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-80x80.jpeg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Алексей Фирсов</h3><p class=\"elementor-image-box-description\">Ведущий специалист по контекстной рекламе</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/aleksej-firsovjpeg-560x560.jpeg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "7cf2955",
+     "width": 373,
+     "height": 454,
+     "bg": {},
+     "children": [
+      {
+       "type": "image-box.default",
+       "id": "b0b248c",
+       "heading": {
+        "tag": "h3",
+        "text": "Михаил Кузнецов"
+       },
+       "text": "Михаил Кузнецов Специалист по контекстной рекламе",
+       "html": " <div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"560\" src=\"https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-560x560.jpg\" class=\"elementor-animation-grow attachment-techno-gallery-thumb size-techno-gallery-thumb wp-image-5620\" alt=\"\" srcset=\"https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-560x560.jpg 560w, https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-150x150.jpg 150w, https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-450x450.jpg 450w, https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-106x106.jpg 106w, https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-80x80.jpg 80w\" sizes=\"(max-width: 560px) 100vw, 560px\"></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Михаил Кузнецов</h3><p class=\"elementor-image-box-description\">Специалист по контекстной рекламе</p></div></div> ",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/mihail-kuzneczov-jpg-560x560.jpg",
+         "w": 560,
+         "h": 560
+        }
+       ],
+       "style": {
+        "color": "rgb(235, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
+   "type": "container",
    "id": "23f2b52",
+   "width": 1440,
    "height": 20,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "e-con-boxed",
-   "columns": []
+   "children": [
+    {
+     "type": "spacer.default",
+     "id": "b603c1b",
+     "style": {
+      "color": "rgb(34, 34, 34)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "start"
+     }
+    }
+   ]
   },
   {
+   "type": "container",
    "id": "d044ba1",
+   "width": 1440,
    "height": 715,
    "bg": {},
-   "cls": "e-con-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "container",
+     "id": "f779bb7",
      "width": 1140,
+     "height": 131,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "595928f",
@@ -697,47 +880,105 @@
      ]
     },
     {
+     "type": "container",
+     "id": "8b5a360",
      "width": 559,
+     "height": 274,
      "bg": {
       "color": "rgb(255, 255, 255)"
      },
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "a0d9e64",
+       "width": 269,
        "height": 254,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "sectiontitle.default",
+         "id": "ff348f8",
+         "heading": {
+          "tag": "h3",
+          "text": "БИЗНЕСДОК"
+         },
+         "text": "БИЗНЕСДОК Цель: Увеличить количество продаж торгового оборудования в месяц Было: 15 Стало: 36 (+140%) Сроки: Результат через 2 месяца после старта",
+         "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>БизнесДОК</h3> <p><b>Цель: </b> Увеличить количество продаж торгового оборудования в месяц <br><b>Было: </b> 15 <br><b> Стало: </b> 36 (+140%) <br><b>Сроки: </b> Результат через 2 месяца после старта</p> </div> </div> ",
+         "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "justify"
+         }
+        }
+       ]
       },
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "b7ca5d9",
+       "width": 253,
        "height": 254,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "shortcode.default",
+         "id": "36d1619",
+         "text": "… … … 0 20 40",
+         "style": {
+          "color": "rgb(34, 34, 34)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "start"
+         }
+        }
+       ]
       }
      ]
     },
     {
+     "type": "container",
+     "id": "862d81d",
      "width": 20,
+     "height": 274,
      "bg": {},
-     "items": []
+     "children": []
     },
     {
+     "type": "container",
+     "id": "603811d",
      "width": 559,
+     "height": 274,
      "bg": {
       "color": "rgb(255, 255, 255)"
      },
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "0ff03ff",
+       "width": 269,
        "height": 254,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "sectiontitle.default",
+         "id": "8fa9f1d",
+         "heading": {
+          "tag": "h3",
+          "text": "СТРОЙПРАКТИК"
+         },
+         "text": "СТРОЙПРАКТИК Цель: Повысить количество записей на просмотр квартир Было: 235 Стало: 1564 (+566%) Сроки: Результат через 2 месяца после старта",
+         "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стройпрактик</h3> <p><b>Цель: </b> Повысить количество записей на просмотр квартир <br><b>Было: </b> 235 <br><b> Стало: </b> 1564 (+566%) <br><b>Сроки: </b> Результат через 2 месяца после старта</p> </div> </div> ",
+         "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "justify"
+         }
+        }
+       ]
       },
       {
        "type": "shortcode.default",
@@ -754,93 +995,177 @@
      ]
     },
     {
+     "type": "container",
+     "id": "3c39884",
      "width": 1140,
+     "height": 20,
      "bg": {},
-     "items": []
+     "children": []
     },
     {
+     "type": "container",
+     "id": "38aecf1",
      "width": 559,
+     "height": 250,
      "bg": {
       "color": "rgb(255, 255, 255)"
      },
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "4354afa",
+       "width": 269,
        "height": 230,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "sectiontitle.default",
+         "id": "8a51cbe",
+         "heading": {
+          "tag": "h3",
+          "text": "ДЕТЕЙЛИНГ"
+         },
+         "text": "ДЕТЕЙЛИНГ Цель: Повысить узнаваемость бренда Спрос Wordstat. Было: 4600 Спрос Wordstat. Стало: 6100 (+32,6%) Сроки: Результат через 3 месяца после старта",
+         "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Детейлинг</h3> <p><b>Цель: </b> Повысить узнаваемость бренда <br><b>Спрос Wordstat. Было: </b> 4600 <br><b> Спрос Wordstat. Стало: </b> 6100 (+32,6%) <br><b>Сроки: </b> Результат через 3 месяца после старта</p> </div> </div> ",
+         "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "justify"
+         }
+        }
+       ]
       },
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "f4111e7",
+       "width": 253,
        "height": 230,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "shortcode.default",
+         "id": "059e3c9",
+         "text": "01… 01… 01… 01… 4,000 6,000 8,000",
+         "style": {
+          "color": "rgb(34, 34, 34)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "start"
+         }
+        }
+       ]
       }
      ]
     },
     {
+     "type": "container",
+     "id": "199baa4",
      "width": 20,
+     "height": 250,
      "bg": {},
-     "items": []
+     "children": []
     },
     {
+     "type": "container",
+     "id": "927d2c9",
      "width": 559,
+     "height": 250,
      "bg": {
       "color": "rgb(255, 255, 255)"
      },
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "17634c8",
+       "width": 269,
        "height": 230,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "sectiontitle.default",
+         "id": "03456b0",
+         "heading": {
+          "tag": "h3",
+          "text": "АЙТИ КАССА"
+         },
+         "text": "АЙТИ КАССА Цель: Снизить стоимость привлечения клиентов Было: 5600 руб. Стало: 2400 руб. (-57,15%) Сроки: Результат через 3 месяца после старта",
+         "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Айти Касса</h3> <p><b>Цель: </b> Снизить стоимость привлечения клиентов <br><b>Было: </b> 5600 руб. <br><b> Стало: </b> 2400 руб. (-57,15%) <br><b>Сроки: </b> Результат через 3 месяца после старта</p> </div> </div> ",
+         "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "justify"
+         }
+        }
+       ]
       },
       {
-       "type": "inner-section",
+       "type": "container",
        "id": "da5c839",
+       "width": 253,
        "height": 230,
        "bg": {},
-       "cls": "",
-       "columns": []
+       "children": [
+        {
+         "type": "shortcode.default",
+         "id": "e5afdb1",
+         "text": "28… 28… 28… 28… 0 5,000 10,…",
+         "style": {
+          "color": "rgb(34, 34, 34)",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Roboto",
+          "align": "start"
+         }
+        }
+       ]
       }
      ]
     },
     {
+     "type": "container",
+     "id": "daec9e7",
      "width": 1140,
+     "height": 20,
      "bg": {},
-     "items": []
+     "children": []
     }
    ]
   },
   {
+   "type": "section",
    "id": "620d65d",
+   "width": 1440,
    "height": 598,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "87e383e",
      "width": 1140,
+     "height": 540,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "6eb3d51",
+       "width": 1120,
        "height": 520,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "554f557",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "79eb208",
@@ -880,9 +1205,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "8f791c3",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "shortcode.default",
            "id": "34c3aea",
@@ -909,17 +1237,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "11a5865",
+   "width": 1440,
    "height": 470,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "1e35420",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "video.default",
        "id": "ab1fb34",
@@ -935,20 +1267,26 @@
      ]
     },
     {
+     "type": "column",
+     "id": "d35466c",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "b6a67d9",
+       "width": 700,
        "height": 248,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "508a9e6",
          "width": 502,
+         "height": 248,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "21091d8",
@@ -969,9 +1307,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "d171e94",
          "width": 194,
+         "height": 248,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       }

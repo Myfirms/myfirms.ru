@@ -1,0 +1,402 @@
+{
+ "path": "/marketing/kontekstnaya-reklama/",
+ "h1": "Контекстная реклама",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Контекстная реклама — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 2,
+  "menuLabel": "Контекстная реклама"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Реклама в Яндекс Директ и Google Ads",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Контекстная реклама на сегодня - это самый быстрый способ начать получать заявки на ваш продукт. Когда нужен быстрый старт, чтобы получить первых клиентов, и на них отладить процессы продаж и маркетинга, вы не найдете более лучшего источника трафика, чем Яндекс Директ и Google Ads*.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/fff.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>*Временно не работает в РФ</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2024/04/snimok-ekrana-2024-04-10-v-22.20.18-e1712778306311.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/snimok-ekrana-2024-04-10-v-21.58.14-e1712778156672.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/snimok-ekrana-2024-04-10-v-21.54.40.png",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Рекламу увидят в поиске Яндекс и Google",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "check",
+         "items": [
+          {
+           "text": "Оценим спрос на ваш товар или услугу",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Определим объем затрат на рекламу"
+          },
+          {
+           "text": "Настроим рекламу по ключевым словам"
+          },
+          {
+           "text": "Сделаем, чтобы клиент окупался."
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-sky",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Стоимость настройки и ведения рекламы",
+         "level": "h2",
+         "lead": "<p>Цена настройки контекстной рекламы стартует от 30 000 руб. Она зависит от количества рекламных кампаний и объема поисковых фраз в них. В стоимость входит конкурентный анализ и прогноз по привлеченным клиентам. Минимальный срок ведения рекламной кампании составляет 3 месяца. </p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        },
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Вознаграждение за ведение складывается от фиксированной оплаты и премии. Премия зависит от количества лидов и затраченного бюджета. Чем больше лидов мы приведем, и чем меньше денег потратим на их привлечение, тем выше наше вознаграждение. Такая мотивация позволяет нашим специалистам давать максимальный результат."
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "НАШИ КОМПЕТЕНЦИИ",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2021/09/k02.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k01.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши специалисты по онлайн-рекламе",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Настраиваем Яндекс Директ и Google Ads с 2013 года. Более 10 директологов / контекстологов с компетенциями в разных сферах бизнеса, от рекламы салонов красоты до продукции промышленных предприятий. </p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "ruslan-aksakov",
+     "role": "Руководитель группы контекстной рекламы"
+    },
+    {
+     "member": "aleksey-firsov",
+     "role": "Ведущий специалист по контекстной рекламе"
+    },
+    {
+     "member": "mihail-kuznetsov",
+     "role": "Специалист по контекстной рекламе"
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши лучшие кейсы",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "БизнесДОК",
+         "level": "h2",
+         "lead": "<p><strong>Цель: </strong> Увеличить количество продаж торгового оборудования в месяц <br><strong>Было: </strong> 15 <br><strong> Стало: </strong> 36 (+140%) <br><strong>Сроки: </strong> Результат через 2 месяца после старта</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Стройпрактик",
+         "level": "h2",
+         "lead": "<p><strong>Цель: </strong> Повысить количество записей на просмотр квартир <br><strong>Было: </strong> 235 <br><strong> Стало: </strong> 1564 (+566%) <br><strong>Сроки: </strong> Результат через 2 месяца после старта</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Детейлинг",
+         "level": "h2",
+         "lead": "<p><strong>Цель: </strong> Повысить узнаваемость бренда <br><strong>Спрос Wordstat. Было: </strong> 4600 <br><strong> Спрос Wordstat. Стало: </strong> 6100 (+32,6%) <br><strong>Сроки: </strong> Результат через 3 месяца после старта</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Айти Касса",
+         "level": "h2",
+         "lead": "<p><strong>Цель: </strong> Снизить стоимость привлечения клиентов <br><strong>Было: </strong> 5600 руб. <br><strong> Стало: </strong> 2400 руб. (-57,15%) <br><strong>Сроки: </strong> Результат через 3 месяца после старта</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "fle5fKU1Vi4",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как устроена реклама в интернете. Что такое контекстная реклама. Как планировать бюджет в Яндекс Директ и Google Ads. Как оценить эффективность рекламных кампаний и какие KPI поставить для таргетолога.</p>"
+  }
+ ]
+}

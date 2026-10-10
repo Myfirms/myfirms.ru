@@ -1,0 +1,10 @@
+:root {
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-image: 30px;
+  --shadow-card: 0 10px 30px rgb(20 20 50 / 0.08);
+  --shadow-card-hover: 0 16px 40px rgb(20 20 50 / 0.14);
+  --border-dotted: 3px dotted var(--ink-800);
+  --transition: 0.25s ease;
+}

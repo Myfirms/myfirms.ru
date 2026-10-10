@@ -1,0 +1,27 @@
+---
+/** Portfolio category archive — /portfolio_filter/<slug>/ as on WP. */
+import type { GetStaticPaths } from 'astro';
+import PortfolioListing from '../../components/astro/sections/PortfolioListing.astro';
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { portfolioFiltersRepository, portfolioRepository } from '../../lib/repository';
+
+export const getStaticPaths = (async () => {
+  const filters = await portfolioFiltersRepository.getAll();
+  return filters.map((f) => ({ params: { slug: f.id }, props: { filter: f } }));
+}) satisfies GetStaticPaths;
+
+const { filter } = Astro.props;
+const filters = await portfolioFiltersRepository.getAll();
+const cases = (await portfolioRepository.getAll())
+  .filter((c) => c.data.filters.some((f) => f.id === filter.id))
+  .sort((a, b) => a.data.order - b.data.order);
+const crumbs = [
+  { label: 'Главная', href: '/' },
+  { label: 'Портфолио', href: '/portfolio/' },
+  { label: filter.data.name, href: `/portfolio_filter/${filter.id}/` },
+];
+---
+
+<SiteLayout seo={filter.data.seo} h1={filter.data.name} crumbs={crumbs}>
+  <PortfolioListing cases={cases} filters={filters} activeFilter={filter.id} />
+</SiteLayout>

@@ -1,0 +1,43 @@
+---
+/** Video + text ("Уроки по маркетингу для руководителей", "Упаковка бизнеса"). */
+import type { Block } from '../../../content.config';
+import Button from '../foundation/Button.astro';
+import Section from '../foundation/Section.astro';
+import Title from '../widgets/Title.astro';
+import VideoEmbed from '../widgets/VideoEmbed.astro';
+
+type Props = Extract<Block, { type: 'videoLesson' }>;
+
+const { youtubeId, title, text, link } = Astro.props;
+---
+
+<Section background="gray">
+  <div class="grid">
+    <VideoEmbed youtubeId={youtubeId} title={title} />
+    <div class="text">
+      <Title text={title} lead={text} />
+      {link && <Button href={link.href}>{link.label}</Button>}
+    </div>
+  </div>
+</Section>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    gap: var(--gap-xl);
+    align-items: center;
+  }
+
+  .text {
+    display: grid;
+    justify-items: start;
+    gap: var(--gap-md);
+  }
+
+  @media (max-width: 767px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

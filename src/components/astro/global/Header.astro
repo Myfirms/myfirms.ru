@@ -1,0 +1,251 @@
+---
+/**
+ * Site header — transparent over the dark banner/hero, as on WP, turning
+ * solid navy once the page scrolls (a tiny inline script toggles
+ * `is-scrolled`). The WP case-study pages used a different black header
+ * without the CTA; every page now uses this one.
+ * Desktop dropdown is pure CSS (:hover / :focus-within); the mobile menu is
+ * the NavMobile island.
+ * The WP header search icon is dropped: a static site has no WP search, and
+ * the site is small enough to navigate by menu.
+ */
+import { Image } from 'astro:assets';
+import logo from '../../../assets/brand/logo.png';
+import { getMainNav, topLinks } from '../../../lib/data/nav';
+import NavMobile from '../../react/NavMobile';
+import Icon from '../foundation/Icon.astro';
+
+const nav = await getMainNav();
+const current = Astro.url.pathname;
+const isActive = (href: string) => (href === '/' ? current === '/' : current.startsWith(href));
+---
+
+<header class="header" data-header data-surface="dark">
+  <div class="inner">
+    <a href="/" class="logo" aria-label="MyFirms — на главную">
+      <Image src={logo} alt="MyFirms" width={120} height={73} loading="eager" />
+    </a>
+
+    <nav class="nav" aria-label="Основное меню">
+      <ul class="menu">
+        {
+          nav.map((item) => (
+            <li class:list={['menu-item', item.children && 'has-children']}>
+              <a href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>
+                {item.label}
+                {item.children && <Icon name="chevron-down" size={14} />}
+              </a>
+              {item.children && (
+                <ul class="submenu">
+                  {item.children.map((c) => (
+                    <li>
+                      <a href={c.href} aria-current={current === c.href ? 'page' : undefined}>
+                        {c.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <div class="aside">
+      <ul class="top-links">
+        {
+          topLinks.map((l) => (
+            <li>
+              <a href={l.href} aria-current={isActive(l.href) ? 'page' : undefined}>
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <button type="button" class="cta" data-request-form>Оставить заявку</button>
+    </div>
+
+    <NavMobile client:media="(max-width: 1023px)" nav={nav} topLinks={topLinks} />
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector<HTMLElement>('[data-header]');
+  const update = () => header?.classList.toggle('is-scrolled', window.scrollY > 40);
+  update();
+  window.addEventListener('scroll', update, { passive: true });
+</script>
+
+<style>
+  .header {
+    position: fixed;
+    inset: 0 0 auto;
+    z-index: 50;
+    transition:
+      background var(--transition),
+      box-shadow var(--transition);
+  }
+
+  .header:global(.is-scrolled) {
+    background: var(--navy-800);
+    box-shadow: 0 4px 20px rgb(0 0 0 / 0.25);
+  }
+
+  .inner {
+    display: flex;
+    align-items: center;
+    gap: var(--gap-lg);
+    max-width: calc(var(--content-wide) + 2 * var(--side-pad));
+    height: var(--header-h);
+    margin: 0 auto;
+    padding-inline: var(--side-pad);
+    transition: height var(--transition);
+  }
+
+  .header:global(.is-scrolled) .inner {
+    height: 76px;
+  }
+
+  .logo :global(img) {
+    width: auto;
+    height: 64px;
+  }
+
+  .header:global(.is-scrolled) .logo :global(img) {
+    height: 52px;
+  }
+
+  .nav {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .menu,
+  .submenu,
+  .top-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .menu {
+    display: flex;
+    gap: 28px;
+  }
+
+  .menu-item {
+    position: relative;
+  }
+
+  .menu-item > a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 12px 0;
+    font: 600 18px/1.2 var(--font-display);
+    color: var(--white);
+  }
+
+  .menu-item > a:hover,
+  .menu-item > a[aria-current='page'] {
+    color: var(--color-accent);
+  }
+
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: -20px;
+    min-width: 290px;
+    padding: 10px 0;
+    border-top: 3px solid var(--color-accent);
+    background: var(--white);
+    box-shadow: var(--shadow-card-hover);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(8px);
+    transition:
+      opacity var(--transition),
+      transform var(--transition),
+      visibility var(--transition);
+  }
+
+  .has-children:hover .submenu,
+  .has-children:focus-within .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+  }
+
+  .submenu a {
+    display: block;
+    padding: 8px 22px;
+    font: 500 16px/1.3 var(--font-sans);
+    color: var(--color-heading);
+  }
+
+  .submenu a:hover,
+  .submenu a[aria-current='page'] {
+    color: var(--color-accent);
+    background: var(--surface-pink);
+  }
+
+  .aside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 6px;
+  }
+
+  .top-links {
+    display: flex;
+    gap: 16px;
+  }
+
+  .top-links a {
+    font: 400 14px/1 var(--font-display);
+    color: var(--white);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .top-links a:hover {
+    color: var(--color-accent);
+  }
+
+  .cta {
+    min-height: 44px;
+    padding: 0 28px;
+    border: 1px solid var(--white);
+    background: transparent;
+    color: var(--white);
+    font: 600 17px/1 var(--font-display);
+    cursor: pointer;
+    transition:
+      background var(--transition),
+      color var(--transition);
+  }
+
+  .cta:hover {
+    background: var(--white);
+    color: var(--color-primary);
+  }
+
+  @media (max-width: 1023px) {
+    .nav,
+    .aside {
+      display: none;
+    }
+
+    .inner {
+      justify-content: space-between;
+      height: 76px;
+    }
+
+    .logo :global(img) {
+      height: 52px;
+    }
+  }
+</style>

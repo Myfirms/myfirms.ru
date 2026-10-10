@@ -1,0 +1,390 @@
+{
+ "path": "/marketing/reklama-v-internete/",
+ "h1": "Реклама в интернете",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Реклама в интернете — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 1,
+  "menuLabel": "Реклама в интернете"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "УСЛУГИ ПО МАРКЕТИНГУ ОТ ПРОФЕССИОНАЛЬНЫХ МАРКЕТОЛОГОВ​",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Наша цель - привести вам клиентов, а не освоить бюджет. Миллионы пользователей интернета ищут товары и услуги здесь и сейчас. Еще больше примут решение о покупке в ближайшие дни, недели, месяцы. Но колоссальное количество тех, кто еще сам не подозревает, что ему нужен ваш продукт. <br>Мы умеем находить и делать вашими клиентами людей на разных стадиях готовности к покупке.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/03/pexels-mikhail-nilov-6592558.jpg",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Маркетинговое агентство MyFirms оказывает услуги с 2013 года. Более 1000 различных рекламных кампаний мы запустили для более, чем 300 компаний в разных сферах бизнеса. Наша цель - привести вам клиентов, а не освоить бюджет."
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Услуги MyFirms по настройке рекламы в интернете",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 4,
+         "items": [
+          {
+           "iconName": "idea-1",
+           "title": "Контекстная реклама Яндекс Директ и Google Ads",
+           "href": "/marketing/kontekstnaya-reklama/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "design",
+           "title": "Таргетированная реклама в социальных сетях",
+           "href": "/marketing/targetirovannaya-reklama-v-soczialnyh-setyah/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "support-4",
+           "title": "Видео реклама на YouTube и VK видео",
+           "href": "/marketing/video-reklama/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          },
+          {
+           "iconName": "school",
+           "title": "Реклама у блогеров",
+           "href": "/marketing/reklama-u-blogerov/",
+           "linkLabel": "ПОДРОБНЕЕ"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-vk-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-telegramma-app-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-whatsapp-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icon-dzen.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-youtube-play-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Где будет показываться ваша реклама",
+         "level": "h2",
+         "lead": "<p>Вашу рекламу увидят онлайн пользователи поисковых сетей Яндекс и Google, социальных сетей Вконтакте и YouTube, блогов Дзен и VC.ru, мессенджеров Telegram и WhatsApp.  Мы находим аудиторию, которой будут интересны ваши товары или услуги. Для этого мы используем современные инструменты сбора и анализа данных о пользователей сетей. <br><br> Мы знаем, по каким словам ищут ваш продукт и как часто, где и сколько они проводят время, чем интересуются и какая у них покупательская способность. Это позволяет нам настраивать рекламу точно, а клиентов приводить быстро.</p>",
+         "align": "left",
+         "onDark": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-sky",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 7,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Стоимость услуг по маркетингу",
+         "level": "h2",
+         "lead": "<p>Цена за настройку рекламы варьируется от 30 000 до 300 000 руб. в зависимости от выбранных каналов продвижения и количества рекламных кампаний. Мы даем прогноз по привлеченным клиентам и работаем согласно плану. Сопровождение длится от 3 месяцев. Вознаграждение зависит от количества заявок на ваш продукт и затраченного бюджета. Наша цель - приводить максимум лидов за минимум средств, от этого складывается наша денежная мотивация.</p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        },
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 5,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/cheerful-pretty-young-girl-talking-on-phone-and-smiling.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "НАШИ КОМПЕТЕНЦИИ",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2021/09/k02.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/03/vk-165-reklama-yyylogo-3.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k04.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k08.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2021/09/k01.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши специалисты по онлайн-рекламе",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Настраиваем рекламу в интернете с 2013 г. Более 20 специалистов по контекстной рекламе, таргетологов, медиа-менеджеров и продюсеров. Мы накопили знания и опыт практически во всех сферах бизнеса, от салонов красоты до промышленных предприятий. </p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "aleksey-firsov",
+     "role": "Ведущий специалист по контекстной рекламе"
+    },
+    {
+     "member": "anastasiya-sergeeva",
+     "role": "Ведущий таргетолог"
+    },
+    {
+     "member": "igor-podkladov",
+     "role": "Ведущий видеомаркетолог"
+    },
+    {
+     "member": "vladimir-abramov",
+     "role": "Главный продюсер блогеров"
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "oWXPqCXgpQ4",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, зачем бизнесу нужен интернет-маркетинг. Как находить новых клиентов онлайн и увеличить прибыль? Как начать генерировать заявки системно и прогнозировать их количество? Как сделать больше продаж за тот же рекламный бюджет?</p>"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+---
+/** Page body renderer — the single switch from content blocks to components. */
+import type { Block } from '../../../content.config';
+import ContactFormBlock from './ContactFormBlock.astro';
+import HeroBlock from './HeroBlock.astro';
+import LayoutBlock from './LayoutBlock.astro';
+import LessonsBlock from './LessonsBlock.astro';
+import PortfolioBlock from './PortfolioBlock.astro';
+import RequisitesBlock from './RequisitesBlock.astro';
+import TeamBlock from './TeamBlock.astro';
+import VideoLessonBlock from './VideoLessonBlock.astro';
+
+interface Props {
+  blocks: Block[];
+}
+
+const { blocks } = Astro.props;
+---
+
+{
+  blocks.map((b) => {
+    switch (b.type) {
+      case 'hero':
+        return <HeroBlock {...b} />;
+      case 'layout':
+        return <LayoutBlock {...b} />;
+      case 'contactForm':
+        return <ContactFormBlock title={b.title} />;
+      case 'requisites':
+        return <RequisitesBlock title={b.title} />;
+      case 'team':
+        return <TeamBlock {...b} />;
+      case 'videoLesson':
+        return <VideoLessonBlock {...b} />;
+      case 'portfolio':
+        return <PortfolioBlock {...b} />;
+      case 'lessons':
+        return <LessonsBlock {...b} />;
+    }
+  })
+}

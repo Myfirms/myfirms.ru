@@ -1,0 +1,127 @@
+---
+/**
+ * "Обучающие материалы" — dark lesson cards. On WP every "Смотреть видео"
+ * link was "#"; until real video URLs exist each card links to the YouTube
+ * channel.
+ */
+import type { Block } from '../../../content.config';
+import { company } from '../../../lib/data/company';
+import Button from '../foundation/Button.astro';
+import Section from '../foundation/Section.astro';
+import Title from '../widgets/Title.astro';
+
+type Props = Extract<Block, { type: 'lessons' }>;
+
+const { title, lead, link, items } = Astro.props;
+---
+
+<Section background="white">
+  <div class="head">
+    <Title text={title} lead={lead} />
+    <Button href={link?.href ?? company.youtube}>{link?.label ?? 'Все уроки'}</Button>
+  </div>
+  <ul class="cards">
+    {
+      items.map((i) => (
+        <li class="card">
+          <span class="play" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="22" height="22"><path d="M8 5v14l11-7z" fill="currentColor" /></svg>
+          </span>
+          <p class="text">{i.title}</p>
+          <a href={i.href ?? company.youtube} target="_blank" rel="noopener" class="link">
+            Смотреть видео<span class="visually-hidden">: {i.title}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</Section>
+
+<style>
+  .head {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--gap-xl);
+    align-items: center;
+    margin-bottom: var(--gap-xl);
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    min-height: 200px;
+    padding: 30px 26px 22px;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #1d1b33;
+    color: var(--white);
+    box-shadow: var(--shadow-card-hover);
+  }
+
+  .card::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 46px;
+    height: 46px;
+    background: linear-gradient(45deg, var(--red-500) 50%, transparent 50%);
+  }
+
+  .play {
+    display: grid;
+    place-items: center;
+    align-self: center;
+    width: 54px;
+    height: 38px;
+    border-radius: 8px;
+    background: var(--white);
+    color: #1d1b33;
+  }
+
+  .text {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.45;
+  }
+
+  .link {
+    margin-top: auto;
+    padding-left: 40px;
+    font: 500 13px/1 var(--font-display);
+    text-transform: uppercase;
+    color: var(--blue-400);
+  }
+
+  .link::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .link:hover {
+    color: var(--white);
+  }
+
+  @media (max-width: 1023px) {
+    .head {
+      grid-template-columns: 1fr;
+      justify-items: start;
+    }
+
+    .cards {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,426 @@
+{
+ "path": "/marketing/kontent-marketing-i-pr/",
+ "h1": "Контент-маркетинг и PR",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Контент-маркетинг и PR — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 9,
+  "menuLabel": "Контент-маркетинг и PR"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Привлечем клиентов из новостных порталов и блогов",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Сделаем ваш бренд узнаваемым и популярным с помощью тематических статей, которые будут интересны вашей целевой аудитории. Это новости, обзоры, рассказы, на которые регулярно есть спрос среди людей. Мы умеем отвечать на этот спрос интересными, эмоциональными и вовлекающими статьями, в которых будет упоминаться ваш товар или бренд. <br><br>С помощью контент-маркетинга вы обретете доверие широкой аудитории, часть которой обязательно станет вашими клиентами или порекомендует знакомым. </p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Получить консультацию"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/kontent2png.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-vk-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icons8-telegramma-app-96.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/lajfzhurnal.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/pikabu.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/icon-dzen.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/32_@mail_sign_only_circle_b@2x.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/04/32_@mail_sign_only_circle_b@2x.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "image",
+         "src": "wp/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Где будет пиариться ваш бренд или продукт",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "pin",
+         "items": [
+          {
+           "text": "Новостные региональные или федеральные порталы",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Каналы в Дзен, VC.ru, Pikabu, Пульс, Тинькофф журнал, LiveJournal и другие порталы с высокими охватами"
+          },
+          {
+           "text": "Тематические сообщества в Вконтакте, Telegram"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "О чем будем писать",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "tabs",
+         "items": [
+          {
+           "title": "Истории, юмор, лайфхаки, викторины и тесты",
+           "html": "<p>Вовлекающий контент</p>"
+          },
+          {
+           "title": "Инструкции, гайды, рекомендации из уст эксперта",
+           "html": "<p>Экспертный контент</p>"
+          },
+          {
+           "title": "Обзор вашего товара или услуги, сравнение с конкурентами.",
+           "html": "<p>Продающий контент</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/2149311472.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Что даст контент-маркетинг",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Конечные цели могут быть разные: привести вам новых клиентов или удержать действующих, сделать доп. продажу, повысить средний чек, увеличить средний срок жизни клиента и прибыль с одного клиента за все время сотрудничества с ним. Но способ достижения всех целей сводится к построению устойчивой коммуникации с вашими клиентами через контент. Если вы регулярно закрываете информационную потребность аудитории, то она чаще о вас вспоминает.</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Контент-маркетинг не принесет вам продажи здесь и сейчас. Однако правильно подобранные статьи и места их размещения помогут вашей аудитории чаще контактировать с вашим брендом и продуктом. Это подогревает интерес к нему и завоевывает доверие. Лояльной аудитории легче продать что-либо или удержать среди своих клиентов."
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Стоимость контент-маркетинга",
+         "level": "h2",
+         "lead": "<p>Стоит понимать, что контент-маркетинг - это стратегия, а не публикация статей. Мы проводим детальный анализ спроса вашей целевой аудитории, в ходе которого выясняем, где потребляют информацию ваши потенциальные клиенты, и что они обычно читают, на какие каналы подписаны. <br><br>Далее составляем медиа карту и медиаплан, которые и будут нашей стратегией по популяризации вашего бренда и продукта. Мы будем системно знакомить широкую аудиторию с вашим товаром или услугой через нативные упоминания. </p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/ry.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Реализация такой стратегии потребует минимум три месяца, а первые результаты принесет не ранее, чем через пол года. Поэтому стоимость услуг начинается от 100 000 руб. в мес. за работу контент-маркетолога. Публикации в тематических сообществах и электронных СМИ оплачивается отдельно."
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши контент-маркетологи",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Наши контент-маркетологи - это профессиональные пиарщики и журналисты с опытом работы в разных сферах бизнеса.</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "valeriya-lazareva",
+     "role": "Руководитель отдела контент-маркетинга"
+    },
+    {
+     "member": "nikolay-solovev",
+     "role": "Контент-маркетолог в IT и B2B продуктах"
+    },
+    {
+     "member": "valentina-nazarova",
+     "role": "Контент-маркетолог в бьюти, здоровье и красоте"
+    },
+    {
+     "member": "andrey-medvedev",
+     "role": "Контент-маркетолог в строительстве и производстве"
+    },
+    {
+     "member": "raisa-osipova",
+     "role": "Контент-маркетолог в торговле, финансах и юр. услугах"
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "JJTOcaEPkRs",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, что такое контент-маркетинг. Как завоевать внимание и доверие клиентов с помощью статей в интернете. Какая стратегия контент маркетинга подойдет вашему бизнесу. Что такое крауд маркетинг.</p>"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+/* Raw palette sampled from the live WP site (computed styles + screenshots,
+ * 2026-10-09). Never consumed directly by components — use semantic.css. */
+:root {
+  --navy-950: #020d43;   /* "Улучшим показатели" dark band */
+  --navy-900: #010e54;   /* primary dark buttons */
+  --navy-800: #121b51;   /* page banner base */
+  --navy-700: #202c60;   /* page banner gradient */
+  --navy-footer: #111a3a;
+  --blue-600: #1174dc;   /* hero gradient end */
+  --blue-500: #237bd7;   /* YouTube subscribe button */
+  --blue-400: #3d82bf;   /* "Подробнее"/"Читать" links, breadcrumb links */
+  --red-500: #ed2c41;    /* accent: submit buttons, subscribe band, dividers */
+  --red-600: #d81f34;
+  --green-500: #49c60a;  /* check icons, label chips */
+  --green-100: #e6fbdc;
+  --lavender-200: #d2b7e4;
+  --pink-50: #fff5f6;
+  --sky-50: #f3fbff;
+  --sand-50: #f9f8f6;
+  --gray-100: #f5f5f5;
+  --gray-300: #d9d9de;
+  --gray-600: #444c51;
+  --ink-900: #151423;    /* headings */
+  --ink-800: #222222;    /* body text */
+  --ink-500: #5b5b66;
+  --white: #ffffff;
+}

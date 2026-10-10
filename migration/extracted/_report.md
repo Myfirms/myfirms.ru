@@ -1,0 +1,113 @@
+# Отчёт конвертера
+
+## Исправлено автоматически
+- /contacts/: пустой блок «Реквизиты компании в России» заполнен реквизитами
+- /: кнопка «Подробнее» (href="#") → открывает форму заявки
+- /: кнопка «Все уроки» (href="#") → открывает форму заявки
+- /: «СМОТРЕТЬ ВИДЕО» вела на "#"
+- /marketing/: кнопка «Получить консультацию» (href="#") → открывает форму заявки
+- /marketing/: ссылка /veb-analitika/ → /marketing/veb-analitika/
+- /marketing/: «ПОДРОБНЕЕ» вела на "#"
+- /marketing/: «Как мы работаем»: 12 шагов собраны в единую сетку
+- /marketing/biznes-analitika/: кнопка «Получить консультацию» (href="#") → открывает форму заявки
+- /marketing/kontekstnaya-reklama/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/kontent-marketing-i-pr/: кнопка «Получить консультацию» (href="#") → открывает форму заявки
+- /marketing/kontent-marketing-i-pr/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/kopirajting/: кнопка «Заказать текст» (href="#") → открывает форму заявки
+- /marketing/kopirajting/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/marketing-pod-klyuch/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: «ПОДРОБНЕЕ» вела на "#"
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: кнопка «ЗАКАЗАТЬ РЕКЛАМУ» (href="#") → открывает форму заявки
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: «Scloud» вела на "#"
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: «Geobooking» вела на "#"
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: «Landix» вела на "#"
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: «Народное ЖКХ» вела на "#"
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: кнопка «Все уроки» (href="#") → открывает форму заявки
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: пустой блок постов (blogpost) удалён
+- /marketing/prodvizhenie-na-marketplejsah/: кнопка «Заказать продвижение» (href="#") → открывает форму заявки
+- /marketing/razrabotka-semanticheskogo-yadra/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/razrabotka-semanticheskogo-yadra/: кнопка «ЗАКАЗАТЬ РЕКЛАМУ» (href="#") → открывает форму заявки
+- /marketing/razrabotka-semanticheskogo-yadra/: «Scloud» вела на "#"
+- /marketing/razrabotka-semanticheskogo-yadra/: «Geobooking» вела на "#"
+- /marketing/razrabotka-semanticheskogo-yadra/: «Landix» вела на "#"
+- /marketing/razrabotka-semanticheskogo-yadra/: «Народное ЖКХ» вела на "#"
+- /marketing/razrabotka-semanticheskogo-yadra/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /marketing/razrabotka-semanticheskogo-yadra/: кнопка «Все уроки» (href="#") → открывает форму заявки
+- /marketing/razrabotka-semanticheskogo-yadra/: пустой блок постов (blogpost) удалён
+- /marketing/reklama-u-blogerov/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/reklama-v-internete/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: кнопка «ЗАКАЗАТЬ РЕКЛАМУ» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: «Scloud» вела на "#"
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: «Geobooking» вела на "#"
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: «Landix» вела на "#"
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: «Народное ЖКХ» вела на "#"
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: кнопка «Все уроки» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: пустой блок постов (blogpost) удалён
+- /marketing/seo_prodvizhenie/: кнопка «Заказать продвижение» (href="#") → открывает форму заявки
+- /marketing/seo_prodvizhenie/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/smm-prodvizhenie/: кнопка «Получить консультацию» (href="#") → открывает форму заявки
+- /marketing/smm-prodvizhenie/: кнопка «Заказать продвижение» (href="#") → открывает форму заявки
+- /marketing/targetirovannaya-reklama-v-soczialnyh-setyah/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/targetirovannaya-reklama-v-soczialnyh-setyah/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /marketing/tekhnicheskij-audit-sajta/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /marketing/tekhnicheskij-audit-sajta/: кнопка «ЗАКАЗАТЬ РЕКЛАМУ» (href="#") → открывает форму заявки
+- /marketing/tekhnicheskij-audit-sajta/: «Scloud» вела на "#"
+- /marketing/tekhnicheskij-audit-sajta/: «Geobooking» вела на "#"
+- /marketing/tekhnicheskij-audit-sajta/: «Landix» вела на "#"
+- /marketing/tekhnicheskij-audit-sajta/: «Народное ЖКХ» вела на "#"
+- /marketing/tekhnicheskij-audit-sajta/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /marketing/tekhnicheskij-audit-sajta/: кнопка «Все уроки» (href="#") → открывает форму заявки
+- /marketing/tekhnicheskij-audit-sajta/: пустой блок постов (blogpost) удалён
+- /marketing/veb-analitika/: кнопка «Получить консультацию» (href="#") → открывает форму заявки
+- /marketing/video-reklama/: кнопка «Заказать рекламу» (href="#") → открывает форму заявки
+- /o-kompanii/: кнопка «Портфолио» (href="#") → открывает форму заявки
+- /portfolio_filter/performance-marketing/: пустая рубрика «Performance маркетинг» — не переносится, 301 на /portfolio/
+- /portfolio_filter/integraczii/: пустая рубрика «Интеграции» — не переносится, 301 на /portfolio/
+
+## Требует решения
+- /contacts/: нет SEO title/description в _seo.json
+- /: карточки «Смотреть видео» вели на "#" — нужны ссылки на ролики
+- /: нет SEO title/description в _seo.json
+- /marketing/: нет SEO title/description в _seo.json
+- /marketing/biznes-analitika/: нет SEO title/description в _seo.json
+- /marketing/kontekstnaya-reklama/: нет SEO title/description в _seo.json
+- /marketing/kontent-marketing-i-pr/: нет SEO title/description в _seo.json
+- /marketing/kopirajting/: нет SEO title/description в _seo.json
+- /marketing/marketing-pod-klyuch/: нет SEO title/description в _seo.json
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: сотрудник «Олег Матушкин» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: сотрудник «Алексей Васюхно» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: страница услуги не в меню — оставлена, ссылки только из контента
+- /marketing/optimizacziya-kontenta-posadochnyh-stranicz/: нет SEO title/description в _seo.json
+- /marketing/prodvizhenie-na-marketplejsah/: нет SEO title/description в _seo.json
+- /marketing/razrabotka-semanticheskogo-yadra/: сотрудник «Олег Матушкин» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/razrabotka-semanticheskogo-yadra/: сотрудник «Алексей Васюхно» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/razrabotka-semanticheskogo-yadra/: страница услуги не в меню — оставлена, ссылки только из контента
+- /marketing/razrabotka-semanticheskogo-yadra/: нет SEO title/description в _seo.json
+- /marketing/reklama-u-blogerov/: нет SEO title/description в _seo.json
+- /marketing/reklama-v-internete/: нет SEO title/description в _seo.json
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: сотрудник «Олег Матушкин» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: сотрудник «Алексей Васюхно» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: страница услуги не в меню — оставлена, ссылки только из контента
+- /marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/: нет SEO title/description в _seo.json
+- /marketing/seo_prodvizhenie/: нет SEO title/description в _seo.json
+- /marketing/smm-prodvizhenie/: нет SEO title/description в _seo.json
+- /marketing/targetirovannaya-reklama-v-soczialnyh-setyah/: нет SEO title/description в _seo.json
+- /marketing/tekhnicheskij-audit-sajta/: сотрудник «Олег Матушкин» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/tekhnicheskij-audit-sajta/: сотрудник «Алексей Васюхно» без реального фото (на сайте демо-картинка темы) — скрыт
+- /marketing/tekhnicheskij-audit-sajta/: страница услуги не в меню — оставлена, ссылки только из контента
+- /marketing/tekhnicheskij-audit-sajta/: нет SEO title/description в _seo.json
+- /marketing/veb-analitika/: нет SEO title/description в _seo.json
+- /marketing/video-reklama/: нет SEO title/description в _seo.json
+- /o-kompanii/: нет SEO title/description в _seo.json
+- /portfolio/: нет SEO title/description в _seo.json
+- team/kristina-nizamova: у «Кристина Низамова» разные должности на разных страницах: Руководитель группы веб-аналитиков (/); Руководитель группы PR-менеджеров (/marketing/) — взята первая
+- team/kamila-muratova: у «Камила Муратова» разные должности на разных страницах: Руководитель группы PR-менеджеров (/); Руководитель группы веб-аналитиков (/marketing/) — взята первая
+- team/aleksey-firsov: у «Алексей Фирсов» разные должности на разных страницах: Ведущий специалист по контекстной рекламе (/marketing/kontekstnaya-reklama/); Специалист по контекстной рекламе (/marketing/marketing-pod-klyuch/) — взята первая
+- team/valeriya-lazareva: у «Валерия Лазарева» разные должности на разных страницах: Руководитель отдела контент-маркетинга (/marketing/kontent-marketing-i-pr/); Контент-менеджер (/marketing/marketing-pod-klyuch/) — взята первая
+
+## Не распознано
+

@@ -1,0 +1,115 @@
+---
+/**
+ * Section — one Elementor section of the old site. `background` maps the WP
+ * colours/background images to tokens; image backgrounds are optimised by
+ * astro:assets and passed as a per-instance CSS custom property.
+ */
+import { getImage } from 'astro:assets';
+import type { backgrounds } from '../../../content.config';
+import { asset } from '../../../lib/assets';
+import Container from './Container.astro';
+
+type Background = (typeof backgrounds)[number];
+
+interface Props {
+  background?: Background;
+  padding?: 'none' | 'sm' | 'md';
+  wide?: boolean;
+  id?: string;
+  class?: string;
+  'aria-labelledby'?: string;
+  'aria-label'?: string;
+}
+
+const IMAGES: Partial<Record<Background, string>> = {
+  'pattern-pink': 'wp/2022/01/02.jpg',
+  'pattern-white': 'wp/2022/01/000.png',
+  'shape-sky': 'wp/2022/01/contact-bg.png',
+  'shape-gray': 'wp/2022/04/techno-4.jpg',
+  'glow-dark': 'wp/2022/01/skill-bg.jpg',
+  contact: 'wp/2022/01/about-bg2.png',
+};
+
+const { background = 'white', padding = 'md', wide = false, id, class: className, ...rest } = Astro.props;
+const imagePath = IMAGES[background];
+const bg = imagePath ? await getImage({ src: asset(imagePath), width: 1920, format: 'webp', quality: 70 }) : undefined;
+const dark = background === 'dark' || background === 'glow-dark' || background === 'accent';
+---
+
+<section
+  id={id}
+  class:list={['section', `section--${background}`, `section--pad-${padding}`, className]}
+  style={bg ? `--section-bg-image: url(${bg.src})` : undefined}
+  data-surface={dark ? 'dark' : undefined}
+  aria-labelledby={rest['aria-labelledby']}
+  aria-label={rest['aria-label']}
+>
+  <Container wide={wide}>
+    <slot />
+  </Container>
+</section>
+
+<style>
+  .section {
+    position: relative;
+    background-color: var(--section-bg, var(--surface-default));
+    background-image: var(--section-bg-image, none);
+    background-size: cover;
+    background-position: center;
+    color: var(--color-text);
+  }
+
+  .section--pad-md {
+    padding-block: var(--section-pad);
+  }
+
+  .section--pad-sm {
+    padding-block: var(--section-pad-sm);
+  }
+
+  .section--white,
+  .section--pattern-white {
+    --section-bg: var(--surface-default);
+  }
+
+  .section--gray,
+  .section--shape-gray {
+    --section-bg: var(--surface-gray);
+  }
+
+  .section--pink,
+  .section--pattern-pink {
+    --section-bg: var(--surface-pink);
+  }
+
+  .section--sand {
+    --section-bg: var(--surface-sand);
+  }
+
+  .section--sky,
+  .section--shape-sky,
+  .section--contact {
+    --section-bg: var(--surface-sky);
+  }
+
+  .section--lavender {
+    --section-bg: var(--surface-lavender);
+  }
+
+  .section--dark,
+  .section--glow-dark {
+    --section-bg: var(--surface-dark);
+    color: var(--color-on-dark);
+  }
+
+  .section--accent {
+    --section-bg: var(--surface-accent);
+    color: var(--color-on-dark);
+  }
+
+  .section--dark :global(h1, h2, h3, h4),
+  .section--glow-dark :global(h1, h2, h3, h4),
+  .section--accent :global(h1, h2, h3, h4) {
+    color: var(--color-on-dark);
+  }
+</style>

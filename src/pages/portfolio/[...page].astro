@@ -1,0 +1,27 @@
+---
+/** /portfolio/, /portfolio/2/, … — 9 cases per page, same URLs as WP. */
+import type { GetStaticPaths } from 'astro';
+import PortfolioListing from '../../components/astro/sections/PortfolioListing.astro';
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { pagesRepository, portfolioFiltersRepository, portfolioRepository } from '../../lib/repository';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const cases = (await portfolioRepository.getAll()).sort((a, b) => a.data.order - b.data.order);
+  return paginate(cases, { pageSize: 9 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const filters = await portfolioFiltersRepository.getAll();
+const meta = (await pagesRepository.getAll()).find((p) => p.data.path === '/portfolio/')!.data;
+const url = (n: number) => (n === 1 ? '/portfolio/' : `/portfolio/${n}/`);
+const seo =
+  page.currentPage === 1 ? meta.seo : { ...meta.seo, title: `${meta.seo.title} — страница ${page.currentPage}` };
+const crumbs = [
+  { label: 'Главная', href: '/' },
+  { label: 'Портфолио', href: url(page.currentPage) },
+];
+---
+
+<SiteLayout seo={seo} h1={page.currentPage === 1 ? 'Портфолио' : `Портфолио — страница ${page.currentPage}`} crumbs={crumbs}>
+  <PortfolioListing cases={page.data} filters={filters} pagination={{ current: page.currentPage, last: page.lastPage, url }} />
+</SiteLayout>

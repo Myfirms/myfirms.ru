@@ -15,17 +15,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "4340c75",
+   "width": 1440,
    "height": 515,
    "bg": {
     "color": "rgb(255, 255, 255)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "65c28f3",
      "width": 1140,
+     "height": 452,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "864e4d4",
@@ -44,16 +48,19 @@
        }
       },
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "c87c605",
+       "width": 1108,
        "height": 371,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-full_width",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "21a18cd",
          "width": 562,
+         "height": 371,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "499c674",
@@ -88,9 +95,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "559c569",
          "width": 546,
+         "height": 371,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "0f40701",
@@ -118,17 +128,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "c46f118",
+   "width": 1440,
    "height": 408,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "e687da5",
      "width": 493,
+     "height": 345,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image.default",
        "id": "f6a3c9a",
@@ -258,9 +272,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "21380b9",
      "width": 783,
+     "height": 345,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "0942a0c",
@@ -316,24 +333,31 @@
      ]
     },
     {
+     "type": "column",
+     "id": "353b988",
      "width": 49,
+     "height": 345,
      "bg": {},
-     "items": []
+     "children": []
     }
    ]
   },
   {
+   "type": "section",
    "id": "32363d4",
+   "width": 1440,
    "height": 394,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "edd864f",
      "width": 380,
+     "height": 394,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "ccb97c2",
@@ -366,9 +390,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "565c54d",
      "width": 39,
+     "height": 394,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "551c2fe",
@@ -394,9 +421,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "d788c76",
      "width": 717,
+     "height": 394,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "358691a",
@@ -454,15 +484,19 @@
    ]
   },
   {
+   "type": "container",
    "id": "028bb8c",
+   "width": 1440,
    "height": 322,
    "bg": {},
-   "cls": "e-con-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "container",
+     "id": "bc02b87",
      "width": 1140,
+     "height": 91,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "e95701b",
@@ -494,9 +528,12 @@
      ]
     },
     {
+     "type": "container",
+     "id": "487b711",
      "width": 570,
+     "height": 211,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "service.default",
        "id": "6b4d5eb",
@@ -528,9 +565,12 @@
      ]
     },
     {
+     "type": "container",
+     "id": "4aee42d",
      "width": 570,
+     "height": 211,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "service.default",
        "id": "fba039b",
@@ -553,18 +593,22 @@
    ]
   },
   {
+   "type": "section",
    "id": "f92cce3",
+   "width": 1440,
    "height": 478,
    "bg": {
     "color": "rgb(255, 255, 255)",
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/000.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "d93aeb8",
      "width": 718,
+     "height": 478,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "86d67c2",
@@ -625,9 +669,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "e9a6f7e",
      "width": 422,
+     "height": 478,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "image.default",
        "id": "772cc04",
@@ -687,28 +734,35 @@
    ]
   },
   {
+   "type": "section",
    "id": "343be47",
+   "width": 1440,
    "height": 598,
    "bg": {
     "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "954c886",
      "width": 1140,
+     "height": 540,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "a6fcd80",
+       "width": 1120,
        "height": 520,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "f5ef198",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "image.default",
            "id": "7963b25",
@@ -748,9 +802,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "d763a9e",
          "width": 560,
+         "height": 520,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "shortcode.default",
            "id": "936f403",
@@ -777,17 +834,21 @@
    ]
   },
   {
+   "type": "section",
    "id": "c168a80",
+   "width": 1440,
    "height": 470,
    "bg": {
     "color": "rgb(245, 245, 245)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "a777cb9",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "video.default",
        "id": "a169a98",
@@ -803,20 +864,26 @@
      ]
     },
     {
+     "type": "column",
+     "id": "de0d8a0",
      "width": 720,
+     "height": 407,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "91ff70f",
+       "width": 700,
        "height": 224,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "f6dc157",
          "width": 502,
+         "height": 224,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "sectiontitle.default",
            "id": "a116f78",
@@ -837,9 +904,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "2fcff2f",
          "width": 194,
+         "height": 224,
          "bg": {},
-         "items": []
+         "children": []
         }
        ]
       }

@@ -1,0 +1,172 @@
+---
+/**
+ * Case study page. On WP these used a different (black) header without the
+ * CTA and the breadcrumb skipped "Портфолио" — both unified with the rest of
+ * the site. The case headline was an H3 under a banner H1; it is now the
+ * article's H2.
+ */
+import type { GetStaticPaths } from 'astro';
+import { Image } from 'astro:assets';
+import ContactFormBlock from '../../components/astro/blocks/ContactFormBlock.astro';
+import PortfolioCard from '../../components/astro/cards/PortfolioCard.astro';
+import Section from '../../components/astro/foundation/Section.astro';
+import Counters from '../../components/astro/widgets/Counters.astro';
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { asset } from '../../lib/assets';
+import { portfolioFiltersRepository, portfolioRepository } from '../../lib/repository';
+
+export const getStaticPaths = (async () => {
+  const cases = await portfolioRepository.getAll();
+  return cases.map((c) => ({ params: { slug: c.id }, props: { item: c } }));
+}) satisfies GetStaticPaths;
+
+const { item } = Astro.props;
+const filters = await portfolioFiltersRepository.getAll();
+const names = new Map(filters.map((f) => [f.id, f.data.name]));
+const cats = item.data.filters.map((f) => ({ id: f.id, name: names.get(f.id) ?? f.id }));
+const related = (await portfolioRepository.getAll())
+  .filter((c) => c.id !== item.id && c.data.filters.some((f) => item.data.filters.some((g) => g.id === f.id)))
+  .slice(0, 3);
+const crumbs = [
+  { label: 'Главная', href: '/' },
+  { label: 'Портфолио', href: '/portfolio/' },
+  { label: item.data.title, href: `/portfolio-item/${item.id}/` },
+];
+const icons = ['trending-up', 'chart-column', 'users'];
+const site = (Astro.site ?? new URL('https://myfirms.ru')).toString();
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: item.data.headline,
+    about: item.data.title,
+    url: new URL(`/portfolio-item/${item.id}/`, site).toString(),
+    publisher: { '@type': 'Organization', name: 'MyFirms' },
+  },
+];
+---
+
+<SiteLayout seo={{ ...item.data.seo, ogImage: item.data.seo.ogImage }} h1={item.data.title} crumbs={crumbs} jsonLd={jsonLd}>
+  <Section background="gray">
+    <article class="case">
+      <Image src={asset(item.data.image)} alt="" widths={[640, 960, 1280]} sizes="(max-width: 767px) 100vw, 760px" class="cover" loading="eager" />
+      <div class="body">
+        {
+          cats.length > 0 && (
+            <p class="cats">
+              {cats.map((c) => (
+                <a href={`/portfolio_filter/${c.id}/`}>{c.name}</a>
+              ))}
+            </p>
+          )
+        }
+        <h2 class="headline">{item.data.headline}</h2>
+        {
+          item.data.body.map((s) => (
+            <section class="part">
+              {s.heading && <h3>{s.heading}</h3>}
+              <div class="prose" set:html={s.html} />
+            </section>
+          ))
+        }
+        {
+          item.data.results.length > 0 && (
+            <section class="results" aria-label="Результаты">
+              <Counters items={item.data.results.map((r, i) => ({ ...r, iconName: icons[i % icons.length] }))} />
+            </section>
+          )
+        }
+      </div>
+    </article>
+  </Section>
+
+  <ContactFormBlock title="Хотите такие же результаты в вашем бизнесе?" source="case-study" />
+
+  {
+    related.length > 0 && (
+      <Section background="lavender" aria-labelledby="related-title">
+        <h2 id="related-title" class="related-title">
+          Похожие проекты
+        </h2>
+        <div class="related">
+          {related.map((c) => (
+            <PortfolioCard href={`/portfolio-item/${c.id}/`} title={c.data.title} image={c.data.image} category={names.get(c.data.filters[0]?.id ?? '')} />
+          ))}
+        </div>
+      </Section>
+    )
+  }
+</SiteLayout>
+
+<style>
+  .case {
+    max-width: 860px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: var(--radius-md);
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+  }
+
+  .case :global(.cover) {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .body {
+    display: grid;
+    gap: var(--gap-lg);
+    padding: clamp(24px, 5vw, 48px);
+  }
+
+  .cats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0;
+  }
+
+  .cats a {
+    padding: 4px 12px;
+    border-radius: 999px;
+    background: var(--navy-950);
+    color: var(--white);
+    font: 700 12px/1.4 var(--font-display);
+    text-transform: uppercase;
+  }
+
+  .headline {
+    font-size: clamp(24px, 2.6vw, 30px);
+  }
+
+  .part {
+    display: grid;
+    gap: 12px;
+  }
+
+  .part h3 {
+    font-size: 24px;
+  }
+
+  .related-title {
+    margin-bottom: var(--gap-lg);
+    font-size: var(--text-h2);
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .related {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 767px) {
+    .related {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

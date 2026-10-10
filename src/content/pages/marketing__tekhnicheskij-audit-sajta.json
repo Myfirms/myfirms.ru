@@ -1,0 +1,519 @@
+{
+ "path": "/marketing/tekhnicheskij-audit-sajta/",
+ "h1": "Технический аудит сайта",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Технический аудит сайта — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 100,
+  "menuLabel": "Технический аудит сайта"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2022/01/round1-1.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            },
+            {
+             "kind": "image",
+             "src": "wp/2023/10/portrait-of-discontent-tired-young-beautiful-businesswoman-with-blonde-hair-in-spectacles-stands-against-gray-wall-works-at-new-project-on-tablet-wants-to-have-rest-negative-emotions-and-feelings.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Сайт без ошибок",
+             "level": "h2",
+             "lead": "<p>Если веб-сайт не улучшает позиции в результатах поиска, то необходимо выполнить техническую проверку и устранить недочеты, которые препятствуют продвижению сайта в ТОП поисковых результатов. Мы проведем технический анализ сайта, выявим проблемы и решим их.</p>",
+             "align": "left",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Что такое технический аудит сайта",
+         "level": "h2",
+         "lead": "<p>Технический аудит сайта- это анализ и диагностика веб-страниц, с целью поиска и исправления технических ошибок, мешающих успешному продвижению в поисковых системах Яндекс и Google.</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "slides",
+         "items": [
+          {
+           "title": "",
+           "text": "Отсутствие служебных файлов .htaccess, robots.txt. и sitemap.xml"
+          },
+          {
+           "title": "",
+           "text": "Не настроены 301 редиректы"
+          },
+          {
+           "title": "",
+           "text": "Страницы или отдельные блоки закрыты от индексации"
+          },
+          {
+           "title": "",
+           "text": "Дублирование страниц и одинаковые метатеги на страницах."
+          },
+          {
+           "title": "",
+           "text": "Важные страницы сайта не попали в sitemap.xml"
+          },
+          {
+           "title": "",
+           "text": "Некорректный заголовок H1, Title и Description"
+          },
+          {
+           "title": "",
+           "text": "Полное или частичное дублирование текста на сайте, плагиат"
+          },
+          {
+           "title": "",
+           "text": "Отсутствие читаемого URL-адреса и навигации"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Когда нужно проводить технический аудит",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Как мы проведем технический аудит сайта",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "check",
+         "items": [
+          {
+           "text": "Проверим код сайта на ошибки",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Добавим служебные файлы .htaccess, robots.txt и sitemap.xml"
+          },
+          {
+           "text": "Добавим важные страницы сайта в sitemap.xml"
+          },
+          {
+           "text": "Настроим 301 редиректы"
+          },
+          {
+           "text": "Уберем дубликаты страниц"
+          },
+          {
+           "text": "Уберем неработающие ссылки"
+          },
+          {
+           "text": "Настроим мета-теги в коде страниц"
+          },
+          {
+           "text": "Уберем неуникальный контент"
+          },
+          {
+           "text": "Проверим всe URL-адреса и навигацию на сайте"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "ЗАКАЗАТЬ РЕКЛАМУ"
+         },
+         "variant": "primary"
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2023/10/young-bearded-man-in-suit-looking-camera-while-holding-laptop-computer-isolated.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Сколько стоит провести технический аудит",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<h2>Цена за услуги рассчитывается индивидуально. Мы узнаем, какой у вас бюджет. Проводим предварительный анализ текущего состояния сайта. Определяем объем работ и прогнозируем результат. </h2>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши компетенции",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/121.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/snimok-ekrana-2023-10-10-v-21.37.35.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/150x56.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/1google-search-console.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши лучшие кейсы по техническому аудиту сайтов",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 4,
+         "items": [
+          {
+           "iconName": "angle-double-right",
+           "title": "Scloud",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Geobooking",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Landix",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Народное ЖКХ",
+           "text": "Professionally formulate error free after B2C human it"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Портфолио"
+         },
+         "variant": "primary"
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Обучающие материалы по маркетингу и развитию бизнеса",
+             "level": "h2",
+             "lead": "<p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p>",
+             "align": "left",
+             "onDark": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "button",
+             "link": {
+              "label": "Все уроки"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  }
+ ]
+}

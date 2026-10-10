@@ -15,15 +15,19 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "92d319a",
+   "width": 640,
    "height": 1069,
    "bg": {},
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "6cb0ab6",
      "width": 640,
+     "height": 1069,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "sectiontitle.default",
        "id": "b181401",
@@ -149,26 +153,33 @@
    ]
   },
   {
+   "type": "section",
    "id": "88d6237",
+   "width": 640,
    "height": 185,
    "bg": {},
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "7c0b3d9",
      "width": 640,
+     "height": 185,
      "bg": {},
-     "items": [
+     "children": [
       {
-       "type": "inner-section",
+       "type": "section",
        "id": "17f1e7f",
+       "width": 620,
        "height": 165,
        "bg": {},
-       "cls": "elementor-inner-section elementor-section-boxed",
-       "columns": [
+       "children": [
         {
+         "type": "column",
+         "id": "b3bbdf5",
          "width": 140,
+         "height": 165,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "counter.default",
            "id": "96754e6",
@@ -189,9 +200,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "a1328d5",
          "width": 163,
+         "height": 165,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "counter.default",
            "id": "772af1f",
@@ -212,9 +226,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "a5e3e90",
          "width": 179,
+         "height": 165,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "counter.default",
            "id": "3b272c1",
@@ -235,9 +252,12 @@
          ]
         },
         {
+         "type": "column",
+         "id": "81b480d",
          "width": 138,
+         "height": 165,
          "bg": {},
-         "items": [
+         "children": [
           {
            "type": "counter.default",
            "id": "95892e4",
@@ -264,15 +284,19 @@
    ]
   },
   {
+   "type": "section",
    "id": "d249a71",
+   "width": 640,
    "height": 782,
    "bg": {},
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "e706d36",
      "width": 640,
+     "height": 782,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "spacer.default",
        "id": "826786b",
@@ -317,11 +341,26 @@
    ]
   },
   {
+   "type": "container",
    "id": "ac85521",
+   "width": 640,
    "height": 132,
    "bg": {},
-   "cls": "e-con-boxed",
-   "columns": []
+   "children": [
+    {
+     "type": "text-editor.default",
+     "id": "6f55f78",
+     "text": "*В целях соблюдения NDA и защиты от конкурентов мы заменили настоящие названия компаний и проектов. Ознакомиться с обезличенной документацией по кейсам возможно после подписания договора о неразглашении конфиденциальной информации.",
+     "html": " <p data-pm-slice=\"1 1 []\"><em><span style=\"color: #999999;\">*В целях соблюдения NDA и защиты от конкурентов мы заменили настоящие названия компаний и проектов. Ознакомиться с обезличенной документацией по кейсам возможно после подписания договора о неразглашении конфиденциальной информации.</span></em></p> ",
+     "style": {
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto",
+      "align": "justify"
+     }
+    }
+   ]
   }
  ],
  "article": null

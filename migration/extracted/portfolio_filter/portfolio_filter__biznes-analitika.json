@@ -11,17 +11,21 @@
  "banner": null,
  "sections": [
   {
+   "type": "section",
    "id": "1ce3b524",
+   "width": 1440,
    "height": 117,
    "bg": {
     "color": "rgb(237, 44, 65)"
    },
-   "cls": "elementor-section-boxed",
-   "columns": [
+   "children": [
     {
+     "type": "column",
+     "id": "3d398160",
      "width": 804,
+     "height": 77,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "heading.default",
        "id": "af39637",
@@ -41,9 +45,12 @@
      ]
     },
     {
+     "type": "column",
+     "id": "3a357d5",
      "width": 336,
+     "height": 77,
      "bg": {},
-     "items": [
+     "children": [
       {
        "type": "button.default",
        "id": "1ea7f84",

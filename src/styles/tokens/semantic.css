@@ -1,0 +1,26 @@
+/* Role-named aliases of primitive.css. */
+:root {
+  --color-text: var(--ink-800);
+  --color-heading: var(--ink-900);
+  --color-text-muted: var(--ink-500);
+  --color-link: var(--blue-400);
+  --color-accent: var(--red-500);
+  --color-accent-hover: var(--red-600);
+  --color-primary: var(--navy-900);
+  --color-border: var(--gray-300);
+  --color-border-strong: var(--gray-600);
+  --color-check: var(--green-500);
+  --color-on-dark: var(--white);
+  --color-on-dark-muted: rgb(255 255 255 / 0.72);
+
+  --surface-default: var(--white);
+  --surface-gray: var(--gray-100);
+  --surface-pink: var(--pink-50);
+  --surface-sky: var(--sky-50);
+  --surface-sand: var(--sand-50);
+  --surface-lavender: var(--lavender-200);
+  --surface-dark: var(--navy-950);
+  --surface-banner: var(--navy-800);
+  --surface-footer: var(--navy-footer);
+  --surface-accent: var(--red-500);
+}

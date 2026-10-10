@@ -1,0 +1,120 @@
+{
+ "performance-marketing": {
+  "name": "Performance маркетинг",
+  "order": 0,
+  "items": []
+ },
+ "seo-prodvizhenie": {
+  "name": "SEO продвижение",
+  "order": 1,
+  "items": [
+   "kompaniya-po-gruzoperevozkam-lastochka",
+   "servis-vasha-skidka",
+   "audit-ekspert"
+  ]
+ },
+ "smm": {
+  "name": "SMM",
+  "order": 2,
+  "items": [
+   "finansovyj-ehkspert",
+   "byuti-lain",
+   "bukety-rakety"
+  ]
+ },
+ "biznes-analitika": {
+  "name": "Бизнес-аналитика",
+  "order": 3,
+  "items": [
+   "servis-po-onlain-bronirovaniyu-otelei",
+   "prilozhenie-dlya-hr-speczialistov",
+   "novaya-usluga-v-it-biznese"
+  ]
+ },
+ "veb-analitika": {
+  "name": "Веб-аналитика",
+  "order": 4,
+  "items": [
+   "medtekh-grupp",
+   "turagenstvo-globus-travel",
+   "ivan-topazov"
+  ]
+ },
+ "videoreklama": {
+  "name": "Видеореклама",
+  "order": 5,
+  "items": [
+   "proizvoditel-ochishhayushhih-sredstv-dlya-stiralnyh-mashin-washing",
+   "brend-odezhdy-bella",
+   "meat-show"
+  ]
+ },
+ "integraczii": {
+  "name": "Интеграции",
+  "order": 6,
+  "items": []
+ },
+ "kontekstnaya-reklama": {
+  "name": "Контекстная реклама",
+  "order": 7,
+  "items": [
+   "autopost",
+   "otlichnyj-dom",
+   "arigato"
+  ]
+ },
+ "pr": {
+  "name": "Контент-маркетинг и PR",
+  "order": 8,
+  "items": [
+   "bankrot-ehkspert",
+   "buhgalter-plyus",
+   "zastroishhik-stroiprogress"
+  ]
+ },
+ "kopirajt": {
+  "name": "Копирайтинг",
+  "order": 9,
+  "items": [
+   "remont-bytovoi-tehniki",
+   "agentstvo-nedvizhimosti-vysota",
+   "pankratov-i-partnery"
+  ]
+ },
+ "marketplejsy": {
+  "name": "Маркетплейсы",
+  "order": 10,
+  "items": [
+   "kancelyarskij-mir",
+   "avtomaticheskie-kormushki-dlya-zhivotnyh",
+   "prodazhi-raketok-dlya-nastolnogo-tennisa"
+  ]
+ },
+ "reklama": {
+  "name": "Реклама",
+  "order": 11,
+  "items": [
+   "autopost",
+   "otlichnyj-dom",
+   "arigato"
+  ]
+ },
+ "reklama-u-blogerov": {
+  "name": "Реклама у блогеров",
+  "order": 12,
+  "items": [
+   "prodvizhenie-mobilnoi-igry",
+   "shkola-inostrannyh-yazykov",
+   "magazin-svechei-ruchnoi-raboty"
+  ]
+ },
+ "targetirovannaya-reklama": {
+  "name": "Таргетированная реклама",
+  "order": 13,
+  "items": [
+   "magazin-sportivnyh-tovarov-sportcity",
+   "avtosalon-maksimum",
+   "studiya-osteoplastiki-travinoi"
+  ]
+ }
+}

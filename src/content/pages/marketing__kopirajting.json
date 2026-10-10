@@ -1,0 +1,326 @@
+{
+ "path": "/marketing/kopirajting/",
+ "h1": "Копирайтинг",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Копирайтинг — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 8,
+  "menuLabel": "Копирайтинг"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "white",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Напишем текст для сайта или рекламы",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "text",
+             "html": "<p>Профессионально пишем продающие и SEO-адаптированные тексты для вашего сайта, карточки товара в маркетплейсе или рекламных объявлений. Создаем контент в любой тематике бизнеса и любой сложности. Завоевываем доверие вашей целевой аудитории и подогреваем интерес к вашему продукту с помощью магии слова.</p>",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать текст"
+             },
+             "variant": "primary"
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2024/04/2148824878.jpg",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pattern-pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Услуги копирайтинга от MyFirms",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 5,
+         "items": [
+          {
+           "iconName": "idea-1",
+           "title": "Продающий текст"
+          },
+          {
+           "iconName": "analytics",
+           "title": "SEO текст"
+          },
+          {
+           "iconName": "world",
+           "title": "Статьи и новости"
+          },
+          {
+           "iconName": "school",
+           "title": "Инструкции и гайды"
+          },
+          {
+           "iconName": "responsive",
+           "title": "Описание товара для маркетплейсов"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 4,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/21jjczu320-1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Как работают наши копирайтеры",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Анализируем потребности вашей целевой аудитории, а также контент сайтов ваших конкурентов. Мы используем в тексте те ключевые слова, через которые ваши потенциальные клиенты ищут информацию о вашем продукте. Это не только продвигает ваш сайт в Google и Яндекс, но и мотивирует человека совершить целевое действие - купить, заказать, подписаться, скачать, ознакомиться с инструкцией. </p>",
+         "onDark": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "glow-dark",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "quote",
+         "text": "Мы пишем интересные, вовлекающие и эмоциональные тексты. Они захватывают внимание, закрывают возражения и сомнения потенциального покупателя. Посетитель сайта запомнит информацию о вашем продукте и бренде, что позволит впоследствии легче продать ему товар или услугу."
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    },
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "shape-sky",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 7,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        },
+        {
+         "kind": "title",
+         "text": "Стоимость услуг копирайтеров MyFirms",
+         "level": "h2",
+         "lead": "<p>Цена за текст стартует от 5000 руб. Конечная стоимость зависит от объема текста, сложности тематики и жанра (продающий, SEO, новость, инструкция и др.). Мы подбираем копирайтера с опытом работы в вашем бизнесе. И перед написанием обязательно проводим анализ потребностей тех, кто его будет читать, чтобы достичь поставленной цели - продать, ознакомить, подогреть интерес и т.д. </p>",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Заказать рекламу"
+         },
+         "variant": "primary"
+        },
+        {
+         "kind": "image",
+         "src": "wp/2022/11/section1.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 5,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2024/04/10819.png",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "pink",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши копирайтеры",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Наши копирайтеры - это бывшие журналисты с опытом работы в СМИ и богатым портфолио работы в разных сферах бизнеса.</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "irina-pavlova",
+     "role": "Главный редактор"
+    },
+    {
+     "member": "aleksey-ilin",
+     "role": "Копирайтер в IT и B2B продуктах"
+    },
+    {
+     "member": "irina-karnaulova",
+     "role": "Копирайтер в бьюти, здоровье и красоте"
+    },
+    {
+     "member": "kirill-chistyakov",
+     "role": "Копирайтер в строительстве и производстве"
+    },
+    {
+     "member": "aleksandra-baskakova",
+     "role": "Копирайтер в торговле, финансах и юр. услугах"
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "videoLesson",
+   "youtubeId": "ozrCFaDPKpw",
+   "title": "Уроки по маркетингу для руководителей",
+   "text": "<p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как правильно писать тексты, чтобы продвигать свой сайт в Яндекс и Гугл. Объясню, как копирайт помогает сделать больше заявок на сайте. Что такое продающий текст, и чем отличается от текста для SEO продвижения? Расскажу, где искать копирайтера и как ставить ему техническое задание.</p>"
+  }
+ ]
+}

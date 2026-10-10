@@ -1,0 +1,40 @@
+---
+/**
+ * Public page chrome: header, optional page banner (H1 + breadcrumbs),
+ * content, YouTube band, footer, request-form dialog, cookie notice.
+ * Pages without a banner (home) must render their own H1.
+ */
+import CookieNotice from '../components/astro/global/CookieNotice.astro';
+import Footer from '../components/astro/global/Footer.astro';
+import Header from '../components/astro/global/Header.astro';
+import PageBanner from '../components/astro/global/PageBanner.astro';
+import SubscribeBand from '../components/astro/global/SubscribeBand.astro';
+import RequestFormDialog from '../components/react/RequestFormDialog';
+import { toBreadcrumbList, type BreadcrumbItem } from '../lib/contracts/breadcrumbs';
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  seo: { title: string; description: string; ogImage?: string };
+  /** Banner H1; omit on the homepage. */
+  h1?: string;
+  crumbs?: BreadcrumbItem[];
+  jsonLd?: object[];
+}
+
+const { seo, h1, crumbs = [], jsonLd = [] } = Astro.props;
+const site = (Astro.site ?? new URL('https://myfirms.ru')).toString();
+const ld = crumbs.length ? [toBreadcrumbList(crumbs, site), ...jsonLd] : jsonLd;
+---
+
+<BaseLayout title={seo.title} description={seo.description} ogImage={seo.ogImage} jsonLd={ld}>
+  <slot name="head" slot="head" />
+  <Header />
+  <main id="main">
+    {h1 && <PageBanner title={h1} crumbs={crumbs} />}
+    <slot />
+  </main>
+  <SubscribeBand />
+  <Footer />
+  <RequestFormDialog client:idle />
+  <CookieNotice />
+</BaseLayout>

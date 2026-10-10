@@ -1,0 +1,251 @@
+---
+/**
+ * Homepage hero (was Revolution Slider). Same artwork composition as WP:
+ * navy "slider-7" background, girl with laptop on red/blue cards, floating
+ * chart / Figma / crystal shapes. Fixed WP bugs: the slider arrow overlapped
+ * the bullet list, the red-on-red "Подробнее" label was unreadable, and the
+ * first slide rendered without its title on load. The page H1 is the first
+ * slide's title (the only slide visible without interaction).
+ */
+import { getImage, Image } from 'astro:assets';
+import type { Block } from '../../../content.config';
+import { asset } from '../../../lib/assets';
+import Icon from '../foundation/Icon.astro';
+
+type Props = Extract<Block, { type: 'hero' }>;
+
+const { slides } = Astro.props;
+const bg = await getImage({ src: asset('wp/2022/01/slider-7.jpg'), width: 1920, format: 'webp', quality: 65 });
+const art = (p: string) => asset(`wp/2022/01/${p}`);
+---
+
+<section class="hero" style={`--hero-bg: url(${bg.src})`} data-surface="dark" data-carousel data-autoplay="7000" aria-roledescription="carousel" aria-label="Ключевые предложения">
+  <div class="inner">
+    <div class="track" data-carousel-track>
+      {
+        slides.map((s, i) => (
+          <div class="slide" role="group" aria-roledescription="slide" aria-label={`${i + 1} из ${slides.length}`}>
+            {i === 0 ? (
+              <h1 class="title">
+                {s.title} <span>{s.subtitle}</span>
+              </h1>
+            ) : (
+              <p class="title">
+                {s.title} <span>{s.subtitle}</span>
+              </p>
+            )}
+            <ul class="points">
+              {s.points.map((p) => (
+                <li>{p}</li>
+              ))}
+            </ul>
+            <a href={s.link.href ?? '/marketing/'} class="more">
+              {s.link.label}
+              <Icon name="arrow-right" size={18} />
+            </a>
+          </div>
+        ))
+      }
+    </div>
+
+    <div class="art" aria-hidden="true">
+      <Image src={art('shape.png')} alt="" class="a-cards" widths={[360, 546]} sizes="360px" loading="eager" />
+      <Image src={art('2020.png')} alt="" class="a-girl" widths={[300, 419]} sizes="320px" loading="eager" fetchpriority="high" />
+      <Image src={art('shape1.png')} alt="" class="a-chart" width={244} height={144} loading="eager" />
+      <Image src={art('shape2.png')} alt="" class="a-figma" width={125} height={126} loading="eager" />
+      <Image src={art('shape9.png')} alt="" class="a-crystal" width={77} height={86} loading="eager" />
+      <Image src={art('shape5.png')} alt="" class="a-zigzag" width={86} height={26} loading="eager" />
+    </div>
+
+    <div class="controls">
+      <button type="button" data-carousel-prev aria-label="Предыдущий слайд"><Icon name="chevron-left" size={28} /></button>
+      <button type="button" data-carousel-next aria-label="Следующий слайд"><Icon name="chevron-right" size={28} /></button>
+    </div>
+  </div>
+</section>
+
+<script>
+  import '../../../scripts/carousel';
+</script>
+
+<style>
+  .hero {
+    position: relative;
+    overflow: hidden;
+    background: var(--navy-900) var(--hero-bg) center / cover no-repeat;
+    color: var(--white);
+  }
+
+  .inner {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 520px);
+    align-items: center;
+    gap: var(--gap-lg);
+    max-width: calc(var(--content-wide) + 2 * var(--side-pad));
+    min-height: 800px;
+    margin: 0 auto;
+    padding: calc(var(--header-h) + 40px) var(--side-pad) 60px;
+  }
+
+  .track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 100%;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+
+  .track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .slide {
+    display: grid;
+    align-content: center;
+    gap: 28px;
+    scroll-snap-align: start;
+  }
+
+  .title {
+    margin: 0;
+    font: 700 var(--text-hero) / 1.15 var(--font-display);
+    letter-spacing: -0.02em;
+    color: var(--white);
+  }
+
+  .title span {
+    display: block;
+  }
+
+  .points {
+    display: grid;
+    gap: 8px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font: 500 18px/1.4 var(--font-sans);
+  }
+
+  .points li::before {
+    content: '— ';
+    color: var(--color-accent);
+  }
+
+  .more {
+    display: inline-flex;
+    align-items: center;
+    justify-self: start;
+    gap: 10px;
+    min-height: 54px;
+    padding: 0 32px;
+    border-radius: var(--radius-sm);
+    background: linear-gradient(90deg, var(--red-500), #ff6b4a);
+    color: var(--white);
+    font: 700 18px/1 var(--font-display);
+    transition: filter var(--transition);
+  }
+
+  .more:hover {
+    filter: brightness(1.1);
+  }
+
+  .art {
+    position: relative;
+    aspect-ratio: 520 / 620;
+  }
+
+  .art :global(img) {
+    position: absolute;
+    height: auto;
+  }
+
+  .art :global(.a-cards) {
+    left: 8%;
+    top: 6%;
+    width: 78%;
+  }
+
+  .art :global(.a-girl) {
+    left: 18%;
+    top: 0;
+    width: 64%;
+  }
+
+  .art :global(.a-chart) {
+    left: -8%;
+    top: 14%;
+    width: 36%;
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .art :global(.a-figma) {
+    left: 0;
+    bottom: 12%;
+    width: 18%;
+    animation: float 5s ease-in-out infinite reverse;
+  }
+
+  .art :global(.a-crystal) {
+    left: -16%;
+    top: 22%;
+    width: 11%;
+    animation: float 7s ease-in-out infinite;
+  }
+
+  .art :global(.a-zigzag) {
+    left: -40%;
+    bottom: 20%;
+    width: 12%;
+  }
+
+  @keyframes float {
+    50% {
+      transform: translateY(-14px);
+    }
+  }
+
+  .controls {
+    position: absolute;
+    right: var(--side-pad);
+    bottom: 28px;
+    display: flex;
+    gap: 8px;
+  }
+
+  .controls button {
+    display: grid;
+    place-items: center;
+    width: 48px;
+    height: 48px;
+    border: 1px solid rgb(255 255 255 / 0.4);
+    border-radius: 50%;
+    background: transparent;
+    color: var(--white);
+    cursor: pointer;
+    transition: background var(--transition);
+  }
+
+  .controls button:hover {
+    background: rgb(255 255 255 / 0.15);
+  }
+
+  @media (max-width: 1023px) {
+    .inner {
+      grid-template-columns: 1fr;
+      min-height: 0;
+      padding-top: calc(76px + 40px);
+    }
+
+    .art {
+      width: min(420px, 80%);
+      justify-self: center;
+    }
+
+    .controls {
+      position: static;
+      justify-content: center;
+    }
+  }
+</style>

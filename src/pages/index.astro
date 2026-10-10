@@ -1,16 +1,12 @@
 ---
-/** Placeholder until the homepage template is built. */
+import Blocks from '../components/astro/blocks/Blocks.astro';
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { pagesRepository } from '../lib/repository';
+
+const home = (await pagesRepository.getAll()).find((p) => p.data.path === '/');
+if (!home) throw new Error('Homepage content (src/content/pages/home.json) is missing');
 ---
 
-<!doctype html>
-<html lang="ru">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="robots" content="noindex, nofollow" />
-    <title>MyFirms</title>
-  </head>
-  <body>
-    <p>MyFirms — сайт в разработке.</p>
-  </body>
-</html>
+<SiteLayout seo={home.data.seo}>
+  <Blocks blocks={home.data.blocks} />
+</SiteLayout>

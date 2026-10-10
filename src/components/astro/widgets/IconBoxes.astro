@@ -1,0 +1,81 @@
+---
+/** Small icon tiles ("Количество заявок", "Стоимость заявки", …), 2 per row. */
+import Icon from '../foundation/Icon.astro';
+
+interface Props {
+  items: { iconName: string; title: string }[];
+}
+
+const { items } = Astro.props;
+const tones = ['green', 'red', 'purple', 'blue'];
+---
+
+<ul class="boxes">
+  {
+    items.map((b, i) => (
+      <li class:list={['box', `box--${tones[i % tones.length]}`]}>
+        <span class="icon">
+          <Icon name={b.iconName} size={24} />
+        </span>
+        <span class="box-title">{b.title}</span>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .boxes {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .box {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-height: 76px;
+    padding: 12px 16px;
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+  }
+
+  .icon {
+    display: grid;
+    flex: none;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: var(--surface-pink);
+  }
+
+  .box-title {
+    font: 700 16px/1.25 var(--font-display);
+  }
+
+  .box--green {
+    color: var(--green-500);
+  }
+
+  .box--red {
+    color: var(--red-500);
+  }
+
+  .box--purple {
+    color: #b712ff;
+  }
+
+  .box--blue {
+    color: var(--blue-600);
+  }
+
+  @media (max-width: 479px) {
+    .boxes {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

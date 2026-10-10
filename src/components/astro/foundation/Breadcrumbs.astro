@@ -1,0 +1,69 @@
+---
+/**
+ * Breadcrumbs — implements src/lib/contracts/breadcrumbs.ts. Visually as on
+ * WP: uppercase, ">" separators, current page in the accent colour.
+ */
+import type { BreadcrumbItem } from '../../../lib/contracts/breadcrumbs';
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+---
+
+<nav aria-label="Хлебные крошки" class="breadcrumbs">
+  <ol>
+    {
+      items.map((item, index) => (
+        <li>
+          {index === items.length - 1 ? (
+            <span aria-current="page">{item.label}</span>
+          ) : (
+            <>
+              <a href={item.href}>{item.label}</a>
+              <span class="sep" aria-hidden="true">
+                &gt;
+              </span>
+            </>
+          )}
+        </li>
+      ))
+    }
+  </ol>
+</nav>
+
+<style>
+  .breadcrumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font: 500 15px/1.4 var(--font-sans);
+    text-transform: uppercase;
+  }
+
+  .breadcrumbs li {
+    display: flex;
+    gap: 6px;
+  }
+
+  .breadcrumbs a {
+    color: var(--blue-400);
+  }
+
+  .breadcrumbs a:hover {
+    color: var(--white);
+  }
+
+  .sep {
+    color: var(--white);
+  }
+
+  [aria-current='page'] {
+    color: var(--color-accent);
+  }
+</style>

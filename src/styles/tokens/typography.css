@@ -1,0 +1,20 @@
+:root {
+  --font-sans: 'Roboto', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  --font-display: 'Roboto Condensed', 'Roboto', 'Arial Narrow', sans-serif;
+
+  --text-body: 16px;
+  --text-body-lg: 18px;
+  --text-small: 14px;
+  --text-caption: 13px;
+  --leading-body: 1.6;
+  --leading-tight: 1.2;
+
+  /* Headings (Roboto Condensed). Section titles are uppercase on the WP site. */
+  --text-banner: clamp(34px, 4.2vw, 55px);
+  --text-hero: clamp(36px, 4.6vw, 64px);
+  --text-h2: clamp(24px, 2.4vw, 30px);
+  --text-h3: 22px;
+  --text-h4: 18px;
+  --weight-heading: 700;
+  --tracking-heading: -0.02em;
+}

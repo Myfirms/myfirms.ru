@@ -1,0 +1,520 @@
+{
+ "path": "/marketing/optimizacziya-kontenta-posadochnyh-stranicz/",
+ "h1": "Оптимизация контента посадочных страниц",
+ "parent": "/marketing/",
+ "seo": {
+  "title": "Оптимизация контента посадочных страниц — MyFirms",
+  "description": ""
+ },
+ "service": {
+  "order": 100,
+  "menuLabel": "Оптимизация контента посадочных страниц"
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "image",
+             "src": "wp/2022/01/round1-1.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            },
+            {
+             "kind": "image",
+             "src": "wp/2023/10/ama.png",
+             "alt": "",
+             "rounded": true,
+             "decorative": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Уникальный сайт с высокой конверсией",
+             "level": "h2",
+             "lead": "<p>Сделаем полезный и уникальный контент для ваших пользователей и поможем его адаптировать под требования поисковых систем. Вы получите высокий трафик на сайте и увеличите продажи.</p>",
+             "align": "left",
+             "onDark": false
+            },
+            {
+             "kind": "button",
+             "link": {
+              "label": "Заказать рекламу"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Что такое оптимизация контента",
+         "level": "h2",
+         "lead": "<p>Оптимизация контента – это разработка полезного и уникального материала для сайта, который будет привлекать пользователей и занимать высокие позиции в поисковых системах. Для того чтобы сайт всегда занимал высокие позиции в результатах поиска, проводится оптимизация текстового контента, изображений и структуры страницы.</p>",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2023/10/bez-zagoloshhshhvka.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/bez-zagolovka.png",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Комплексная работа по оптимизации посадочных страниц",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "cards",
+         "columns": 3,
+         "items": [
+          {
+           "iconName": "support-6",
+           "title": "SEO оптимизация текстов",
+           "text": "Сделаем ваши тексты на страницах уникальными, подберем ключевые фразы, проработаем структуру текста. Проработаем информационную часть страниц, так и коммерческую."
+          },
+          {
+           "iconName": "networking",
+           "title": "Оптимизация изображений",
+           "text": "Проработаем качество визуальных элементов: подбирем подходящие фотографии и картинки, пропишем метатеги и заголовки к ним."
+          },
+          {
+           "iconName": "user",
+           "title": "Перелинковка страниц",
+           "text": "Настроим внутреннюю разметку страниц между разделами по заранее выбранной схеме перелинковки. Грамотно распределим ссылочный вес на продвигаемые страницы и как следствие, улучшим юзабилити сайта."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Каким должен быть текст на сайте",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 3,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Этапы продвижения сайта с MYFIRMS",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "check",
+         "items": [
+          {
+           "text": "Проанализируем контент сайта",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Проведем конкурентный анализ"
+          },
+          {
+           "text": "Подготовим стратегию продвижения"
+          },
+          {
+           "text": "Соберем семантическое ядро"
+          },
+          {
+           "text": "Уберем ошибки в сайте, доработаем структуру, пропишем meta-теги"
+          },
+          {
+           "text": "Настроим перелинковку, оптимизируем изображения"
+          },
+          {
+           "text": "Подготовим подробное техническое задание для копирайтера с органичным вхождением ключевых слов, продуманной структурой"
+          },
+          {
+           "text": "Внедрим все изменения на сайт"
+          },
+          {
+           "text": "Соберем статистику влияния оптимизации на сайт, трафик и конверсию"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "ЗАКАЗАТЬ РЕКЛАМУ"
+         },
+         "variant": "primary"
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2023/10/young-colleagues.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши компетенции",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/121.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/snimok-ekrana-2023-10-10-v-21.37.35.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/150x56.png",
+           "alt": ""
+          },
+          {
+           "src": "wp/2023/10/1google-search-console.png",
+           "alt": ""
+          }
+         ],
+         "logos": true
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Сколько стоит продвижение сайта",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<h4>Цена за услуги по настройке рассчитывается индивидуально. Цена зависит от типа ресурса (корпоративный портал, интернет-магазин, визитка, лендинг и т.д.), от согласованного объема обязательных и дополнительных работ по внутренней оптимизации сайта, от количества запросов и продвигаемых страниц.</h4><h4>Стоимость SEO для вашего проекта сможет определить специалист после первичной оценки. Мы с удовольствием проконсультируем вас и дадим рекомендации, актуальные для вашего сайта.</h4>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Наши лучшие кейсы по оптимизации контента",
+         "level": "h2",
+         "align": "center",
+         "onDark": false
+        },
+        {
+         "kind": "cards",
+         "columns": 4,
+         "items": [
+          {
+           "iconName": "angle-double-right",
+           "title": "Scloud",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Geobooking",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Landix",
+           "text": "Professionally formulate error free after B2C human it"
+          },
+          {
+           "iconName": "angle-double-right",
+           "title": "Народное ЖКХ",
+           "text": "Professionally formulate error free after B2C human it"
+          }
+         ]
+        },
+        {
+         "kind": "button",
+         "link": {
+          "label": "Портфолио"
+         },
+         "variant": "primary"
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  },
+  {
+   "type": "layout",
+   "background": "lavender",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 12,
+       "widgets": [
+        {
+         "kind": "row",
+         "columns": [
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "title",
+             "text": "Обучающие материалы по маркетингу и развитию бизнеса",
+             "level": "h2",
+             "lead": "<p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p>",
+             "align": "left",
+             "onDark": false
+            }
+           ]
+          },
+          {
+           "span": 6,
+           "widgets": [
+            {
+             "kind": "button",
+             "link": {
+              "label": "Все уроки"
+             },
+             "variant": "primary"
+            }
+           ]
+          }
+         ],
+         "reverseOnMobile": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  }
+ ]
+}

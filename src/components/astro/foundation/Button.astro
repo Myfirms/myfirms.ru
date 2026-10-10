@@ -1,0 +1,105 @@
+---
+/**
+ * Button. Without `href` it opens the request-form dialog — every WP button
+ * that pointed to "#" (and did nothing) now does that.
+ */
+import Icon from './Icon.astro';
+
+interface Props {
+  href?: string;
+  variant?: 'primary' | 'accent' | 'outline-light' | 'youtube';
+  arrow?: boolean;
+  external?: boolean;
+  class?: string;
+}
+
+const { href, variant = 'primary', arrow = variant === 'primary', external, class: className } = Astro.props;
+const isExternal = external ?? (href ? /^https?:\/\//.test(href) : false);
+const classes = ['btn', `btn--${variant}`, className];
+---
+
+{
+  href ? (
+    <a href={href} class:list={classes} {...(isExternal && { target: '_blank', rel: 'noopener' })}>
+      {variant === 'youtube' && <Icon name="youtube" size={18} />}
+      <span><slot /></span>
+      {arrow && <Icon name="circle-arrow-right" size={20} />}
+    </a>
+  ) : (
+    <button type="button" class:list={classes} data-request-form>
+      <span><slot /></span>
+      {arrow && <Icon name="circle-arrow-right" size={20} />}
+    </button>
+  )
+}
+
+<style>
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-height: var(--btn-h);
+    padding: 0 var(--btn-pad-x);
+    border: 0;
+    border-radius: var(--btn-radius);
+    font: var(--btn-font);
+    text-align: center;
+    cursor: pointer;
+    transition:
+      background var(--transition),
+      color var(--transition),
+      transform var(--transition);
+  }
+
+  .btn:active {
+    transform: translateY(1px);
+  }
+
+  .btn--primary {
+    background: var(--color-primary);
+    color: var(--white);
+  }
+
+  .btn--primary:hover {
+    background: var(--blue-500);
+  }
+
+  .btn--accent {
+    background: var(--color-accent);
+    color: var(--white);
+  }
+
+  .btn--accent:hover {
+    background: var(--color-accent-hover);
+  }
+
+  .btn--outline-light {
+    min-height: 44px;
+    padding: 0 28px;
+    border: 1px solid var(--white);
+    border-radius: 0;
+    background: transparent;
+    color: var(--white);
+    font: 600 17px/1 var(--font-display);
+  }
+
+  .btn--outline-light:hover {
+    background: var(--white);
+    color: var(--color-primary);
+  }
+
+  /* The WP button had blue text on a blue background (unreadable) — fixed. */
+  .btn--youtube {
+    min-height: 52px;
+    padding: 0 22px;
+    border-radius: var(--radius-sm);
+    background: var(--blue-500);
+    color: var(--white);
+    font: 500 16px/1 var(--font-sans);
+  }
+
+  .btn--youtube:hover {
+    background: var(--navy-900);
+  }
+</style>

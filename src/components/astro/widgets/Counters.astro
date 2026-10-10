@@ -1,0 +1,91 @@
+---
+/** Number counters ("15+ лет на рынке"): white tiles with a gradient icon. */
+import Icon from '../foundation/Icon.astro';
+
+interface Props {
+  items: { iconName?: string; value: string; suffix: string; label: string }[];
+}
+
+const { items } = Astro.props;
+const tones = ['red', 'blue', 'green'];
+---
+
+<ul class="counters">
+  {
+    items.map((c, i) => (
+      <li class="counter">
+        {c.iconName && (
+          <span class:list={['icon', `icon--${tones[i % tones.length]}`]}>
+            <Icon name={c.iconName} size={30} />
+          </span>
+        )}
+        <p class="value">
+          {c.value}
+          <span class="suffix">{c.suffix}</span>
+        </p>
+        <p class="label">{c.label}</p>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .counters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 16px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .counter {
+    display: grid;
+    justify-items: center;
+    gap: 8px;
+    padding: 28px 16px 24px;
+    border-radius: var(--radius-sm);
+    background: var(--white);
+    box-shadow: var(--shadow-card);
+    text-align: center;
+  }
+
+  .icon {
+    display: grid;
+    place-items: center;
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    color: var(--white);
+  }
+
+  .icon--red {
+    background: linear-gradient(135deg, #ff7b5c, var(--red-500));
+  }
+
+  .icon--blue {
+    background: linear-gradient(135deg, #3ec6ff, var(--blue-600));
+  }
+
+  .icon--green {
+    background: linear-gradient(135deg, #a8e063, var(--green-500));
+  }
+
+  .value {
+    margin: 0;
+    font: 700 36px/1 var(--font-display);
+    color: var(--navy-900);
+  }
+
+  .suffix {
+    margin-left: 2px;
+    font-size: 26px;
+  }
+
+  .label {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.35;
+    color: var(--navy-900);
+  }
+</style>

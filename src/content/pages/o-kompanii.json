@@ -1,0 +1,177 @@
+{
+ "path": "/o-kompanii/",
+ "h1": "О компании",
+ "seo": {
+  "title": "О компании — MyFirms",
+  "description": ""
+ },
+ "blocks": [
+  {
+   "type": "layout",
+   "background": "shape-gray",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "image",
+         "src": "wp/2022/04/tbs2.jpg",
+         "alt": "",
+         "rounded": true,
+         "decorative": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "Чем мы занимаемся",
+         "level": "h2",
+         "eyebrow": "О нашей компании",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "list",
+         "icon": "check",
+         "items": [
+          {
+           "text": "Интернет-маркетинг под ключ",
+           "href": "/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+          },
+          {
+           "text": "Веб-разработка"
+          },
+          {
+           "text": "Бизнес-консалтинг"
+          }
+         ]
+        },
+        {
+         "kind": "text",
+         "html": "<p>Профессионально настроем рекламу вашего продукта. Разработаем сайт и популяризируем ваши товары или услуги в поисковых системах и социальных сетях. Поможем в развитии бизнеса и освоении новых ниш. Проанализируем воронку продаж и найдем новые точки роста клиентской базы, увеличим прибыль и снизим затраты на привлечение.</p>",
+         "onDark": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "layout",
+   "background": "gray",
+   "rows": [
+    {
+     "columns": [
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "title",
+         "text": "История MyFirms",
+         "level": "h2",
+         "align": "left",
+         "onDark": false
+        },
+        {
+         "kind": "text",
+         "html": "<p>Наша команда образовалась в 2008 году. Тогда мы сделали свои первые сайты и начали их продвигать в интернете.<br><br> В 2011 г. мы накопили внушительный опыт в веб-разработке и начали брать сложные проекты: облачные сервисы, платежные системы, CRM и системы учета, и даже браузерные игры.<br><br> В 2013 г. мы начали развивать направление маркетинга: настройка рекламы, продвижение сайта, создание продающих страниц, привлечение аудитории через соц. сети. И с ростом клиентской базы мы решили зарегистрировать нашу компанию официально \"РусВеб\".<br><br> В 2017 году произошел ребрендинг на \"Майфирмс\".<br><br></p>",
+         "onDark": false
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "widgets": [
+        {
+         "kind": "carousel",
+         "images": [
+          {
+           "src": "wp/2024/03/pppyyypp.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2022/04/tbs1.jpg",
+           "alt": ""
+          },
+          {
+           "src": "wp/2024/04/chchch.jpg",
+           "alt": ""
+          }
+         ],
+         "logos": false
+        }
+       ]
+      }
+     ],
+     "reverseOnMobile": false
+    }
+   ]
+  },
+  {
+   "type": "team",
+   "background": "pattern-pink",
+   "members": [
+    {
+     "member": "sergey-shestov",
+     "role": "Руководитель группы таргетологов"
+    },
+    {
+     "member": "andrey-shevchenko",
+     "role": "Руководитель группы SEO-специалистов"
+    },
+    {
+     "member": "kristina-nizamova",
+     "role": "Руководитель группы веб-аналитиков"
+    },
+    {
+     "member": "irina-pavlova",
+     "role": "Главный редактор"
+    },
+    {
+     "member": "kamila-muratova",
+     "role": "Руководитель группы PR-менеджеров"
+    },
+    {
+     "member": "anastasiya-orlova",
+     "role": "Руководитель группы SMM-специалистов"
+    },
+    {
+     "member": "yuliya-kim",
+     "role": "Координатор региональных медиа-агентств"
+    }
+   ],
+   "title": "Наша команда экспертов",
+   "lead": "<p>В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.</p>"
+  },
+  {
+   "type": "portfolio",
+   "title": "Истории наших проектов",
+   "items": [
+    "bankrot-ehkspert",
+    "buhgalter-plyus",
+    "remont-bytovoi-tehniki",
+    "servis-po-onlain-bronirovaniyu-otelei",
+    "prilozhenie-dlya-hr-speczialistov",
+    "kancelyarskij-mir",
+    "avtomaticheskie-kormushki-dlya-zhivotnyh",
+    "finansovyj-ehkspert",
+    "byuti-lain"
+   ],
+   "link": {
+    "label": "Портфолио",
+    "href": "/portfolio/"
+   }
+  },
+  {
+   "type": "contactForm",
+   "title": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+---
+/**
+ * Renders a column's widget list (see `Widget` in content.config.ts).
+ * `row` widgets recurse through Astro.self, mirroring Elementor's nested
+ * sections. Decorative WP shapes (floating balls, arrows) are skipped.
+ */
+import { Image } from 'astro:assets';
+import type { Widget } from '../../../content.config';
+import { asset } from '../../../lib/assets';
+import Button from '../foundation/Button.astro';
+import Cards from './Cards.astro';
+import Carousel from './Carousel.astro';
+import Counters from './Counters.astro';
+import IconBoxes from './IconBoxes.astro';
+import List from './List.astro';
+import Process from './Process.astro';
+import Progress from './Progress.astro';
+import Quote from './Quote.astro';
+import Slides from './Slides.astro';
+import Steps from './Steps.astro';
+import Tabs from './Tabs.astro';
+import Title from './Title.astro';
+import VideoEmbed from './VideoEmbed.astro';
+
+interface Props {
+  widgets: Widget[];
+}
+
+const { widgets } = Astro.props;
+const visible = widgets.filter((w) => !(w.kind === 'image' && w.decorative));
+---
+
+{
+  visible.map((w) => {
+    switch (w.kind) {
+      case 'title':
+        return <Title text={w.text} level={w.level} eyebrow={w.eyebrow} lead={w.lead} align={w.align} onDark={w.onDark} />;
+      case 'text':
+        return <div class:list={['prose', 'w-text', w.onDark && 'w-text--dark']} set:html={w.html} />;
+      case 'button':
+        return (
+          <div class="w-button">
+            <Button href={w.link.href} variant={w.variant}>
+              {w.link.label}
+            </Button>
+          </div>
+        );
+      case 'image':
+        return (
+          <Image
+            src={asset(w.src)}
+            alt={w.alt}
+            widths={[400, 640, 960, 1280]}
+            sizes="(max-width: 767px) 100vw, 560px"
+            class:list={['w-image', w.rounded && 'w-image--rounded']}
+          />
+        );
+      case 'carousel':
+        return <Carousel images={w.images} logos={w.logos} />;
+      case 'cards':
+        return <Cards columns={w.columns} items={w.items} />;
+      case 'steps':
+        return <Steps items={w.items} />;
+      case 'process':
+        return <Process items={w.items} />;
+      case 'counters':
+        return <Counters items={w.items} />;
+      case 'progress':
+        return <Progress items={w.items} />;
+      case 'iconboxes':
+        return <IconBoxes items={w.items} />;
+      case 'list':
+        return <List icon={w.icon} items={w.items} />;
+      case 'quote':
+        return <Quote text={w.text} />;
+      case 'video':
+        return <VideoEmbed youtubeId={w.youtubeId} title={w.title} />;
+      case 'tabs':
+        return <Tabs items={w.items} />;
+      case 'slides':
+        return <Slides items={w.items} />;
+      case 'row':
+        return (
+          <div class:list={['w-row', w.reverseOnMobile && 'w-row--reverse']}>
+            {w.columns.map((c) => (
+              <div class="w-col" style={`--span: ${c.span}`}>
+                <Astro.self widgets={c.widgets} />
+              </div>
+            ))}
+          </div>
+        );
+    }
+  })
+}
+
+<style>
+  .w-text {
+    font-size: var(--text-body);
+  }
+
+  .w-text--dark {
+    color: var(--white);
+  }
+
+  .w-button {
+    margin-top: 8px;
+  }
+
+  .w-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .w-image--rounded {
+    border-radius: var(--radius-image);
+  }
+
+  .w-row {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: var(--gap-lg);
+    align-items: center;
+  }
+
+  .w-col {
+    display: grid;
+    gap: var(--gap-md);
+    grid-column: span var(--span);
+    min-width: 0;
+  }
+
+  @media (max-width: 767px) {
+    .w-row {
+      grid-template-columns: 1fr;
+    }
+
+    .w-col {
+      grid-column: auto;
+    }
+
+    .w-row--reverse > .w-col:first-child {
+      order: 2;
+    }
+  }
+</style>

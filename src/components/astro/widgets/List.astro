@@ -1,0 +1,57 @@
+---
+/** Icon list (WP icon-list / fancy-list). */
+import Icon from '../foundation/Icon.astro';
+
+interface Props {
+  icon?: 'check' | 'pin' | 'dot';
+  items: { text: string; href?: string }[];
+}
+
+const { icon = 'check', items } = Astro.props;
+const iconName = { check: 'check', pin: 'map-pin', dot: 'chevrons-right' }[icon];
+---
+
+<ul class:list={['list', `list--${icon}`]}>
+  {
+    items.map((i) => (
+      <li>
+        <span class="icon">
+          <Icon name={iconName} size={20} />
+        </span>
+        {i.href ? <a href={i.href}>{i.text}</a> : <span>{i.text}</span>}
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .list {
+    display: grid;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    font: 400 17px/1.4 var(--font-display);
+  }
+
+  .icon {
+    flex: none;
+    margin-top: 1px;
+    color: var(--color-check);
+  }
+
+  .list--pin .icon,
+  .list--dot .icon {
+    color: var(--color-accent);
+  }
+
+  a:hover {
+    color: var(--color-accent);
+  }
+</style>
