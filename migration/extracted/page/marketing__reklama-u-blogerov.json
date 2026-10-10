@@ -1,0 +1,806 @@
+{
+ "url": "https://myfirms.ru/marketing/reklama-u-blogerov/",
+ "group": "page",
+ "title": "Реклама у блогеров",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3988"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "f60a87c",
+   "height": 509,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "2fa38c4",
+       "heading": {
+        "tag": "h3",
+        "text": "НАТИВНАЯ РЕКЛАМА В СОЦИАЛЬНЫХ СЕТЯХ"
+       },
+       "text": "НАТИВНАЯ РЕКЛАМА В СОЦИАЛЬНЫХ СЕТЯХ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Нативная реклама в социальных сетях</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "b74286c",
+       "height": 365,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "f458eda",
+           "text": "Превратим подписчиков популярных блогеров в ваших клиентов. Пользователи социальных сетей регулярно просматривают контент каналов, на которые подписаны. Рекомендация инфлюенсера делают ваш продукт популярным. Подписчики лучше запоминают ваш бренд, так как доверяют мнению своего кумира.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Превратим подписчиков популярных блогеров в ваших клиентов. Пользователи социальных сетей регулярно просматривают контент каналов, на которые подписаны. Рекомендация инфлюенсера делают ваш продукт популярным. Подписчики лучше запоминают ваш бренд, так как доверяют мнению своего кумира.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "9648c1e",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "867aaee",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/vysyvsyv.jpg",
+             "w": 1000,
+             "h": 646
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "60c8380",
+   "height": 608,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b07ce80",
+       "heading": {
+        "tag": "h3",
+        "text": "КОМУ ПОДХОДИТ РЕКЛАМА У БЛОГЕРОВ"
+       },
+       "text": "КОМУ ПОДХОДИТ РЕКЛАМА У БЛОГЕРОВ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Кому подходит реклама у блогеров</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8ee76f0",
+   "height": 503,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "5a5ab5c",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "a094f96",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/handsome-male-recoding-unboxing-video-at-home_23-2148581836.jpeg",
+         "w": 1800,
+         "h": 1276
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "aaab7de",
+       "heading": {
+        "tag": "h3",
+        "text": "ФОРМАТЫ ИНФЛЮЕНС-МАРКЕТИНГА"
+       },
+       "text": "ФОРМАТЫ ИНФЛЮЕНС-МАРКЕТИНГА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Форматы инфлюенс-маркетинга</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "4a05106",
+       "height": 182,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 538,
+         "bg": {},
+         "items": [
+          {
+           "type": "text-editor.default",
+           "id": "99482be",
+           "text": "Прямое упоминание о товаре, услуге или бренде; Нативная интеграция, упоминание “невзначай”; Обзор о продукте и его преимуществах перед конкурентами; Официальный представитель (амбассадор)",
+           "html": "  <ul> <li><span style=\"font-weight: 400;\">Прямое упоминание о товаре, услуге или бренде;</span></li> <li><span style=\"font-weight: 400;\">Нативная интеграция, упоминание “невзначай”;</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обзор о продукте и его преимуществах перед конкурентами;</span></li> <li><span style=\"font-weight: 400;\">Официальный представитель (амбассадор)</span></li> </ul> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer.default",
+       "id": "27d39c5",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "b9d0e46",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "809ed9c",
+   "height": 360,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 493,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "e677cc3",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-vk-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "218e437",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-telegramma-app-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "8d1b209",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icon-dzen.png",
+         "w": 98,
+         "h": 98
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "4f99664",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/icons8-instagram-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "97bcbe2",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-youtube-play-96-80x80.png",
+         "w": 80,
+         "h": 80
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 783,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "5740c4d",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "6198033",
+       "heading": {
+        "tag": "h3",
+        "text": "О ВАШЕМ БРЕНДЕ УЗНАЮТ МИЛЛИОНЫ ЛЮДЕЙ"
+       },
+       "text": "О ВАШЕМ БРЕНДЕ УЗНАЮТ МИЛЛИОНЫ ЛЮДЕЙ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>О вашем бренде узнают миллионы людей</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "icon-list.default",
+       "id": "e83867b",
+       "text": "Telegram YouTube Вконтакте Дзен Зарубежные соц. сети",
+       "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-telegram\" viewBox=\"0 0 496 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Telegram</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-youtube\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">YouTube</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-vk\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z\"></path></svg> </span> <span class=\"elementor-icon-list-text\"> Вконтакте</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-plus-circle\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Дзен</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"flaticon flaticon-map\"></i> </span> <span class=\"elementor-icon-list-text\">Зарубежные соц. сети</span> </li> </ul> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "367dbd7",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 49,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "f1877b3",
+   "height": 210,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "2ff2177",
+       "height": 130,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "c9418a6",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ КОМПЕТЕНЦИИ"
+           },
+           "text": "НАШИ КОМПЕТЕНЦИИ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "30px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "95b0c31",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k13-150x40.png",
+             "alt": "k13",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/ddd.png",
+             "alt": "ddd",
+             "w": 136,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/uuuu.png",
+             "alt": "uuuu",
+             "w": 115,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k13-150x40.png",
+             "alt": "k13",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/ddd.png",
+             "alt": "ddd",
+             "w": 136,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/uuuu.png",
+             "alt": "uuuu",
+             "w": 115,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k13-150x40.png",
+             "alt": "k13",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/ddd.png",
+             "alt": "ddd",
+             "w": 136,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/uuuu.png",
+             "alt": "uuuu",
+             "w": 115,
+             "h": 40
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cba8d42",
+   "height": 433,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 648,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "c706aac",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "3d1b7b2",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "1dfd91c",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ РЕКЛАМЫ У БЛОГЕРОВ"
+       },
+       "text": "СТОИМОСТЬ РЕКЛАМЫ У БЛОГЕРОВ Цена зависит от популярности блогера и количества его подписчиков. Стартует с 10 000 руб. Однако в узких нишах, где аудитория блогера - предприниматели и руководители бизнеса, цена значительно выше. Обратитесь к менеджеру для расчета стоимости рекламы у блогеров в вашей нише.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость рекламы у блогеров</h3> <p>Цена зависит от популярности блогера и количества его подписчиков. Стартует с 10 000 руб. Однако в узких нишах, где аудитория блогера - предприниматели и руководители бизнеса, цена значительно выше. Обратитесь к менеджеру для расчета стоимости рекламы у блогеров в вашей нише.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "df973ff",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "f0afdc6",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 492,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "ed50997",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "26e494b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "94d9927",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/13585-1.png",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "8c23747",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "0a42bc2",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a168311",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "3650c3d",
+       "video": "{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=8XjUQBh-bbM\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "bc142b5",
+       "height": 248,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "0ac3ddc",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как социальные сети помогут вашему продукту обрести популярность среди аудитории. Какую целевую аудиторию нужно привлекать. Как устроены соц. сети Вконтакте, Телеграм и Одноклассники.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как социальные сети помогут вашему продукту обрести популярность среди аудитории. Какую целевую аудиторию нужно привлекать. Как устроены соц. сети Вконтакте, Телеграм и Одноклассники.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

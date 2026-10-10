@@ -1,0 +1,72 @@
+{
+ "url": "https://myfirms.ru/portfolio_filter/targetirovannaya-reklama/",
+ "group": "portfolio_filter",
+ "title": "Таргетированная реклама",
+ "roots": [
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "1ce3b524",
+   "height": 117,
+   "bg": {
+    "color": "rgb(237, 44, 65)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 804,
+     "bg": {},
+     "items": [
+      {
+       "type": "heading.default",
+       "id": "af39637",
+       "heading": {
+        "tag": "h2",
+        "text": "Системный маркетинг в бизнесе: более 25 полезных видео уроков для руководителей и предпринимателей."
+       },
+       "text": "Системный маркетинг в бизнесе: более 25 полезных видео уроков для руководителей и предпринимателей.",
+       "style": {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "22px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 336,
+     "bg": {},
+     "items": [
+      {
+       "type": "button.default",
+       "id": "1ea7f84",
+       "text": "Подписывайтесь на канал!",
+       "links": [
+        {
+         "text": "Подписывайтесь на канал!",
+         "href": "https://www.youtube.com/@myfirms",
+         "cls": "elementor-button elementor-button-link"
+        }
+       ],
+       "style": {
+        "color": "rgb(61, 130, 191)",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

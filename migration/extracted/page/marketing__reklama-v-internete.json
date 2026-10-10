@@ -1,0 +1,1068 @@
+{
+ "url": "https://myfirms.ru/marketing/reklama-v-internete/",
+ "group": "page",
+ "title": "Реклама в интернете",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3676"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "8358598",
+   "height": 520,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b6c06fd",
+       "heading": {
+        "tag": "h3",
+        "text": "УСЛУГИ ПО МАРКЕТИНГУ ОТ ПРОФЕССИОНАЛЬНЫХ МАРКЕТОЛОГОВ​"
+       },
+       "text": "УСЛУГИ ПО МАРКЕТИНГУ ОТ ПРОФЕССИОНАЛЬНЫХ МАРКЕТОЛОГОВ​",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>УСЛУГИ ПО МАРКЕТИНГУ ОТ ПРОФЕССИОНАЛЬНЫХ МАРКЕТОЛОГОВ​</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "d154997",
+       "height": 376,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "a888019",
+           "text": "Наша цель - привести вам клиентов, а не освоить бюджет. Миллионы пользователей интернета ищут товары и услуги здесь и сейчас. Еще больше примут решение о покупке в ближайшие дни, недели, месяцы. Но колоссальное количество тех, кто еще сам не подозревает, что ему нужен ваш продукт. Мы умеем находить и делать вашими клиентами людей на разных стадиях готовности к покупке.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Наша цель - привести вам клиентов, а не освоить бюджет. Миллионы пользователей интернета ищут товары и услуги здесь и сейчас. Еще больше примут решение о покупке в ближайшие дни, недели, месяцы. Но колоссальное количество тех, кто еще сам не подозревает, что ему нужен ваш продукт. <br>Мы умеем находить и делать вашими клиентами людей на разных стадиях готовности к покупке.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "65152e5",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "c703d94",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/pexels-mikhail-nilov-6592558-1536x1024.jpg",
+             "w": 1439,
+             "h": 959
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9072877",
+   "height": 212,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "3561a4a",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "blockquote.default",
+       "id": "80ae7a8",
+       "text": "Маркетинговое агентство MyFirms оказывает услуги с 2013 года. Более 1000 различных рекламных кампаний мы запустили для более, чем 300 компаний в разных сферах бизнеса. Наша цель - привести вам клиентов, а не освоить бюджет.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Маркетинговое агентство MyFirms оказывает услуги с 2013 года. Более 1000 различных рекламных кампаний мы запустили для более, чем 300 компаний в разных сферах бизнеса. Наша цель - привести вам клиентов, а не освоить бюджет. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ebbaf5f",
+   "height": 409,
+   "bg": {
+    "color": "rgb(245, 245, 245)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1400,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "36ade52",
+       "height": 61,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "5e3d11a",
+           "heading": {
+            "tag": "h3",
+            "text": "УСЛУГИ MYFIRMS ПО НАСТРОЙКЕ РЕКЛАМЫ В ИНТЕРНЕТЕ"
+           },
+           "text": "УСЛУГИ MYFIRMS ПО НАСТРОЙКЕ РЕКЛАМЫ В ИНТЕРНЕТЕ",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Услуги MyFirms по настройке рекламы в интернете</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "2ce065f",
+       "height": 285,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 285,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "c393157",
+           "heading": {
+            "tag": "h2",
+            "text": "Контекстная реклама Яндекс Директ и Google Ads"
+           },
+           "text": "Контекстная реклама Яндекс Директ и Google Ads ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-idea-1 restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Контекстная реклама Яндекс Директ и Google Ads</h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/kontekstnaya-reklama/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/kontekstnaya-reklama/"
+            }
+           ],
+           "style": {
+            "color": "rgb(30, 135, 253)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 285,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "7b5322f",
+           "heading": {
+            "tag": "h2",
+            "text": "Таргетированная реклама в социальных сетях"
+           },
+           "text": "Таргетированная реклама в социальных сетях ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-design restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Таргетированная реклама в социальных сетях</h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/targetirovannaya-reklama-v-soczialnyh-setyah/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/targetirovannaya-reklama-v-soczialnyh-setyah/"
+            }
+           ],
+           "style": {
+            "color": "rgb(162, 25, 255)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 285,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "7f9b24d",
+           "heading": {
+            "tag": "h2",
+            "text": "Видео реклама на YouTube и VK видео"
+           },
+           "text": "Видео реклама на YouTube и VK видео ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-support-4 restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Видео реклама на YouTube и VK видео</h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/video-reklama/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/video-reklama/"
+            }
+           ],
+           "style": {
+            "color": "rgb(30, 135, 253)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 285,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "cabd785",
+           "heading": {
+            "tag": "h2",
+            "text": "Реклама у блогеров"
+           },
+           "text": "Реклама у блогеров ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-school restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Реклама у блогеров<br><br></h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/reklama-u-blogerov/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/reklama-u-blogerov/"
+            }
+           ],
+           "style": {
+            "color": "rgb(101, 202, 34)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7adb27e",
+   "height": 407,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 493,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "1561be5",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-vk-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "4f23416",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-telegramma-app-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "f9398cf",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-whatsapp-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "aee81d4",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icon-dzen.png",
+         "w": 98,
+         "h": 98
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "302fdb9",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1.png",
+         "w": 98,
+         "h": 95
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "302fdb9",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1.png",
+         "w": 98,
+         "h": 95
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "fd24092",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-youtube-play-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 783,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "5cf59f9",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "07078b4",
+       "heading": {
+        "tag": "h3",
+        "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА"
+       },
+       "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА Вашу рекламу увидят онлайн пользователи поисковых сетей Яндекс и Google, социальных сетей Вконтакте и YouTube, блогов Дзен и VC.ru, мессенджеров Telegram и WhatsApp. Мы находим аудиторию, которой будут интересны ваши товары или услуги. Для этого мы используем современные инструменты сбора и анализа данных о пользователей сетей. Мы знаем, по каким словам ищут ваш продукт и как часто, где и сколько они проводят время, чем интересуются и какая у них покупательская способность. Это позволяет нам настраивать рекламу точно, а клиентов приводить быстро.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Где будет показываться ваша реклама</h3> <p>Вашу рекламу увидят онлайн пользователи поисковых сетей Яндекс и Google, социальных сетей Вконтакте и YouTube, блогов Дзен и VC.ru, мессенджеров Telegram и WhatsApp.&nbsp; Мы находим аудиторию, которой будут интересны ваши товары или услуги. Для этого мы используем современные инструменты сбора и анализа данных о пользователей сетей. <br><br> Мы знаем, по каким словам ищут ваш продукт и как часто, где и сколько они проводят время, чем интересуются и какая у них покупательская способность. Это позволяет нам настраивать рекламу точно, а клиентов приводить быстро.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "b5d5742",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 49,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "32b09dd",
+   "height": 452,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 648,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "18d7656",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "d479bb5",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "25e6894",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ УСЛУГ ПО МАРКЕТИНГУ"
+       },
+       "text": "СТОИМОСТЬ УСЛУГ ПО МАРКЕТИНГУ Цена за настройку рекламы варьируется от 30 000 до 300 000 руб. в зависимости от выбранных каналов продвижения и количества рекламных кампаний. Мы даем прогноз по привлеченным клиентам и работаем согласно плану. Сопровождение длится от 3 месяцев. Вознаграждение зависит от количества заявок на ваш продукт и затраченного бюджета. Наша цель - приводить максимум лидов за минимум средств, от этого складывается наша денежная мотивация.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость услуг по маркетингу</h3> <p>Цена за настройку рекламы варьируется от 30 000 до 300 000 руб. в зависимости от выбранных каналов продвижения и количества рекламных кампаний. Мы даем прогноз по привлеченным клиентам и работаем согласно плану. Сопровождение длится от 3 месяцев. Вознаграждение зависит от количества заявок на ваш продукт и затраченного бюджета. Наша цель - приводить максимум лидов за минимум средств, от этого складывается наша денежная мотивация.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "f41b9a0",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "fe26497",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 492,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "24b28fd",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "46a5272",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/cheerful-pretty-young-girl-talking-on-phone-and-smiling.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "bc517be",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "8d5f458",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9705091",
+   "height": 210,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "6820625",
+       "height": 130,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "e3dd29d",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ КОМПЕТЕНЦИИ"
+           },
+           "text": "НАШИ КОМПЕТЕНЦИИ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "30px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "36ebe96",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "999af40",
+   "height": 245,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "abf69b9",
+       "height": 125,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "8552d62",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ"
+           },
+           "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши специалисты по онлайн-рекламе</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "facfaec",
+           "text": "Настраиваем рекламу в интернете с 2013 г. Более 20 специалистов по контекстной рекламе, таргетологов, медиа-менеджеров и продюсеров. Мы накопили знания и опыт практически во всех сферах бизнеса, от салонов красоты до промышленных предприятий.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Настраиваем рекламу в интернете с 2013 г. Более 20 специалистов по контекстной рекламе, таргетологов, медиа-менеджеров и продюсеров. Мы накопили знания и опыт практически во всех сферах бизнеса, от салонов красоты до промышленных предприятий. </p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "58e906f",
+   "height": 500,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "cceea64",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "9f4c907",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "86f7f21",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "61fa83e",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "4a03260",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p3676-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0ef11f7",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "2531d87",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/oWXPqCXgpQ4?si=dEW446xSZZ4aFsM2\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "80a7239",
+       "height": 248,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "8c813da",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, зачем бизнесу нужен интернет-маркетинг. Как находить новых клиентов онлайн и увеличить прибыль? Как начать генерировать заявки системно и прогнозировать их количество? Как сделать больше продаж за тот же рекламный бюджет?",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, зачем бизнесу нужен интернет-маркетинг. Как находить новых клиентов онлайн и увеличить прибыль? Как начать генерировать заявки системно и прогнозировать их количество? Как сделать больше продаж за тот же рекламный бюджет?</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

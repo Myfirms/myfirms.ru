@@ -1,0 +1,875 @@
+{
+ "url": "https://myfirms.ru/marketing/kopirajting/",
+ "group": "page",
+ "title": "Копирайтинг",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "4092"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "5408a6a",
+   "height": 534,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b610854",
+       "heading": {
+        "tag": "h3",
+        "text": "НАПИШЕМ ТЕКСТ ДЛЯ САЙТА ИЛИ РЕКЛАМЫ"
+       },
+       "text": "НАПИШЕМ ТЕКСТ ДЛЯ САЙТА ИЛИ РЕКЛАМЫ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Напишем текст для сайта или рекламы</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "4324c76",
+       "height": 390,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "a5b3e5b",
+           "text": "Профессионально пишем продающие и SEO-адаптированные тексты для вашего сайта, карточки товара в маркетплейсе или рекламных объявлений. Создаем контент в любой тематике бизнеса и любой сложности. Завоевываем доверие вашей целевой аудитории и подогреваем интерес к вашему продукту с помощью магии слова.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Профессионально пишем продающие и SEO-адаптированные тексты для вашего сайта, карточки товара в маркетплейсе или рекламных объявлений. Создаем контент в любой тематике бизнеса и любой сложности. Завоевываем доверие вашей целевой аудитории и подогреваем интерес к вашему продукту с помощью магии слова.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "ba13cc4",
+           "text": "Заказать текст",
+           "links": [
+            {
+             "text": "Заказать текст",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "2e2157e",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148824878.jpg",
+             "w": 1000,
+             "h": 800
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dec8873",
+   "height": 356,
+   "bg": {
+    "color": "rgb(245, 245, 245)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "1aebe52",
+       "height": 61,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "9854efa",
+           "heading": {
+            "tag": "h3",
+            "text": "УСЛУГИ КОПИРАЙТИНГА ОТ MYFIRMS"
+           },
+           "text": "УСЛУГИ КОПИРАЙТИНГА ОТ MYFIRMS",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Услуги копирайтинга от MyFirms</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "771c297",
+       "height": 232,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 224,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "1cdd66e",
+           "heading": {
+            "tag": "h2",
+            "text": "Продающий текст"
+           },
+           "text": "Продающий текст",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-idea-1 restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Продающий текст<br><br></h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(30, 135, 253)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 224,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "f65580b",
+           "heading": {
+            "tag": "h2",
+            "text": "SEO текст"
+           },
+           "text": "SEO текст",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-analytics restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>SEO текст<br><br></h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(162, 25, 255)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 224,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "d85d054",
+           "heading": {
+            "tag": "h2",
+            "text": "Статьи и новости"
+           },
+           "text": "Статьи и новости",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-world restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Статьи и новости<br><br></h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(30, 135, 253)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 224,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "1a4e1ea",
+           "heading": {
+            "tag": "h2",
+            "text": "Инструкции и гайды"
+           },
+           "text": "Инструкции и гайды",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-school restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Инструкции и гайды</h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(101, 202, 34)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 224,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "b8d5a4f",
+           "heading": {
+            "tag": "h2",
+            "text": "Описание товара для маркетплейсов"
+           },
+           "text": "Описание товара для маркетплейсов",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-responsive restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Описание товара для маркетплейсов</h2> </div> <div class=\"feature-box-desc\"> <p></p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(162, 25, 255)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1289666",
+   "height": 319,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 380,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "464cb01",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "d2dce79",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/21jjczu320-1.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 39,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "44cf739",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 717,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "52efff6",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "a2fa64e",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "4719c11",
+       "heading": {
+        "tag": "h3",
+        "text": "КАК РАБОТАЮТ НАШИ КОПИРАЙТЕРЫ"
+       },
+       "text": "КАК РАБОТАЮТ НАШИ КОПИРАЙТЕРЫ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как работают наши копирайтеры</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "4dd21a5",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "9940dd1",
+       "text": "Анализируем потребности вашей целевой аудитории, а также контент сайтов ваших конкурентов. Мы используем в тексте те ключевые слова, через которые ваши потенциальные клиенты ищут информацию о вашем продукте. Это не только продвигает ваш сайт в Google и Яндекс, но и мотивирует человека совершить целевое действие - купить, заказать, подписаться, скачать, ознакомиться с инструкцией.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Анализируем потребности вашей целевой аудитории, а также контент сайтов ваших конкурентов. Мы используем в тексте те ключевые слова, через которые ваши потенциальные клиенты ищут информацию о вашем продукте. Это не только продвигает ваш сайт в Google и Яндекс, но и мотивирует человека совершить целевое действие - купить, заказать, подписаться, скачать, ознакомиться с инструкцией. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "78a382c",
+   "height": 222,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "5e085f7",
+       "text": "Мы пишем интересные, вовлекающие и эмоциональные тексты. Они захватывают внимание, закрывают возражения и сомнения потенциального покупателя. Посетитель сайта запомнит информацию о вашем продукте и бренде, что позволит впоследствии легче продать ему товар или услугу.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Мы пишем интересные, вовлекающие и эмоциональные тексты. Они захватывают внимание, закрывают возражения и сомнения потенциального покупателя. Посетитель сайта запомнит информацию о вашем продукте и бренде, что позволит впоследствии легче продать ему товар или услугу. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13810cd",
+   "height": 474,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 648,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "7c71578",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "58444b1",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "bf13913",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ УСЛУГ КОПИРАЙТЕРОВ MYFIRMS"
+       },
+       "text": "СТОИМОСТЬ УСЛУГ КОПИРАЙТЕРОВ MYFIRMS Цена за текст стартует от 5000 руб. Конечная стоимость зависит от объема текста, сложности тематики и жанра (продающий, SEO, новость, инструкция и др.). Мы подбираем копирайтера с опытом работы в вашем бизнесе. И перед написанием обязательно проводим анализ потребностей тех, кто его будет читать, чтобы достичь поставленной цели - продать, ознакомить, подогреть интерес и т.д.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость услуг копирайтеров MyFirms</h3> <p>Цена за текст стартует от 5000 руб. Конечная стоимость зависит от объема текста, сложности тематики и жанра (продающий, SEO, новость, инструкция и др.). Мы подбираем копирайтера с опытом работы в вашем бизнесе. И перед написанием обязательно проводим анализ потребностей тех, кто его будет читать, чтобы достичь поставленной цели - продать, ознакомить, подогреть интерес и т.д. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "5ace897",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "3f2069b",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 492,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "ee12062",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "64c1649",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "13fc1f3",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/10819.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "33edf08",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "2e1aa61",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f3c1913",
+   "height": 197,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "987bf78",
+       "height": 77,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "e94eaae",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ КОПИРАЙТЕРЫ"
+           },
+           "text": "НАШИ КОПИРАЙТЕРЫ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши копирайтеры</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "a74c569",
+           "text": "Наши копирайтеры - это бывшие журналисты с опытом работы в СМИ и богатым портфолио работы в разных сферах бизнеса.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Наши копирайтеры - это бывшие журналисты с опытом работы в СМИ и богатым портфолио работы в разных сферах бизнеса.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "83b6995",
+   "height": 454,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "46652f1",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "035389d",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "feebf47",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "ed5597a",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "d921be3",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p4092-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "49c9c16",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "06eaea7",
+       "video": "{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=ozrCFaDPKpw\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "b47ed2e",
+       "height": 272,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "978a04f",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как правильно писать тексты, чтобы продвигать свой сайт в Яндекс и Гугл. Объясню, как копирайт помогает сделать больше заявок на сайте. Что такое продающий текст, и чем отличается от текста для SEO продвижения? Расскажу, где искать копирайтера и как ставить ему техническое задание.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как правильно писать тексты, чтобы продвигать свой сайт в Яндекс и Гугл. Объясню, как копирайт помогает сделать больше заявок на сайте. Что такое продающий текст, и чем отличается от текста для SEO продвижения? Расскажу, где искать копирайтера и как ставить ему техническое задание.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

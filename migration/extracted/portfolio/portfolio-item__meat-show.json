@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/meat-show/",
+ "group": "portfolio",
+ "title": "Meat show",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6314"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1142,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Повысили узнаваемость бренда грилей на 40% с помощью видео"
+       },
+       "text": "Повысили узнаваемость бренда грилей на 40% с помощью видео",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Повысили узнаваемость бренда грилей на 40% с помощью видео</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Стоит сразу отметить, что сотрудничество было с одним из дистрибьюторов производителя мобильных грилей для BBQ*. Он хотел повысить продажи и обратился к нам в студию. Контекстная и таргетированная реклама не работала от слова “совсем”. Продвигать сайт по SEO было абсолютно бессмысленно. Нужен был нестандартный подход. Большую часть продаж клиент осуществлял на выездных мероприятиях. Он организовывал демонстрационный стенд и бесплатно угощал участников разных форумов, конференций и опен эйров. При виде жареного мяса у людей текли слюни, а после дегустации многие хотели купить себе гриль, на котором жарилось это мясо и овощи. И у нас родилась идея.",
+       "html": "  <p><span style=\"font-weight: 400;\">Стоит сразу отметить, что сотрудничество было с одним из дистрибьюторов производителя мобильных грилей для BBQ*. Он хотел повысить продажи и обратился к нам в студию. Контекстная и таргетированная реклама не работала от слова “совсем”. Продвигать сайт по SEO было абсолютно бессмысленно. Нужен был нестандартный подход. Большую часть продаж клиент осуществлял на выездных мероприятиях. Он организовывал демонстрационный стенд и бесплатно угощал участников разных форумов, конференций и опен эйров. При виде жареного мяса у людей текли слюни, а после дегустации многие хотели купить себе гриль, на котором жарилось это мясо и овощи. И у нас родилась идея.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить количество заявок на грили на 50%.",
+       "html": " <p><span style=\"font-weight: 400;\">Увеличить количество заявок на грили на 50%.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Определить целевую аудиторию Разработать стратегию побуждения интереса к продукции Определить наилучшие каналы коммуникации с аудиторией Запустить рекламу Настроить ретаргетинг",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Определить целевую аудиторию</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разработать стратегию побуждения интереса к продукции</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Определить наилучшие каналы коммуникации с аудиторией</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить рекламу</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Настроить ретаргетинг</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Почему цель стояла увеличить количество заявок, а в результатах отмечена узнаваемость бренда? Заявками мы буквально завалили нашего заказчика, рост составил 143%. Однако, чем мы гордимся, так это тем, что своим нестандартным подходом мы повлияли на рост узнаваемости непосредственно производителя. Мы сделали 5 видеороликов по жарке мяса на гриле, где повар нативно говорил, что такого вкуса ему удалось добиться только благодаря этому грилю. Мы настроили таргетированную рекламу на дачников с посадкой на эти видеоролики. В описании роликов были указаны контакты нашего заказчика. Когда мы смотрели динамику спроса на грили, мы были сильно удивлены! Люди интересовались продукцией бренда на 41% чаще в период проведения нашей рекламной кампании. Т.е. мы не только достигли целей нашего заказчика, но и сделали доброе дело для его поставщика. После нашего успеха заказчик заключил контракт с производителем на создание совместных видеороликов.",
+       "html": " <p><span style=\"font-weight: 400;\">Почему цель стояла увеличить количество заявок, а в результатах отмечена узнаваемость бренда? Заявками мы буквально завалили нашего заказчика, рост составил 143%. Однако, чем мы гордимся, так это тем, что своим нестандартным подходом мы повлияли на рост узнаваемости непосредственно производителя. Мы сделали 5 видеороликов по жарке мяса на гриле, где повар нативно говорил, что такого вкуса ему удалось добиться только благодаря этому грилю. Мы настроили таргетированную рекламу на дачников с посадкой на эти видеоролики. В описании роликов были указаны контакты нашего заказчика. Когда мы смотрели динамику спроса на грили, мы были сильно удивлены! Люди интересовались продукцией бренда на 41% чаще в период проведения нашей рекламной кампании. Т.е. мы не только достигли целей нашего заказчика, но и сделали доброе дело для его поставщика.</span><span style=\"font-weight: 400;\"> После нашего успеха заказчик заключил контракт с производителем на создание совместных видеороликов.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "143"
+           },
+           "text": "143 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>143</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 170,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "41"
+           },
+           "text": "41 % Рост узнаваемости бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>41</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "100000"
+           },
+           "text": "100000 + Просмотров видео",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100000</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>Просмотров видео</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 146,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Сотрудничество",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Сотрудничество</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6314-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "17a514f",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

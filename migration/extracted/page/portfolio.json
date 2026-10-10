@@ -1,0 +1,304 @@
+{
+ "url": "https://myfirms.ru/portfolio/",
+ "group": "page",
+ "title": "Портфолио",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3457"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "ebbaf5f",
+   "height": 1199,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1036,
+     "bg": {},
+     "items": [
+      {
+       "type": "posts.cards",
+       "id": "85eae20",
+       "heading": {
+        "tag": "h3",
+        "text": "Сервис по онлайн-бронированию отелей"
+       },
+       "text": "БИЗНЕС-АНАЛИТИКА Сервис по онлайн-бронированию отелей ЧИТАТЬ » БИЗНЕС-АНАЛИТИКА Приложение для HR-специалистов ЧИТАТЬ » МАРКЕТПЛЕЙСЫ Канцелярский мир ЧИТАТЬ » МАРКЕТПЛЕЙСЫ Автоматические кормушки для животных ЧИТАТЬ » SMM Финансовый Эксперт ЧИТАТЬ » SMM Бьюти Лайн ЧИТАТЬ » КОНТЕНТ-МАРКЕТИНГ И PR Банкрот-Эксперт ЧИТАТЬ » КОНТЕНТ-МАРКЕТИНГ И PR Бухгалтер Плюс ЧИТАТЬ » КОПИРАЙТИНГ Ремонт бытовой техники ЧИТАТЬ » « Page 1 Page 2 Page 3 Page 4 »",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344.jpg",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/17909.jpg",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010.jpg",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2151310849.jpg",
+         "w": 1000,
+         "h": 693
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/groupe-personnes-preparant-plan-affaires-dans-bureau.jpg",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/close-up-hair-trimmer-supplies_23-2148352856-1024x683.jpeg",
+         "w": 1024,
+         "h": 683
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/cropped-image-man-suit-sitting_171337-18948-1024x683.jpeg",
+         "w": 1024,
+         "h": 683
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148435588.jpg",
+         "w": 680,
+         "h": 454
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/service-maintenance-worker-repairing_23-2149176684-1024x683.jpeg",
+         "w": 1024,
+         "h": 683
+        }
+       ],
+       "links": [
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "Сервис по онлайн-бронированию отелей",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "Приложение для HR-специалистов",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "Канцелярский мир",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+        },
+        {
+         "text": "Автоматические кормушки для животных",
+         "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+        },
+        {
+         "text": "Финансовый Эксперт",
+         "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+        },
+        {
+         "text": "Бьюти Лайн",
+         "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "Банкрот-Эксперт",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "Бухгалтер Плюс",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "Ремонт бытовой техники",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "ЧИТАТЬ »",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "Page 2",
+         "href": "https://myfirms.ru/portfolio/2/"
+        },
+        {
+         "text": "Page 3",
+         "href": "https://myfirms.ru/portfolio/3/"
+        },
+        {
+         "text": "Page 4",
+         "href": "https://myfirms.ru/portfolio/4/"
+        },
+        {
+         "text": "»",
+         "href": "https://myfirms.ru/portfolio/2/"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 363,
+     "bg": {},
+     "items": [
+      {
+       "type": "sidebar.default",
+       "id": "08514df",
+       "heading": {
+        "tag": "h2",
+        "text": "Категории"
+       },
+       "text": "Категории Performance маркетинг SEO продвижение SMM Бизнес-аналитика Веб-аналитика Видеореклама Интеграции Контекстная реклама Контент-маркетинг и PR Копирайтинг Маркетплейсы Реклама Реклама у блогеров Таргетированная реклама",
+       "links": [
+        {
+         "text": "Performance маркетинг",
+         "href": "https://myfirms.ru/portfolio_filter/performance-marketing/"
+        },
+        {
+         "text": "SEO продвижение",
+         "href": "https://myfirms.ru/portfolio_filter/seo-prodvizhenie/"
+        },
+        {
+         "text": "SMM",
+         "href": "https://myfirms.ru/portfolio_filter/smm/"
+        },
+        {
+         "text": "Бизнес-аналитика",
+         "href": "https://myfirms.ru/portfolio_filter/biznes-analitika/"
+        },
+        {
+         "text": "Веб-аналитика",
+         "href": "https://myfirms.ru/portfolio_filter/veb-analitika/"
+        },
+        {
+         "text": "Видеореклама",
+         "href": "https://myfirms.ru/portfolio_filter/videoreklama/"
+        },
+        {
+         "text": "Интеграции",
+         "href": "https://myfirms.ru/portfolio_filter/integraczii/"
+        },
+        {
+         "text": "Контекстная реклама",
+         "href": "https://myfirms.ru/portfolio_filter/kontekstnaya-reklama/"
+        },
+        {
+         "text": "Контент-маркетинг и PR",
+         "href": "https://myfirms.ru/portfolio_filter/pr/"
+        },
+        {
+         "text": "Копирайтинг",
+         "href": "https://myfirms.ru/portfolio_filter/kopirajt/"
+        },
+        {
+         "text": "Маркетплейсы",
+         "href": "https://myfirms.ru/portfolio_filter/marketplejsy/"
+        },
+        {
+         "text": "Реклама",
+         "href": "https://myfirms.ru/portfolio_filter/reklama/"
+        },
+        {
+         "text": "Реклама у блогеров",
+         "href": "https://myfirms.ru/portfolio_filter/reklama-u-blogerov/"
+        },
+        {
+         "text": "Таргетированная реклама",
+         "href": "https://myfirms.ru/portfolio_filter/targetirovannaya-reklama/"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

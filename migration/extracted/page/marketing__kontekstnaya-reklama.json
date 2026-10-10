@@ -1,0 +1,984 @@
+{
+ "url": "https://myfirms.ru/marketing/kontekstnaya-reklama/",
+ "group": "page",
+ "title": "Контекстная реклама",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3426"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "429d082",
+   "height": 560,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "bb6c2e9",
+       "heading": {
+        "tag": "h3",
+        "text": "РЕКЛАМА В ЯНДЕКС ДИРЕКТ И GOOGLE ADS"
+       },
+       "text": "РЕКЛАМА В ЯНДЕКС ДИРЕКТ И GOOGLE ADS",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Реклама в Яндекс Директ и Google Ads</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "df0155a",
+       "height": 376,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "c0d4189",
+           "text": "Контекстная реклама на сегодня - это самый быстрый способ начать получать заявки на ваш продукт. Когда нужен быстрый старт, чтобы получить первых клиентов, и на них отладить процессы продаж и маркетинга, вы не найдете более лучшего источника трафика, чем Яндекс Директ и Google Ads*.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Контекстная реклама на сегодня - это самый быстрый способ начать получать заявки на ваш продукт. Когда нужен быстрый старт, чтобы получить первых клиентов, и на них отладить процессы продаж и маркетинга, вы не найдете более лучшего источника трафика, чем Яндекс Директ и Google Ads*.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "spacer.default",
+           "id": "e5b40ca",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "6be399f",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "32503f9",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/fff.png",
+             "w": 1000,
+             "h": 667
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "text-editor.default",
+       "id": "3ba9ddd",
+       "text": "*Временно не работает в РФ",
+       "html": "  <p><span style=\"color: #999999;\">*Временно не работает в РФ</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f479501",
+   "height": 428,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "7ddc869",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image-carousel.default",
+       "id": "ef0136a",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-10-v-22.20.18-e1712778306311.png",
+         "alt": "Снимок экрана 2024-04-10 в 22.20.18",
+         "w": 823,
+         "h": 681
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-10-v-21.58.14-e1712778156672.png",
+         "alt": "Снимок экрана 2024-04-10 в 21.58.14",
+         "w": 822,
+         "h": 689
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-10-v-21.54.40.png",
+         "alt": "Снимок экрана 2024-04-10 в 21.54.40",
+         "w": 814,
+         "h": 689
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-10-v-22.20.18-e1712778306311.png",
+         "alt": "Снимок экрана 2024-04-10 в 22.20.18",
+         "w": 823,
+         "h": 681
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-10-v-21.58.14-e1712778156672.png",
+         "alt": "Снимок экрана 2024-04-10 в 21.58.14",
+         "w": 822,
+         "h": 689
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "20d384c",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "256420f",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "1639eb9",
+       "heading": {
+        "tag": "h3",
+        "text": "РЕКЛАМУ УВИДЯТ В ПОИСКЕ ЯНДЕКС И GOOGLE"
+       },
+       "text": "РЕКЛАМУ УВИДЯТ В ПОИСКЕ ЯНДЕКС И GOOGLE",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Рекламу увидят в поиске Яндекс и Google</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "icon-list.default",
+       "id": "ba796dc",
+       "text": "Оценим спрос на ваш товар или услугу Определим объем затрат на рекламу Настроим рекламу по ключевым словам Сделаем, чтобы клиент окупался.",
+       "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Оценим спрос на ваш товар или услугу</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Определим объем затрат на рекламу</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Настроим рекламу по ключевым словам</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Сделаем, чтобы клиент окупался.</span> </li> </ul> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "ec74b6a",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "44c0267",
+   "height": 483,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 648,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "0d566cd",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "b7a66b3",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "f13e929",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ НАСТРОЙКИ И ВЕДЕНИЯ РЕКЛАМЫ"
+       },
+       "text": "СТОИМОСТЬ НАСТРОЙКИ И ВЕДЕНИЯ РЕКЛАМЫ Цена настройки контекстной рекламы стартует от 30 000 руб. Она зависит от количества рекламных кампаний и объема поисковых фраз в них. В стоимость входит конкурентный анализ и прогноз по привлеченным клиентам. Минимальный срок ведения рекламной кампании составляет 3 месяца.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость настройки и ведения рекламы</h3> <p>Цена настройки контекстной рекламы стартует от 30 000 руб. Она зависит от количества рекламных кампаний и объема поисковых фраз в них. В стоимость входит конкурентный анализ и прогноз по привлеченным клиентам. Минимальный срок ведения рекламной кампании составляет 3 месяца. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "9c9cf7b",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "e84d5d0",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 492,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "3f7fb6e",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "292e05f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/42dl877.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "2328806",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "8425011",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f4ed96d",
+   "height": 232,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "60670a1",
+       "text": "Вознаграждение за ведение складывается от фиксированной оплаты и премии. Премия зависит от количества лидов и затраченного бюджета. Чем больше лидов мы приведем, и чем меньше денег потратим на их привлечение, тем выше наше вознаграждение. Такая мотивация позволяет нашим специалистам давать максимальный результат.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Вознаграждение за ведение складывается от фиксированной оплаты и премии. Премия зависит от количества лидов и затраченного бюджета. Чем больше лидов мы приведем, и чем меньше денег потратим на их привлечение, тем выше наше вознаграждение. Такая мотивация позволяет нашим специалистам давать максимальный результат. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(49, 49, 49)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1ae0125",
+   "height": 210,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "7ac4a88",
+       "height": 130,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "ef945db",
+           "heading": {
+            "tag": "h2",
+            "text": "НАШИ КОМПЕТЕНЦИИ"
+           },
+           "text": "НАШИ КОМПЕТЕНЦИИ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "30px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "7d2745b",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k02-150x40.png",
+             "alt": "k02",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "534d613",
+   "height": 221,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "0a96c33",
+       "height": 101,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "7adf011",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ"
+           },
+           "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши специалисты по онлайн-рекламе</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "a341224",
+           "text": "Настраиваем Яндекс Директ и Google Ads с 2013 года. Более 10 директологов / контекстологов с компетенциями в разных сферах бизнеса, от рекламы салонов красоты до продукции промышленных предприятий.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Настраиваем Яндекс Директ и Google Ads с 2013 года. Более 10 директологов / контекстологов с компетенциями в разных сферах бизнеса, от рекламы салонов красоты до продукции промышленных предприятий. </p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a959063",
+   "height": 454,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "23f2b52",
+   "height": 20,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": []
+  },
+  {
+   "id": "d044ba1",
+   "height": 715,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "595928f",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "99b48e6",
+       "heading": {
+        "tag": "h3",
+        "text": "НАШИ ЛУЧШИЕ КЕЙСЫ"
+       },
+       "text": "НАШИ ЛУЧШИЕ КЕЙСЫ",
+       "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши лучшие кейсы</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 559,
+     "bg": {
+      "color": "rgb(255, 255, 255)"
+     },
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "a0d9e64",
+       "height": 254,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      },
+      {
+       "type": "inner-section",
+       "id": "b7ca5d9",
+       "height": 254,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      }
+     ]
+    },
+    {
+     "width": 20,
+     "bg": {},
+     "items": []
+    },
+    {
+     "width": 559,
+     "bg": {
+      "color": "rgb(255, 255, 255)"
+     },
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "0ff03ff",
+       "height": 254,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      },
+      {
+       "type": "shortcode.default",
+       "id": "2ee426d",
+       "text": "10.01 10.02 10.03 0 1,000 2,000",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 1140,
+     "bg": {},
+     "items": []
+    },
+    {
+     "width": 559,
+     "bg": {
+      "color": "rgb(255, 255, 255)"
+     },
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "4354afa",
+       "height": 230,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      },
+      {
+       "type": "inner-section",
+       "id": "f4111e7",
+       "height": 230,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      }
+     ]
+    },
+    {
+     "width": 20,
+     "bg": {},
+     "items": []
+    },
+    {
+     "width": 559,
+     "bg": {
+      "color": "rgb(255, 255, 255)"
+     },
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17634c8",
+       "height": 230,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      },
+      {
+       "type": "inner-section",
+       "id": "da5c839",
+       "height": 230,
+       "bg": {},
+       "cls": "",
+       "columns": []
+      }
+     ]
+    },
+    {
+     "width": 1140,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "620d65d",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "6eb3d51",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "79eb208",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "ecf0218",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "34c3aea",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p3426-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11a5865",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "ab1fb34",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/fle5fKU1Vi4?si=JZCtxKrMYqTE5xCA\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "b6a67d9",
+       "height": 248,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "21091d8",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как устроена реклама в интернете. Что такое контекстная реклама. Как планировать бюджет в Яндекс Директ и Google Ads. Как оценить эффективность рекламных кампаний и какие KPI поставить для таргетолога.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как устроена реклама в интернете. Что такое контекстная реклама. Как планировать бюджет в Яндекс Директ и Google Ads. Как оценить эффективность рекламных кампаний и какие KPI поставить для таргетолога.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

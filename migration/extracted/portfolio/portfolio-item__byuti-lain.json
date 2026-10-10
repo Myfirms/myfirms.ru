@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/byuti-lain/",
+ "group": "portfolio",
+ "title": "Бьюти Лайн",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6538"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1476,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как молодой салон красоты стал популярным в городе с помощью агентства MyFirms"
+       },
+       "text": "Как молодой салон красоты стал популярным в городе с помощью агентства MyFirms",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как молодой салон красоты стал популярным в городе с помощью агентства MyFirms</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Открытие собственного салона красоты – мечта многих женщин. Однако, на пути к успеху встречается множество препятствий, особенно для молодых компаний. Владелица салона красоты “Бьюти Лайн” Анна Петрова* столкнулась с проблемой привлечения новых клиентов и продвижения своего бренда в социальных сетях. Она обратилась за помощью в маркетинговое агентство MyFirms, чтобы решить эти задачи.",
+       "html": "  <p>Открытие собственного салона красоты – мечта многих женщин. Однако, на пути к успеху встречается множество препятствий, особенно для молодых компаний. Владелица салона красоты “Бьюти Лайн” Анна Петрова<span style=\"color: #999999;\">*</span> столкнулась с проблемой привлечения новых клиентов и продвижения своего бренда в социальных сетях. Она обратилась за помощью в маркетинговое агентство MyFirms, чтобы решить эти задачи.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Основной целью сотрудничества было привлечение 1500 подписчиков в социальных сетях, а также увеличение количества клиентов салона красоты “Бьюти Лайн”",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Основной целью сотрудничества было привлечение 1500 подписчиков в социальных сетях, а также увеличение количества клиентов салона красоты “Бьюти Лайн”</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Создание привлекательного контента для социальных сетей. Команда агентства разработала контент-план, который включал в себя красивые фотографии работ мастеров салона, полезные советы по уходу за волосами, а также информацию об акциях и специальных предложениях. Таргетированная реклама в социальных сетях. Был проведен анализ целевой аудитории и настроена таргетированная реклама. Это позволило охватить максимальное количество потенциальных клиентов в городе. Сотрудничество с блогерами и лидерами мнений. Агентство MyFirms организовало сотрудничество с популярными beauty-блогерами Новосибирска, которые провели розыгрыши и рекомендации салона своим подписчикам. Продажа средств по уходу за волосами. Помимо услуг салона, клиентам дарили средства для волос в качестве бонуса за пост фотографии из салона и отзыв в своих социальных сетях. Тем самым клиенты помогали приводить дополнительную аудиторию",
+       "html": " <ul><li><p>Создание привлекательного контента для социальных сетей. Команда агентства разработала контент-план, который включал в себя красивые фотографии работ мастеров салона, полезные советы по уходу за волосами, а также информацию об акциях и специальных предложениях.</p></li><li><p><span style=\"font-family: Roboto;\">Таргетированная реклама в социальных сетях. Был проведен анализ целевой аудитории и настроена таргетированная реклама. Это позволило охватить максимальное количество потенциальных клиентов в городе.</span></p></li><li><p>Сотрудничество с блогерами и лидерами мнений. Агентство MyFirms организовало сотрудничество с популярными beauty-блогерами Новосибирска, которые провели розыгрыши и рекомендации салона своим подписчикам.</p></li><li><p>Продажа средств по уходу за волосами. Помимо услуг салона, клиентам дарили средства для волос в качестве бонуса за пост фотографии из салона и отзыв в своих социальных сетях. Тем самым клиенты помогали приводить дополнительную аудиторию</p></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Всего за 1,5 месяца сотрудничества с агентством MyFirms, салон красоты “Бьюти Лайн” достиг впечатляющих результатов: Количество подписчиков в социальных сетях выросло до 3000 человек Количество клиентов салона увеличилось до 240 человек в месяц Клиентская база выросла до 1500 человек Владелица салона Анна Петрова отметила, что сотрудничество с агентством MyFirms позволило ей не только привлечь новых клиентов, но и значительно увеличить узнаваемость бренда в городе. Теперь ее приглашают в качестве эксперта в другие салоны красоты, а также она запустила собственный обучающий курс по уходу за волосами.",
+       "html": " <p>Всего за 1,5 месяца сотрудничества с агентством MyFirms, салон красоты “Бьюти Лайн” достиг впечатляющих результатов:</p><ul><li><span style=\"color: #000000;\">Количество подписчиков в социальных сетях выросло до 3000 человек</span></li><li><span style=\"color: #000000;\">Количество клиентов салона увеличилось до 240 человек в месяц</span></li><li><span style=\"color: #000000;\">Клиентская база выросла до 1500 человек</span></li></ul><p data-last=\"true\">Владелица салона Анна Петрова отметила, что сотрудничество с агентством MyFirms&nbsp;позволило ей не только привлечь новых клиентов, но и значительно увеличить узнаваемость бренда в городе. Теперь ее приглашают в качестве эксперта в другие салоны красоты, а также она запустила собственный обучающий курс по уходу за волосами.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "380"
+           },
+           "text": "380 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>380</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "900"
+           },
+           "text": "900 % Рост подписчиков",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>900</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост подписчиков</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 179,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "35"
+           },
+           "text": "35 % Узнаваемость бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>35</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Узнаваемость бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 138,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "150"
+           },
+           "text": "150 % Рост клиентской базы",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>150</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост клиентской базы</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6538-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2f77930",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

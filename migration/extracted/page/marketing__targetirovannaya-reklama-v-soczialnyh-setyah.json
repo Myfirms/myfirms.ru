@@ -1,0 +1,1265 @@
+{
+ "url": "https://myfirms.ru/marketing/targetirovannaya-reklama-v-soczialnyh-setyah/",
+ "group": "page",
+ "title": "Настройка таргетированной рекламы",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3813"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "b472632",
+   "height": 515,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "72af270",
+       "heading": {
+        "tag": "h3",
+        "text": "ТАРГЕТИРОВАННАЯ РЕКЛАМА В СОЦИАЛЬНЫХ СЕТЯХ"
+       },
+       "text": "ТАРГЕТИРОВАННАЯ РЕКЛАМА В СОЦИАЛЬНЫХ СЕТЯХ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Таргетированная реклама в социальных сетях</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "b7a4a10",
+       "height": 371,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 562,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "882df7d",
+           "text": "Приведем клиентов из социальных сетей и мессенджеров для любой сферы бизнеса: оптовая и розничная торговля, сфера услуг, строительство, производство, бьюти, образование и др. Повысим узнаваемость вашего бренда и подогреем интерес к продукту. Находим клиентов даже среди тех, у кого изначально не было намерения и потребности в ваших товарах и услугах.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Приведем клиентов из социальных сетей и мессенджеров для любой сферы бизнеса: оптовая и розничная торговля, сфера услуг, строительство, производство, бьюти, образование и др. Повысим узнаваемость вашего бренда и подогреем интерес к продукту. <br>Находим клиентов даже среди тех, у кого изначально не было намерения и потребности в ваших товарах и услугах.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "bb727bc",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 546,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "0d3018d",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148985494.jpg",
+             "w": 1000,
+             "h": 667
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ea4f9e0",
+   "height": 392,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 493,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "2d9fad6",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-vk-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "c862b12",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-telegramma-app-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "c175164",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/logo-megafon-1.png",
+         "w": 96,
+         "h": 90
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "f77fdff",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/32_@mail_sign_only_circle_b@2x.png",
+         "w": 64,
+         "h": 64
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "520a8ec",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/icons8-odnoklassniki-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "520a8ec",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/icons8-odnoklassniki-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "ef11949",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/mtc_eco_logo_cmyk-80x80.png",
+         "w": 80,
+         "h": 80
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 783,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "b1bd9e5",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "b6cb6ee",
+       "heading": {
+        "tag": "h3",
+        "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА"
+       },
+       "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Где будет показываться ваша реклама</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "icon-list.default",
+       "id": "77bfa2c",
+       "text": "Вконтакте Telegram Одноклассники Проекты VK (mail.ru, Пульс, Авто, Леди, Дети, Здоровье и др.) Абоненты мобильных операторов (МТС, Beeline, Мегафон, Теле2) Зарубежные соц. сети и сервисы (работающие за пределами РФ)",
+       "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-vk\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z\"></path></svg> </span> <span class=\"elementor-icon-list-text\"> Вконтакте</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-telegram\" viewBox=\"0 0 496 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Telegram</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-odnoklassniki\" viewBox=\"0 0 320 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Одноклассники</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-vk\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Проекты VK (mail.ru, Пульс, Авто, Леди, Дети, Здоровье и др.)</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-mobile-alt\" viewBox=\"0 0 320 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm112-108c0 6.6-5.4 12-12 12H60c-6.6 0-12-5.4-12-12V60c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v312z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Абоненты мобильных операторов (МТС, Beeline, Мегафон, Теле2)</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"flaticon flaticon-map\"></i> </span> <span class=\"elementor-icon-list-text\">Зарубежные соц. сети и сервисы (работающие за пределами РФ)</span> </li> </ul> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "5b9102b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 49,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "754efdd",
+   "height": 536,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "4a1b074",
+       "heading": {
+        "tag": "h3",
+        "text": "ЧТО ВКЛЮЧАЕТ В СЕБЯ УСЛУГА ТАРГЕТИНГА"
+       },
+       "text": "ЧТО ВКЛЮЧАЕТ В СЕБЯ УСЛУГА ТАРГЕТИНГА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Что включает в себя услуга таргетинга</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "98ce8e3",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "01 Составляем портрет целевой аудитории, которая поможет точно нацелиться на ваших потенциальных клиентов",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">01</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Составляем портрет целевой аудитории, которая поможет точно нацелиться на ваших потенциальных клиентов</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "49cab55",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "02 Проводим конкурентный анализ, выделяем ваши преимущества перед предложениями конкурентов",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">02</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Проводим конкурентный анализ, выделяем ваши преимущества перед предложениями конкурентов</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "27fd502",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "03 Строим сценарий поведения пользователя (CJM), решаем, где и как будем воздействовать на аудиторию",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">03</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Строим сценарий поведения пользователя (CJM), решаем, где и как будем воздействовать на аудиторию</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "aa2645a",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "04 Подбираем эффективные каналы коммуникации и оптимальный бюджет с учетом окупаемости вложений в рекламу",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">04</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Подбираем эффективные каналы коммуникации и оптимальный бюджет с учетом окупаемости вложений в рекламу</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "20c66c6",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "05 Создаем рекламные креативы, яркие, привлекающие внимание и запоминающиеся",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">05</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Создаем рекламные креативы, яркие, привлекающие внимание и запоминающиеся</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "4c336bc",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "06 Проводим А/Б тесты для повышения эффективности рекламы, увеличиваем поток заявок и подписчиков",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">06</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Проводим А/Б тесты для повышения эффективности рекламы, увеличиваем поток заявок и подписчиков</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "55b3bba",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "07 Регулярно анализируем результат и предоставляем отчет",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">07</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Регулярно анализируем результат и предоставляем отчет</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f0cd0ab",
+   "height": 471,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 648,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "ca513d9",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "e534f7b",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "ac98cb0",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ НАСТРОЙКИ И ВЕДЕНИЯ ТАРГЕТИРОВАННОЙ РЕКЛАМЫ"
+       },
+       "text": "СТОИМОСТЬ НАСТРОЙКИ И ВЕДЕНИЯ ТАРГЕТИРОВАННОЙ РЕКЛАМЫ Цена за услугу настройки таргетинга стартует с 30 000 руб. Она зависит от тематики вашего бизнеса и каналов размещения рекламы. Например, достаточно легко найти клиентов в таких сферах, как бьюти, детские товары, автотовары и пр. Гораздо сложнее в B2B услугах, где необходимо найти клиентов среди руководителей бизнеса.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость настройки и ведения таргетированной рекламы</h3> <p>Цена за услугу настройки таргетинга стартует с 30 000 руб. Она зависит от тематики вашего бизнеса и каналов размещения рекламы. Например, достаточно легко найти клиентов в таких сферах, как бьюти, детские товары, автотовары и пр. Гораздо сложнее в B2B услугах, где необходимо найти клиентов среди руководителей бизнеса. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "e9a14b4",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "7865767",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 492,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "97ea8fc",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "d7b8789",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/rrrrr.png",
+         "w": 513,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "8be6319",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "348210d",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "98d2036",
+   "height": 208,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "bbc6a64",
+       "text": "Стоимость услуги повышается в связи со сложностью поиска, разработки нестандартных креативов и многоступенчатой стратегии подогрева интереса. Минимальный срок ведения кампании составляет 3 месяца.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Стоимость услуги повышается в связи со сложностью поиска, разработки нестандартных креативов и многоступенчатой стратегии подогрева интереса. Минимальный срок ведения кампании составляет 3 месяца. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(49, 49, 49)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a679d57",
+   "height": 217,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "903998f",
+       "height": 137,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "20763f4",
+           "heading": {
+            "tag": "h2",
+            "text": "НАШИ КОМПЕТЕНЦИИ"
+           },
+           "text": "НАШИ КОМПЕТЕНЦИИ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "30px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "b76ac90",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-05-v-19.34.01-150x47.png",
+             "alt": "Снимок экрана 2024-04-05 в 19.34.01",
+             "w": 150,
+             "h": 47
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-05-v-19.34.01-150x47.png",
+             "alt": "Снимок экрана 2024-04-05 в 19.34.01",
+             "w": 150,
+             "h": 47
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/snimok-ekrana-2024-04-05-v-19.34.01-150x47.png",
+             "alt": "Снимок экрана 2024-04-05 в 19.34.01",
+             "w": 150,
+             "h": 47
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15d520a",
+   "height": 221,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "43a3b06",
+       "height": 101,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "0f7a0dc",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ"
+           },
+           "text": "НАШИ СПЕЦИАЛИСТЫ ПО ОНЛАЙН-РЕКЛАМЕ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши специалисты по онлайн-рекламе</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "f56828a",
+           "text": "Настраиваем таргетинг с 2013 года. Более 10 сильных таргетологов с компетенциями в разных сферах бизнеса, от бьюти до облачных сервисов. Вашим проектом будет заниматься сотрудник с опытом настройки таргетированной рекламы в вашем бизнесе.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Настраиваем таргетинг с 2013 года. Более 10 сильных таргетологов с компетенциями в разных сферах бизнеса, от бьюти до облачных сервисов. Вашим проектом будет заниматься сотрудник с опытом настройки таргетированной рекламы в вашем бизнесе.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1503758",
+   "height": 454,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "d44b0fa",
+   "height": 1303,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "cedc18d",
+       "height": 101,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "21ebbb2",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ ЛУЧШИЕ КЕЙСЫ"
+           },
+           "text": "НАШИ ЛУЧШИЕ КЕЙСЫ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши лучшие кейсы</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "15e1d08",
+       "height": 454,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "service.default",
+           "id": "e964500",
+           "heading": {
+            "tag": "h2",
+            "text": "БизнесДок"
+           },
+           "text": "БизнесДок Цель: Привести не менее 20 заявок на торговое оборудование. Выявленная проблема: Сложность заключалась в таргетинге на владельцев бизнеса, которые не сидят в соц. сетях. Решение: Спрос нашли на допополнительных услугах. За 2 месяца привели 46 заявок на ремонт и обслуживание кассовой техники, через которые продали 26 единиц оборудования и заключено 12 долгосрочных контрактов на обслуживание.",
+           "html": " <div class=\"service-box style-seven\"> <div class=\"service-box-content \"> <div class=\"single-service-text\"> <div class=\"service-top-text\"> <div class=\"service-box-icon\"> <i class=\"far fa-handshake\"></i> </div> </div> <div class=\"service-box-inner\"> <div class=\"service-box-title\"> <h2>БизнесДок</h2> </div> <div class=\"service-box-desc\"> <p><b>Цель: </b> Привести не менее 20 заявок на торговое оборудование. <br><b>Выявленная проблема: </b> Сложность заключалась в таргетинге на владельцев бизнеса, которые не сидят в соц. сетях. <br><b>Решение: </b> Спрос нашли на допополнительных услугах. За 2 месяца привели 46 заявок на ремонт и обслуживание кассовой техники, через которые продали 26 единиц оборудования и заключено 12 долгосрочных контрактов на обслуживание. </p> </div> </div> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "service.default",
+           "id": "91e9d3d",
+           "heading": {
+            "tag": "h2",
+            "text": "CyberGear"
+           },
+           "text": "CyberGear Цель: Привести не менее 20 заявок на товары для киберспортменов. Выявленная проблема: Проблема была в настройке таргетинге на родителей, которые не заинтересованы в покупках виртуальных товаров. Решение: Изменили целевую аудиторию. За 1 месяц привели 32 заявок на виртуальные товары, через которые продали 14 единиц оборудования и дополнительно продано 10 аксессуаров.",
+           "html": " <div class=\"service-box style-seven\"> <div class=\"service-box-content \"> <div class=\"single-service-text\"> <div class=\"service-top-text\"> <div class=\"service-box-icon\"> <i class=\"far fa-handshake\"></i> </div> </div> <div class=\"service-box-inner\"> <div class=\"service-box-title\"> <h2>CyberGear</h2> </div> <div class=\"service-box-desc\"> <p><b>Цель: </b> Привести не менее 20 заявок на товары для киберспортменов. <br><b>Выявленная проблема: </b> Проблема была в настройке таргетинге на родителей, которые не заинтересованы в покупках виртуальных товаров. <br><b>Решение: </b> Изменили целевую аудиторию. За 1 месяц привели 32 заявок на виртуальные товары, через которые продали 14 единиц оборудования и дополнительно продано 10 аксессуаров. <br><br> </p> </div> </div> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "eccc6d4",
+       "height": 524,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "spacer.default",
+           "id": "91709b2",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "service.default",
+           "id": "7baf027",
+           "heading": {
+            "tag": "h2",
+            "text": "Авантор"
+           },
+           "text": "Авантор Цель: Увеличить узнаваемость бренда в регионе, повысить продажи Выявленная проблема: Не использовали таргетированную рекламу для продвижения своего бренда Решение: Контекстный таргетинг по запросам \"мебель купить\",\"купить шкаф\" и т.д. на целевую аудиторию в возрасте от 25 до 55 лет. За 1 месяц вырос объем брендовых запросов на 14%, рост прямых и органических конверсий на 26%.",
+           "html": " <div class=\"service-box style-seven\"> <div class=\"service-box-content \"> <div class=\"single-service-text\"> <div class=\"service-top-text\"> <div class=\"service-box-icon\"> <i class=\"far fa-handshake\"></i> </div> </div> <div class=\"service-box-inner\"> <div class=\"service-box-title\"> <h2>Авантор</h2> </div> <div class=\"service-box-desc\"> <p><b>Цель: </b> Увеличить узнаваемость бренда в регионе, повысить продажи <br><b>Выявленная проблема: </b> Не использовали таргетированную рекламу для продвижения своего бренда <br><b>Решение: </b> Контекстный таргетинг по запросам \"мебель купить\",\"купить шкаф\" и т.д. на целевую аудиторию в возрасте от 25 до 55 лет. За 1 месяц вырос объем брендовых запросов на 14%, рост прямых и органических конверсий на 26%.</p> </div> </div> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "spacer.default",
+           "id": "5244fd7",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "service.default",
+           "id": "67ae292",
+           "heading": {
+            "tag": "h2",
+            "text": "Линда"
+           },
+           "text": "Линда Цель: Увеличить продажи маркетплейса через социальные сети. Основным KPI было получение показателя ДРР (Доля Рекламных Расходов) < 20%. Выявленная проблема: 90% отказов приносили настройки динамического ремаркетинга Решение: Протестировали новые форматы рекламы, перераспределили бюджет. основная часть бюджета выделена на возврат тех кто уже был на сайте. За 3 месяца получили 138 заказов на товары, за 5 месяцев 245 заказов. Показатель ДРР снизился на 22%",
+           "html": " <div class=\"service-box style-seven\"> <div class=\"service-box-content \"> <div class=\"single-service-text\"> <div class=\"service-top-text\"> <div class=\"service-box-icon\"> <i class=\"far fa-handshake\"></i> </div> </div> <div class=\"service-box-inner\"> <div class=\"service-box-title\"> <h2>Линда</h2> </div> <div class=\"service-box-desc\"> <p><b>Цель: </b> Увеличить продажи маркетплейса через социальные сети. Основным KPI было получение показателя ДРР (Доля Рекламных Расходов) &lt; 20%. <br><b>Выявленная проблема: </b> 90% отказов приносили настройки динамического ремаркетинга <br><b>Решение: </b> Протестировали новые форматы рекламы, перераспределили бюджет. основная часть бюджета выделена на возврат тех кто уже был на сайте. За 3 месяца получили 138 заказов на товары, за 5 месяцев 245 заказов. Показатель ДРР снизился на 22%</p> </div> </div> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer.default",
+       "id": "ee0bbbc",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "960b2ff",
+       "text": "Портфолио",
+       "links": [
+        {
+         "text": "Портфолио",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cb8d926",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "ee00cbc",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "d46ed4c",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "f7ac36f",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "8a84b65",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p3813-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9a3ac61",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "211e6b9",
+       "video": "{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=pGnILZ9TV08\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "f51306c",
+       "height": 224,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "f6b6679",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, что такое таргетинг. Какие виды таргетированной рекламы бывают. Сложно ли настроить самому рекламу во Вконтакте и зарубежных соц. сетях. Какие креативы дают больше продаж.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, что такое таргетинг. Какие виды таргетированной рекламы бывают. Сложно ли настроить самому рекламу во Вконтакте и зарубежных соц. сетях. Какие креативы дают больше продаж.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

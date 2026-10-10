@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/otlichnyj-dom/",
+ "group": "portfolio",
+ "title": "Отличный дом",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6244"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1238,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы увеличили количество заявок компании по отделочным работам \"Отличный дом\" с помощью контекстной рекламы"
+       },
+       "text": "Как мы увеличили количество заявок компании по отделочным работам \"Отличный дом\" с помощью контекстной рекламы",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы увеличили количество заявок компании по отделочным работам \"Отличный дом\" с помощью контекстной рекламы</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания “Отличный дом”* специализируется на предоставлении услуг по отделке помещений. Столкнувшись с проблемой недостаточного количества заказов, они обратились к нам в поисках эффективного решения. В условиях жесткой конкуренции на рынке отделочных услуг, необходимо было выделиться и привлечь новых клиентов.",
+       "html": "  <p>Компания “Отличный дом”<span style=\"color: #999999;\">*</span> специализируется на предоставлении услуг по отделке помещений. Столкнувшись с проблемой недостаточного количества заказов, они обратились к нам в поисках эффективного решения. В условиях жесткой конкуренции на рынке отделочных услуг, необходимо было выделиться и привлечь новых клиентов.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить количество заявок минимум на 50% за 2 месяца при ограниченном бюджете до 150 000 рублей.",
+       "html": " <p>Увеличить количество заявок минимум на 50% за 2 месяца при ограниченном бюджете до 150 000 рублей.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести анализ спроса на услуги по отделке помещений. Провести конкурентный анализ и выявить основные преимущества конкурентов. Определить уникальное торговое предложение (УТП) компании “Отличный Дом”. Выбрать оптимальные каналы продвижения услуг. Разработать привлекательный дизайн рекламных материалов. Создать эффективные заголовки и тексты для объявлений. Разработать систему скидок и акций. Запустить контекстную рекламу и провести A/B-тестирование. Провести анализ кликабельности и конверсии рекламы. Оптимизировать стратегию и улучшить результат.",
+       "html": " <ol><li>Провести анализ спроса на услуги по отделке помещений.</li><li>Провести конкурентный анализ и выявить основные преимущества конкурентов.</li><li>Определить уникальное торговое предложение (УТП) компании “Отличный Дом”.</li><li>Выбрать оптимальные каналы продвижения услуг.</li><li>Разработать привлекательный дизайн рекламных материалов.</li><li>Создать эффективные заголовки и тексты для объявлений.</li><li>Разработать систему скидок и акций.</li><li>Запустить контекстную рекламу и провести A/B-тестирование.</li><li>Провести анализ кликабельности и конверсии рекламы.</li><li>Оптимизировать стратегию и улучшить результат.</li></ol> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "В первую неделю после запуска контекстной рекламы мы увеличили количество заявок на 25% от среднего недельного значения. Однако стоимость привлечения клиента оказалась выше, чем ожидалось, из-за острой конкуренции и низкой узнаваемости бренда. Для увеличения эффективности рекламы, мы приняли решение увеличить ставку на клик в Яндекс.Директе, чтобы обеспечить более высокую видимость объявлений. К концу первого месяца мы достигли уровня заявок на 170% выше среднемесячного показателя. Из заложенного бюджета мы не выбивались и поэтому клиент оставляся в хорошем плюсе. Мы запустили ретаргетинг на новые виды отделочных работ и внедрили акции на популярные услуги в основных объявлениях. Этот подход привел к снижению стоимости привлечения клиента на 45% и увеличению количества заявок.",
+       "html": " <p dir=\"auto\">В первую неделю после запуска контекстной рекламы мы увеличили количество заявок на 25% от среднего недельного значения. Однако стоимость привлечения клиента оказалась выше, чем ожидалось, из-за острой конкуренции и низкой узнаваемости бренда. Для увеличения эффективности рекламы, мы приняли решение увеличить ставку на клик в Яндекс.Директе, чтобы обеспечить более высокую видимость объявлений.</p><p dir=\"auto\">К концу первого месяца мы достигли уровня заявок на 170% выше среднемесячного показателя. Из заложенного бюджета мы не выбивались и поэтому клиент оставляся в хорошем плюсе. Мы запустили ретаргетинг на новые виды отделочных работ и внедрили акции на популярные услуги в основных объявлениях. Этот подход привел к снижению стоимости привлечения клиента на 45% и увеличению количества заявок.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "170"
+           },
+           "text": "170 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>170</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "150"
+           },
+           "text": "150 % Рост узнаваемости бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>150</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "12"
+           },
+           "text": "12 % Рост повторных заказов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>12</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост повторных заказов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "45"
+           },
+           "text": "45 % Снижение цены заявки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>45</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Снижение цены заявки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6244-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1252b85",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/",
+ "group": "portfolio",
+ "title": "Ремонт бытовой техники",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6516"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 995,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как повысить количество заявок на ремонт бытовой техники с помощью оптимизации контента"
+       },
+       "text": "Как повысить количество заявок на ремонт бытовой техники с помощью оптимизации контента",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как повысить количество заявок на ремонт бытовой техники с помощью оптимизации контента</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Владелец сайта по ремонту бытовой техники* столкнулся с проблемой: его сайт не приносил достаточного количества заявок на услуги. Несмотря на вложения в рекламу, конверсия оставалась низкой, и он получал всего 4-5 заявок в месяц, что было недостаточно для рентабельности бизнеса. Владелец решил обратиться за помощью в агентство MyFirms.",
+       "html": "  <p>Владелец сайта по ремонту бытовой техники<span style=\"color: #999999;\">*</span> столкнулся с проблемой: его сайт не приносил достаточного количества заявок на услуги. Несмотря на вложения в рекламу, конверсия оставалась низкой, и он получал всего 4-5 заявок в месяц, что было недостаточно для рентабельности бизнеса. Владелец решил обратиться за помощью в агентство MyFirms.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Основная цель — увеличить количество заявок на услуги ремонта бытовой техники через оптимизацию и улучшение контента сайта, не выходя за рамки бюджета в 50 000 рублей.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Основная цель — увеличить количество заявок на услуги ремонта бытовой техники через оптимизацию и улучшение контента сайта, не выходя за рамки бюджета в 50 000 рублей.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Проанализировать целевую аудиторию Проанализировать существующий контент сайта и выявить его слабые стороны. Переписать контент, сделав его более понятным и убедительным для целевой аудитории. Улучшить структуру сайта и навигацию, чтобы пользователям было легче находить необходимую информацию. Настроить эффективную рекламную кампанию, направленную на привлечение целевых клиентов.",
+       "html": " <ul><li>Проанализировать целевую аудиторию</li><li>Проанализировать существующий контент сайта и выявить его слабые стороны.</li><li>Переписать контент, сделав его более понятным и убедительным для целевой аудитории.</li><li>Улучшить структуру сайта и навигацию, чтобы пользователям было легче находить необходимую информацию.</li><li>Настроить эффективную рекламную кампанию, направленную на привлечение целевых клиентов.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "После внедрения рекомендаций агентства MyFirms, владелец сайта по ремонту бытовой техники стал получать от 40 заявок в месяц за свой рекламный бюджет. Это в 5 раз больше, чем было до оптимизации. Сайт стал более понятным и привлекательным для целевой аудитории, что привело к значительному увеличению конверсии. Владелец остался доволен результатами сотрудничества с агентством и продолжает успешно развивать свой бизнес.",
+       "html": " <p>После внедрения рекомендаций агентства MyFirms, владелец сайта по ремонту бытовой техники стал получать от 40 заявок в месяц за свой рекламный бюджет. Это в 5 раз больше, чем было до оптимизации. Сайт стал более понятным и привлекательным для целевой аудитории, что привело к значительному увеличению конверсии. Владелец остался доволен результатами сотрудничества с агентством и продолжает успешно развивать свой бизнес.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "400"
+           },
+           "text": "400 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>400</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "67"
+           },
+           "text": "67 % Рост трафика на сайт",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>67</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост трафика на сайт</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 179,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 % Сокращение бюджета на рекламу",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Сокращение бюджета на рекламу</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 138,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "18"
+           },
+           "text": "18 % Рост выручки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>18</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост выручки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6516-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "33f588e",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

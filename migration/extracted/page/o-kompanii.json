@@ -1,0 +1,763 @@
+{
+ "url": "https://myfirms.ru/o-kompanii/",
+ "group": "page",
+ "title": "О компании",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3637"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "2a818d6",
+   "height": 503,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/11/techno-4.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "faf1be8",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/04/tbs2.jpg",
+         "w": 535,
+         "h": 400
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "63ad979",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape2-1.png",
+         "w": 320,
+         "h": 319
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "7a0583a",
+       "height": 409,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "5226884",
+           "heading": {
+            "tag": "h5",
+            "text": "О НАШЕЙ КОМПАНИИ"
+           },
+           "text": "О НАШЕЙ КОМПАНИИ ЧЕМ МЫ ЗАНИМАЕМСЯ",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h5>О нашей компании</h5> <h3>Чем мы занимаемся</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "icon-list.default",
+           "id": "6c8834a",
+           "text": "Интернет-маркетинг под ключ Веб-разработка Бизнес-консалтинг",
+           "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <a href=\"#\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Интернет-маркетинг под ключ</span> </a> </li> <li class=\"elementor-icon-list-item\"> <a href=\"#\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Веб-разработка</span> </a> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Бизнес-консалтинг</span> </li> </ul> ",
+           "links": [
+            {
+             "text": "Интернет-маркетинг под ключ",
+             "href": "#"
+            },
+            {
+             "text": "Веб-разработка",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "5a7c98c",
+           "text": "Профессионально настроем рекламу вашего продукта. Разработаем сайт и популяризируем ваши товары или услуги в поисковых системах и социальных сетях. Поможем в развитии бизнеса и освоении новых ниш. Проанализируем воронку продаж и найдем новые точки роста клиентской базы, увеличим прибыль и снизим затраты на привлечение.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Профессионально настроем рекламу вашего продукта. Разработаем сайт и популяризируем ваши товары или услуги в поисковых системах и социальных сетях. Поможем в развитии бизнеса и освоении новых ниш. Проанализируем воронку продаж и найдем новые точки роста клиентской базы, увеличим прибыль и снизим затраты на привлечение.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bce79f9",
+   "height": 547,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 700,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "7ca2d9a",
+       "heading": {
+        "tag": "h3",
+        "text": "ИСТОРИЯ MYFIRMS"
+       },
+       "text": "ИСТОРИЯ MYFIRMS",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>История MyFirms</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "1c76822",
+       "text": "Наша команда образовалась в 2008 году. Тогда мы сделали свои первые сайты и начали их продвигать в интернете. В 2011 г. мы накопили внушительный опыт в веб-разработке и начали брать сложные проекты: облачные сервисы, платежные системы, CRM и системы учета, и даже браузерные игры. В 2013 г. мы начали развивать направление маркетинга: настройка рекламы, продвижение сайта, создание продающих страниц, привлечение аудитории через соц. сети. И с ростом клиентской базы мы решили зарегистрировать нашу компанию официально \"РусВеб\". В 2017 году произошел ребрендинг на \"Майфирмс\".",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Наша команда образовалась в 2008 году. Тогда мы сделали свои первые сайты и начали их продвигать в интернете.<br><br> В 2011 г. мы накопили внушительный опыт в веб-разработке и начали брать сложные проекты: облачные сервисы, платежные системы, CRM и системы учета, и даже браузерные игры.<br><br> В 2013 г. мы начали развивать направление маркетинга: настройка рекламы, продвижение сайта, создание продающих страниц, привлечение аудитории через соц. сети. И с ростом клиентской базы мы решили зарегистрировать нашу компанию официально \"РусВеб\".<br><br> В 2017 году произошел ребрендинг на \"Майфирмс\".<br><br></p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    },
+    {
+     "width": 700,
+     "bg": {},
+     "items": [
+      {
+       "type": "image-carousel.default",
+       "id": "1bae26f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/pppyyypp.jpg",
+         "alt": "пппыыыпп",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/04/tbs1.jpg",
+         "alt": "tbs1",
+         "w": 535,
+         "h": 400
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/chchch.jpg",
+         "alt": "ччч",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/pppyyypp.jpg",
+         "alt": "пппыыыпп",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/04/tbs1.jpg",
+         "alt": "tbs1",
+         "w": 535,
+         "h": 400
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a118769",
+   "height": 293,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "b9ece66",
+       "height": 153,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "fdefce5",
+           "heading": {
+            "tag": "h3",
+            "text": "НАША КОМАНДА ЭКСПЕРТОВ"
+           },
+           "text": "НАША КОМАНДА ЭКСПЕРТОВ В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наша команда экспертов</h3> <p>В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e37864c",
+   "height": 454,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "13ab350",
+   "height": 20,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": []
+  },
+  {
+   "id": "cf4792a",
+   "height": 683,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "d3abdad",
+       "height": 101,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "924b2bf",
+           "heading": {
+            "tag": "h3",
+            "text": "ИСТОРИИ НАШИХ ПРОЕКТОВ"
+           },
+           "text": "ИСТОРИИ НАШИХ ПРОЕКТОВ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Истории наших проектов</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bdt-portfolio-carousel.default",
+       "id": "9ae04eb",
+       "heading": {
+        "tag": "h4",
+        "text": "Банкрот-Эксперт"
+       },
+       "text": "Банкрот-Эксперт Бухгалтер Плюс Ремонт бытовой техники Сервис по онлайн-бронированию отелей Приложение для HR-специалистов Канцелярский мир Автоматические кормушки для животных Финансовый Эксперт Бьюти Лайн Банкрот-Эксперт Бухгалтер Плюс Ремонт бытовой техники Сервис по онлайн-бронированию отелей Приложение для HR-специалистов Канцелярский мир",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/cropped-image-man-suit-sitting_171337-18948-300x200.jpeg",
+         "alt": "Банкрот-Эксперт",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148435588-300x200.jpg",
+         "alt": "Бухгалтер Плюс",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/service-maintenance-worker-repairing_23-2149176684-300x200.jpeg",
+         "alt": "Ремонт бытовой техники",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344-300x200.jpg",
+         "alt": "Сервис по онлайн-бронированию отелей",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/17909-300x200.jpg",
+         "alt": "Приложение для HR-специалистов",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010-300x200.jpg",
+         "alt": "Канцелярский мир",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2151310849-300x208.jpg",
+         "alt": "Автоматические кормушки для животных",
+         "w": 300,
+         "h": 208
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/groupe-personnes-preparant-plan-affaires-dans-bureau-300x200.jpg",
+         "alt": "Финансовый Эксперт",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/close-up-hair-trimmer-supplies_23-2148352856-300x200.jpeg",
+         "alt": "Бьюти Лайн",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/cropped-image-man-suit-sitting_171337-18948-300x200.jpeg",
+         "alt": "Банкрот-Эксперт",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148435588-300x200.jpg",
+         "alt": "Бухгалтер Плюс",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/service-maintenance-worker-repairing_23-2149176684-300x200.jpeg",
+         "alt": "Ремонт бытовой техники",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344-300x200.jpg",
+         "alt": "Сервис по онлайн-бронированию отелей",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/17909-300x200.jpg",
+         "alt": "Приложение для HR-специалистов",
+         "w": 300,
+         "h": 200
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010-300x200.jpg",
+         "alt": "Канцелярский мир",
+         "w": 300,
+         "h": 200
+        }
+       ],
+       "links": [
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/cropped-image-man-suit-sitting_171337-18948.jpeg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "Банкрот-Эксперт",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/04/2148435588.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "Бухгалтер Плюс",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/service-maintenance-worker-repairing_23-2149176684.jpeg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "Ремонт бытовой техники",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "Сервис по онлайн-бронированию отелей",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/03/17909.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "Приложение для HR-специалистов",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "Канцелярский мир",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/2151310849.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+        },
+        {
+         "text": "Автоматические кормушки для животных",
+         "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/04/groupe-personnes-preparant-plan-affaires-dans-bureau.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+        },
+        {
+         "text": "Финансовый Эксперт",
+         "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/close-up-hair-trimmer-supplies_23-2148352856.jpeg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+        },
+        {
+         "text": "Бьюти Лайн",
+         "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/cropped-image-man-suit-sitting_171337-18948.jpeg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "Банкрот-Эксперт",
+         "href": "https://myfirms.ru/portfolio-item/bankrot-ehkspert/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/04/2148435588.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "Бухгалтер Плюс",
+         "href": "https://myfirms.ru/portfolio-item/buhgalter-plyus/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/service-maintenance-worker-repairing_23-2149176684.jpeg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "Ремонт бытовой техники",
+         "href": "https://myfirms.ru/portfolio-item/remont-bytovoi-tehniki/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "Сервис по онлайн-бронированию отелей",
+         "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/03/17909.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "Приложение для HR-специалистов",
+         "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010.jpg"
+        },
+        {
+         "text": "",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "Канцелярский мир",
+         "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+        },
+        {
+         "text": "",
+         "href": ""
+        },
+        {
+         "text": "",
+         "href": ""
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "9b651b7",
+       "text": "Портфолио",
+       "links": [
+        {
+         "text": "Портфолио",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48f9769",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "0a26d82",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "f828529",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "82f1a18",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "564562f",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p3637-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

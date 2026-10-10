@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/ivan-topazov/",
+ "group": "portfolio",
+ "title": "Ювелирный магазин Ивана Топазова",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6341"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1568,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Повысили количество заявок с сайта ювелирного магазина в 2,5 раза благодаря веб-аналитике"
+       },
+       "text": "Повысили количество заявок с сайта ювелирного магазина в 2,5 раза благодаря веб-аналитике",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Повысили количество заявок с сайта ювелирного магазина в 2,5 раза благодаря веб-аналитике</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Интернет-магазин “Иван Топазов”* предлагает широкий ассортимент ювелирных украшений. Фишка магазина заключается в том, что покупатель может заказать примерку ювелирного изделия практически в любой ювелирный магазин своего города. Основным конкурентным преимуществом является низкая стоимость, т.к. у дистанционной торговли отсутствуют издержки, связанные с арендой помещений, зарплатой персоналу и охраной. К нам обратился владелец магазина с просьбой помочь с настройкой рекламы, которая не приводила лиды и не окупалась. Но, как выяснилось позже, проблема была не в рекламе, а в сайте.",
+       "html": "  <p><span style=\"font-weight: 400;\">Интернет-магазин “Иван Топазов”<span style=\"color: #999999;\">*</span> предлагает широкий ассортимент ювелирных украшений. Фишка магазина заключается в том, что покупатель может заказать примерку ювелирного изделия практически в любой ювелирный магазин своего города. Основным конкурентным преимуществом является низкая стоимость, т.к. у дистанционной торговли отсутствуют издержки, связанные с арендой помещений, зарплатой персоналу и охраной. К нам обратился владелец магазина с просьбой помочь с настройкой рекламы, которая не приводила лиды и не окупалась. Но, как выяснилось позже, проблема была не в рекламе, а в сайте.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Делать с сайта не менее 100 заказов при тратах на рекламу не более 250 000 руб.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Делать с сайта не менее 100 заказов при тратах на рекламу не более 250 000 руб.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести аудит рекламных кампаний Проанализировать рекламный трафик на сайте Найти факторы, влияющие на конверсию посадочных страниц Составить карту потребностей целевой аудитории Провести конкурентный анализ Скорректировать предложение на сайте и в рекламных кампаниях Разработать и внедрить программу лояльности и скидок",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести аудит рекламных кампаний</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Проанализировать рекламный трафик на сайте</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Найти факторы, влияющие на конверсию посадочных страниц</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Составить карту потребностей целевой аудитории</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести конкурентный анализ</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Скорректировать предложение на сайте и в рекламных кампаниях</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разработать и внедрить программу лояльности и скидок</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Проведя анализ рекламных кампаний заказчика, мы не нашли, к чему придраться. CTR был хороший, цена клика приемлемая и не выходила за рамки средней по данному рынку. Нас ждал сюрприз при анализе сайта, вернее поведения посетителей этого сайта. Конверсия посадочных страниц была околонулевая. Веб-аналитик указал на высокую долю отказов и малое среднее время на сайте. Это означало, что либо предложение не отвечает спросу, с которым пришел потенциальный клиент, либо аудитория приходит нецелевая. Второй вариант мы сразу отмели по результатам анализа поисковых фраз, по которым люди искали товар. Оставалось доказать первый. Мы начали смотреть записанные вебвизором сеансы посетителей сайта, и делать предположения по элементам страниц. Веб-аналитик обращал внимание, с какой группы объявлений перешел человек, какое ключевое слово он вбивал в поиск Яндекса, на каком блоке страницы он задержался и на каком принял решение покинуть сайт. Так мы поняли, что вместо посадочных страниц с конкретным товаром, нужны подборки под поисковый запрос клиента. Особое значение имела ценовая группа и распределение по вставке драгоценного камня (бриллиант, изумруд, рубин и т.д.). С помощью UX дизайнера по выводам веб-аналитика мы спроектировали новую структуру карточек товара и сгруппировали товары под поисковые запросы целевой аудитории. Для каждой такой страницы мы сделали отдельный URL адрес и направили на него рекламный трафик, где ключевые слова также были сгруппированы логически. Благодаря блестящей работе веб-аналитика конверсия сайта выросла в 2,5 раза в среднем, а по некоторым группам в высоком ценовом сегменте в 4 раза. Т.е. мы не только увеличили количество продаж, но и подняли средний чек и выручку нашему заказчику.",
+       "html": " <p><span style=\"font-weight: 400;\">Проведя анализ рекламных кампаний заказчика, мы не нашли, к чему придраться. CTR был хороший, цена клика приемлемая и не выходила за рамки средней по данному рынку. Нас ждал сюрприз при анализе сайта, вернее поведения посетителей этого сайта. Конверсия посадочных страниц была околонулевая. Веб-аналитик указал на высокую долю отказов и малое среднее время на сайте. Это означало, что либо предложение не отвечает спросу, с которым пришел потенциальный клиент, либо аудитория приходит нецелевая. Второй вариант мы сразу отмели по результатам анализа поисковых фраз, по которым люди искали товар. Оставалось доказать первый. </span></p><p><span style=\"font-weight: 400;\">Мы начали смотреть записанные вебвизором сеансы посетителей сайта, и делать предположения по элементам страниц. Веб-аналитик обращал внимание, с какой группы объявлений перешел человек, какое ключевое слово он вбивал в поиск Яндекса, на каком блоке страницы он задержался и на каком принял решение покинуть сайт. Так мы поняли, что вместо посадочных страниц с конкретным товаром, нужны подборки под поисковый запрос клиента. Особое значение имела ценовая группа и распределение по вставке драгоценного камня (бриллиант, изумруд, рубин и т.д.). </span></p><p><span style=\"font-weight: 400;\">С помощью UX дизайнера по выводам веб-аналитика мы спроектировали новую структуру карточек товара и сгруппировали товары под поисковые запросы целевой аудитории. Для каждой такой страницы мы сделали отдельный URL адрес и направили на него рекламный трафик, где ключевые слова также были сгруппированы логически.</span></p><p><span style=\"font-weight: 400;\"> Благодаря блестящей работе веб-аналитика конверсия сайта выросла в 2,5 раза в среднем, а по некоторым группам в высоком ценовом сегменте в 4 раза. Т.е. мы не только увеличили количество продаж, но и подняли средний чек и выручку нашему заказчику.&nbsp;</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "250"
+           },
+           "text": "250 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>250</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 170,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "2"
+           },
+           "text": "2 раза Снижение цены заявки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>2</h1> <h3>раза</h3> </div> <div class=\"counter_title\"> <h4>Снижение цены заявки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 % Рост среднего чека",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост среднего чека</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 146,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "33"
+           },
+           "text": "33 % Рост выручки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>33</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост выручки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6341-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4aab237",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

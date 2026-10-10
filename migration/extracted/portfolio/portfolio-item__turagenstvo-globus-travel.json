@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/turagenstvo-globus-travel/",
+ "group": "portfolio",
+ "title": "Турагенство \"Globus travel\"",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6490"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1316,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы турагентству \"Globus travel\" увеличило количество заявок на туры в 3 раза благодаря веб-аналитике"
+       },
+       "text": "Как мы турагентству \"Globus travel\" увеличило количество заявок на туры в 3 раза благодаря веб-аналитике",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы турагентству \"Globus travel\" увеличило количество заявок на туры в 3 раза благодаря веб-аналитике</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Турагентство “Globus travel”* предлагает широкий ассортимент туров по России и за рубеж. Основным конкурентным преимуществом компании является гибкий подход к каждому клиенту и возможность подобрать идеальный тур под любые пожелания. В Myfirms обратился владелец турагентства с просьбой помочь увеличить количество заявок на туры, так как несмотря на рост посещаемости сайта, количество заявок оставалось на прежнем уровне",
+       "html": "  <p>Турагентство “Globus travel”<span style=\"color: #999999;\">*</span> предлагает широкий ассортимент туров по России и за рубеж. Основным конкурентным преимуществом компании является гибкий подход к каждому клиенту и возможность подобрать идеальный тур под любые пожелания. В Myfirms обратился владелец турагентства с просьбой помочь увеличить количество заявок на туры, так как несмотря на рост посещаемости сайта, количество заявок оставалось на прежнем уровне</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить количество заявок на туры в 3 раза при сохранении затрат на рекламу не более 500 000 рублей.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Увеличить количество заявок на туры в 3 раза при сохранении затрат на рекламу не более 500 000 рублей.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести аудит рекламных кампаний Проанализировать рекламный трафик на сайте Найти факторы, влияющие на конверсию посадочных страниц Составить карту потребностей целевой аудитории Провести конкурентный анализ Скорректировать предложение на сайте и в рекламных кампаниях Разработать и внедрить программу лояльности и акций",
+       "html": " <ul><li>Провести аудит рекламных кампаний</li><li>Проанализировать рекламный трафик на сайте</li><li>Найти факторы, влияющие на конверсию посадочных страниц</li><li>Составить карту потребностей целевой аудитории</li><li>Провести конкурентный анализ</li><li>Скорректировать предложение на сайте и в рекламных кампаниях</li><li>Разработать и внедрить программу лояльности и акций</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Проведя анализ рекламных кампаний, мы выявили, что основной трафик на сайт был информационным, а не коммерческим. Посетители активно изучали информацию о направлениях, ценах и условиях, но не совершали бронирование туров. Веб-аналитик указал на высокую долю отказов и малое среднее время на сайте. Это означало, что либо предложение не отвечает спросу, с которым пришел потенциальный клиент, либо аудитория приходит нецелевая. Мы начали анализировать поведение посетителей на сайте и выявили, что основной проблемой является отсутствие призывов к действию и возможности быстрого перехода к бронированию тура. Для решения этой проблемы мы запустили серию лид-магнитов, в которых предлагали скидки и акции на популярные направления. Также мы добавили баннеры с призывами к действию на страницы с информацией о турах. Благодаря этим изменениям, конверсия сайта выросла в 3 раза, а количество заявок на туры увеличилось на 200%. Таким образом, мы не только увеличили количество продаж, но и повысили средний чек и выручку нашего заказчика.",
+       "html": " <p>Проведя анализ рекламных кампаний, мы выявили, что основной трафик на сайт был информационным, а не коммерческим. Посетители активно изучали информацию о направлениях, ценах и условиях, но не совершали бронирование туров.</p><p>Веб-аналитик указал на высокую долю отказов и малое среднее время на сайте. Это означало, что либо предложение не отвечает спросу, с которым пришел потенциальный клиент, либо аудитория приходит нецелевая.</p><p><span style=\"font-family: Roboto;\">Мы начали анализировать поведение посетителей на сайте и выявили, что основной проблемой является отсутствие призывов к действию и возможности быстрого перехода к бронированию тура. Для решения этой проблемы мы запустили серию лид-магнитов, в которых предлагали скидки и акции на популярные направления. Также мы добавили баннеры с призывами к действию на страницы с информацией о турах.</span></p><p data-last=\"true\">Благодаря этим изменениям, конверсия сайта выросла в 3 раза, а количество заявок на туры увеличилось на 200%. Таким образом, мы не только увеличили количество продаж, но и повысили средний чек и выручку нашего заказчика.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "200"
+           },
+           "text": "200 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>200</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "3"
+           },
+           "text": "3 раза Рост продаж",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>3</h1> <h3>раза</h3> </div> <div class=\"counter_title\"> <h4>Рост продаж</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 170,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Сохранение бюджета",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Сохранение бюджета</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 146,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "38"
+           },
+           "text": "38 % Рост выручки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>38</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост выручки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6490-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "75009fa",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

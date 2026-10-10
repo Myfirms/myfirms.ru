@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/",
+ "group": "portfolio",
+ "title": "Финансовый Эксперт",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6547"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1102,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как бухгалтерская компания \"Финансовый Эксперт\" привлекла 500 новых подписчиков и увеличила продажи книги и курса"
+       },
+       "text": "Как бухгалтерская компания \"Финансовый Эксперт\" привлекла 500 новых подписчиков и увеличила продажи книги и курса",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как бухгалтерская компания \"Финансовый Эксперт\" привлекла 500 новых подписчиков и увеличила продажи книги и курса</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания “Финансовый Эксперт”* – это команда опытных бухгалтеров, которые предоставляют услуги по ведению бухгалтерского учета и налоговой отчетности для малого и среднего бизнеса. Помимо основной деятельности, компания решила выпустить книгу “Пособие бухгалтера” и запустить обучающий курс для начинающих специалистов. Однако, несмотря на наличие 500 подписчиков в социальных сетях, владелец компании столкнулся с проблемой привлечения новой аудитории и увеличения продаж.",
+       "html": "  <p>Компания “Финансовый Эксперт”<span style=\"color: #999999;\">*</span> – это команда опытных бухгалтеров, которые предоставляют услуги по ведению бухгалтерского учета и налоговой отчетности для малого и среднего бизнеса. Помимо основной деятельности, компания решила выпустить книгу “Пособие бухгалтера” и запустить обучающий курс для начинающих специалистов. Однако, несмотря на наличие 500 подписчиков в социальных сетях, владелец компании столкнулся с проблемой привлечения новой аудитории и увеличения продаж.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Основной целью обращения в маркетинговое агентство MyFirms было привлечение 500 новых подписчиков в социальные сети компании, а также увеличение продаж книги “Пособие бухгалтера” и обучающего курса.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Основной целью обращения в маркетинговое агентство MyFirms было привлечение 500 новых подписчиков в социальные сети компании, а также увеличение продаж книги “Пособие бухгалтера” и обучающего курса.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Анализ текущего состояния социальных сетей компании и целевой аудитории. Разработка контент-плана и стратегии продвижения в социальных сетях. Создание качественного контента, отвечающего на вопросы клиентов. Размещение рекламных постов в тематических сообществах. Запуск рекламы в социальных сетях. Активное взаимодействие с подписчиками в комментариях под постами смежных сообществ",
+       "html": " <ul><li>Анализ текущего состояния социальных сетей компании и целевой аудитории.</li><li>Разработка контент-плана и стратегии продвижения в социальных сетях.</li><li>Создание качественного контента, отвечающего на вопросы клиентов.</li><li>Размещение рекламных постов в тематических сообществах.</li><li>Запуск рекламы в социальных сетях.</li><li>Активное взаимодействие с подписчиками в комментариях под постами смежных сообществ</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Результат не заставил себя ждать. Всего за 2 недели компании “Финансовый Эксперт” удалось достичь следующих результатов: Количество подписчиков в социальных сетях увеличилось с 500 до 2000. Было получено 25 заявок на приобретение обучающего курса. Книга “Пособие бухгалтера” была скачана 170 раз. Таким образом, маркетинговое агентство MyFirms помогло компании “Финансовый Эксперт” успешно решить поставленные задачи и значительно увеличить охват целевой аудитории, а также продажи своих продуктов.",
+       "html": " <p>Результат не заставил себя ждать. В<span style=\"font-family: Roboto;\">сего за 2 недели компании “Финансовый Эксперт” удалось достичь следующих результатов:</span></p><ul><li><span style=\"color: #000000;\">Количество подписчиков в социальных сетях увеличилось с 500 до 2000.</span></li><li><span style=\"color: #000000;\">Было получено 25 заявок на приобретение обучающего курса.</span></li><li><span style=\"color: #000000;\">Книга “Пособие бухгалтера” была скачана 170 раз.</span></li></ul><p data-last=\"true\">Таким образом, маркетинговое агентство MyFirms помогло компании “Финансовый Эксперт” успешно решить поставленные задачи и значительно увеличить охват целевой аудитории, а также продажи своих продуктов.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "560"
+           },
+           "text": "560 % Рост заявок на курс",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>560</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок на курс</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "300"
+           },
+           "text": "300 % Рост подписчиков",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>300</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост подписчиков</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 179,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "170"
+           },
+           "text": "170 Загрузок платной книги",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>170</h1> <h3></h3> </div> <div class=\"counter_title\"> <h4>Загрузок платной книги</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 138,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "11"
+           },
+           "text": "11 % Рост клиентской базы",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>11</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост клиентской базы</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6547-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a3f6d2a",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

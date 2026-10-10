@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/bukety-rakety/",
+ "group": "portfolio",
+ "title": "Букеты - ракеты!",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6383"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1440,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Увеличили число подписчиков со 100 до 1000 за 2 месяца сообщества Вконтакте сети магазинов цветов с помощью SMM"
+       },
+       "text": "Увеличили число подписчиков со 100 до 1000 за 2 месяца сообщества Вконтакте сети магазинов цветов с помощью SMM",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Увеличили число подписчиков со 100 до 1000 за 2 месяца сообщества Вконтакте сети магазинов цветов с помощью SMM</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Продажа цветов – низкомаржинальный бизнес при довольно высокой конкуренции. Заложить затраты на рекламу в чек букета – всегда риск потерять клиента, т.к. “через дорогу” такой же букет будет стоить дешевле. Экономия на зарплате флористу равнозначно приведет бизнес в тупик. Но как тогда захватить и расширить долю рынка практически без рекламного бюджета? Мы нашли решение для сети магазинов “Букеты – ракеты!”.*",
+       "html": "  <p><span style=\"font-weight: 400;\">Продажа цветов – низкомаржинальный бизнес при довольно высокой конкуренции. Заложить затраты на рекламу в чек букета – всегда риск потерять клиента, т.к. “через дорогу” такой же букет будет стоить дешевле. Экономия на зарплате флористу равнозначно приведет бизнес в тупик. Но как тогда захватить и расширить долю рынка практически без рекламного бюджета? Мы нашли решение для сети магазинов “Букеты – ракеты!”.<span style=\"color: #999999;\">*</span></span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить количество заказов на 20% при рекламном бюджете 50 000 руб. в мес.",
+       "html": " <p><span style=\"font-weight: 400;\">Увеличить количество заказов на 20% при рекламном бюджете 50 000 руб. в мес.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Придумать идею по недорогому способу привлечения клиентов Обновить дизайн сообщества Вконтакте Определить сегменты аудитории, кому какой букет больше подходит Разработать контент-план публикаций Отредактировать фото, написать креативные тексты Подготовить комментарии и отзывы Запустить таргетированную рекламу на публикации",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Придумать идею по недорогому способу привлечения клиентов</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обновить дизайн сообщества Вконтакте</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Определить сегменты аудитории, кому какой букет больше подходит</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разработать контент-план публикаций</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Отредактировать фото, написать креативные тексты</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Подготовить комментарии и отзывы</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить таргетированную рекламу на публикации</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "У магазина нет сервиса доставки, поэтому прямая реклама на людей с потребностью дистанционного презента отпала сразу. Размещение в Яндекс и Google картах и так было, а также в 2ГИС. В оффлайне запускалась реклама в городском радио перед праздниками (8 марта, день влюбленных, день матери и др.), а еще где-то висел билборд. Для нашей студии это был сложный заказ из-за крайне низкого рекламного бюджета (т.е. без возможностей тестов и без права на ошибку), но и, одновременно, это был вызов. У магазина есть одно существенное преимущество, которое мы решили использовать по максимуму. Их букеты, пожалуй, были лучшими в городе. Владельцы сети – дизайнеры-флористы, они придумывали очень крутые композиции, и распространяли по своим точкам. У наших SMM-щиков родился план. Каждый новый дизайн мы просили фоткать. Мы накладывали яркий фон и фильтры на фото, писали креативный и вовлекающий текст под фото и постили в официальную группу магазина во Вконтакте. В комментариях под другими аккаунтами мы писали восторженные отзывы формата “Где найти такую прелесть?” и “Хочу себе такой на день рождения”. Наши SMM-щики создали каталог-альбом, где в подписях содержался призыв “Не жди, когда он догадается подарить тебе цветы. Просто попроси его!”. На кнопку “поделиться ссылкой” за месяц нажало более 80 раз. По нашей аналитике эти букеты заказали более 50% только с этих призывов. А в сообщество за 2 месяца вступило более 1000 человек. Сейчас владельцы сети ищут курьеров, чтобы повысить конверсию в продажи и не терять долю рынка доставки цветов.",
+       "html": " <p><span style=\"font-weight: 400;\">У магазина нет сервиса доставки, поэтому прямая реклама на людей с потребностью дистанционного презента отпала сразу. Размещение в Яндекс и Google картах и так было, а также в 2ГИС. В оффлайне запускалась реклама в городском радио перед праздниками (8 марта, день влюбленных, день матери и др.), а еще где-то висел билборд. Для нашей студии это был сложный заказ из-за крайне низкого рекламного бюджета (т.е. без возможностей тестов и без права на ошибку), но и, одновременно, это был вызов. </span></p><p><span style=\"font-weight: 400;\">У магазина есть одно существенное преимущество, которое мы решили использовать по максимуму. Их букеты, пожалуй, были лучшими в городе. Владельцы сети – дизайнеры-флористы, они придумывали очень крутые композиции, и распространяли по своим точкам. У наших SMM-щиков родился план. Каждый новый дизайн мы просили фоткать. Мы накладывали яркий фон и фильтры на фото, писали креативный и вовлекающий текст под фото и постили в официальную группу магазина во Вконтакте. В комментариях под другими аккаунтами мы писали восторженные отзывы формата “Где найти такую прелесть?” и “Хочу себе такой на день рождения”. Наши SMM-щики создали каталог-альбом, где в подписях содержался призыв “Не жди, когда он догадается подарить тебе цветы. Просто попроси его!”. На кнопку “поделиться ссылкой” за месяц нажало более 80 раз. </span></p><p><span style=\"font-weight: 400;\">По нашей аналитике эти букеты заказали более 50% только с этих призывов. А в сообщество за 2 месяца вступило более 1000 человек. Сейчас владельцы сети ищут курьеров, чтобы повысить конверсию в продажи и не терять долю рынка доставки цветов.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "20"
+           },
+           "text": "20 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>20</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 раз Рост подписчиков",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>раз</h3> </div> <div class=\"counter_title\"> <h4>Рост подписчиков</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 180,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "50000"
+           },
+           "text": "50000 руб. Рекламный бюджет",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>50000</h1> <h3>руб.</h3> </div> <div class=\"counter_title\"> <h4>Рекламный бюджет</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 130,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 % Рост доли рынка",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост доли рынка</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6383-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e695bdc",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

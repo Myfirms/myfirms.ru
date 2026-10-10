@@ -1,0 +1,850 @@
+{
+ "url": "https://myfirms.ru/marketing/biznes-analitika/",
+ "group": "page",
+ "title": "Бизнес-аналитика",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "5539"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "a3b0640",
+   "height": 512,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "393cf9a",
+       "heading": {
+        "tag": "h3",
+        "text": "РАЗРАБОТАЕМ СТРАТЕГИЮ РАЗВИТИЯ БИЗНЕСА"
+       },
+       "text": "РАЗРАБОТАЕМ СТРАТЕГИЮ РАЗВИТИЯ БИЗНЕСА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Разработаем стратегию развития бизнеса</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "be7027f",
+       "height": 368,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "ed9597b",
+           "text": "Проанализируем спрос на товар или услугу. Определим потенциал охвата рынка и доли среди конкурентов. Подготовим рекомендации по увеличению клиентской базы, выручки, узнаваемости бренда. Разработаем маркетинговый план, состоящий из конкретных задач ответственным сотрудникам, и определим KPI, которых необходимо достигнуть.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Проанализируем спрос на товар или услугу. Определим потенциал охвата рынка и доли среди конкурентов. Подготовим рекомендации по увеличению клиентской базы, выручки, узнаваемости бренда. Разработаем маркетинговый план, состоящий из конкретных задач ответственным сотрудникам, и определим KPI, которых необходимо достигнуть.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "4fd17c5",
+           "text": "Получить консультацию",
+           "links": [
+            {
+             "text": "Получить консультацию",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "79c7608",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/132323.jpg",
+             "w": 1000,
+             "h": 717
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1a94009",
+   "height": 748,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "adc263d",
+       "heading": {
+        "tag": "h3",
+        "text": "УСЛУГИ БИЗНЕС-АНАЛИТИКА НА АУТСОРСЕ"
+       },
+       "text": "УСЛУГИ БИЗНЕС-АНАЛИТИКА НА АУТСОРСЕ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Услуги бизнес-аналитика на аутсорсе</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "ee63672",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2150408649.jpg",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 661,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "4e337e9",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "01 Оценка рынка для стартапа или нового продукта (TAM, SAM, SOM)",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">01</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Оценка рынка для стартапа или нового продукта (TAM, SAM, SOM)</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "d42bd84",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "02 Анализ спроса на продукт через маркетинговые инструменты",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">02</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Анализ спроса на продукт через маркетинговые инструменты</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "aed1691",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "03 Конкурентный анализ, выявление сильных и слабых сторон",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">03</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Конкурентный анализ, выявление сильных и слабых сторон</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "5e83abb",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "04 Стратегия развития продукта и охвата целевой аудитории",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">04</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Стратегия развития продукта и охвата целевой аудитории</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 650,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "a850c70",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "07 Анализ результата от реализованных задач",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">07</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Анализ результата от реализованных задач</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "d3e5c04",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "06 Маркетинговое планирование, прогноз бюджета на развитие",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">06</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Маркетинговое планирование, прогноз бюджета на развитие</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "ea6088c",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "05 Расчет окупаемости вложений, предложения по оптимизации затрат",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">05</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Расчет окупаемости вложений, предложения по оптимизации затрат</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "dff117f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2150169858.jpg",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c0ee7fc",
+   "height": 343,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 380,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "8f92ec0",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "2e3340b",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/49570.jpg",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 39,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "c9f68de",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "divider.default",
+       "id": "2039762",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 717,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "dc39a6f",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "c6d4e00",
+       "heading": {
+        "tag": "h3",
+        "text": "КАК МЫ РАБОТАЕМ"
+       },
+       "text": "КАК МЫ РАБОТАЕМ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы работаем</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "1c8a388",
+       "text": "Мы накопили внушительный опыт по разработке маркетинговых стратегий для разных сфер бизнеса. От торговли и общепита до выпуска станков для промышленных предприятий. Мы помогаем развивать компании именно через маркетинг, т.к. это единственно правильный путь роста клиентской базы и максимизации прибыли. С вами будет работать менеджер, который поможет собрать данные для наших бизнес- и веб- аналитиков.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Мы накопили внушительный опыт по разработке маркетинговых стратегий для разных сфер бизнеса. От торговли и общепита до выпуска станков для промышленных предприятий. Мы помогаем развивать компании именно через маркетинг, т.к. это единственно правильный путь роста клиентской базы и максимизации прибыли. С вами будет работать менеджер, который поможет собрать данные для наших бизнес- и веб- аналитиков. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "f3df006",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1720f2",
+   "height": 202,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "c22bf22",
+       "text": "После сбора данных аналитик предоставит отчет и рекомендации в формате графиков и детального плана с задачами для исполнителей. Сбор данных и анализ проводится от 1 до 3 мес. Внедрение рекомендаций осуществляется до 1 года. Сбор данных и анализ проводится от 1 до 3 мес. Внедрение рекомендаций осуществляется до 1 года.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> После сбора данных аналитик предоставит отчет и рекомендации в формате графиков и детального плана с задачами для исполнителей. Сбор данных и анализ проводится от 1 до 3 мес. Внедрение рекомендаций осуществляется до 1 года. Сбор данных и анализ проводится от 1 до 3 мес. Внедрение рекомендаций осуществляется до 1 года. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c243769",
+   "height": 658,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 650,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "c3394ad",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d68048f",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ АНАЛИЗА БИЗНЕСА И РАЗРАБОТКИ РЕКОМЕНДАЦИЙ ПО ЕГО РОСТУ"
+       },
+       "text": "СТОИМОСТЬ АНАЛИЗА БИЗНЕСА И РАЗРАБОТКИ РЕКОМЕНДАЦИЙ ПО ЕГО РОСТУ Каждый бизнес уникален. Даже в одной конкурентной нише невозможно найти два похожих друг на друга бизнеса. Это связано с бизнес-процессами внутри компании, лидерскими качествами менеджмента, уровнем автоматизации и системами управления. В одной компании удается сразу увидеть точки роста и разработать рекомендации с минимальным бюджетом на развитие, но ощутимым результатом. А в другой компании уходит почти год на поиск и подбор решений, которые будут приемлемы по затратам и не навредят устоявшимся бизнес процессам.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость анализа бизнеса и разработки рекомендаций по его росту</h3> <p>Каждый бизнес уникален. Даже в одной конкурентной нише невозможно найти два похожих друг на друга бизнеса. Это связано с бизнес-процессами внутри компании, лидерскими качествами менеджмента, уровнем автоматизации и системами управления. <br><br>В одной компании удается сразу увидеть точки роста и разработать рекомендации с минимальным бюджетом на развитие, но ощутимым результатом. А в другой компании уходит почти год на поиск и подбор решений, которые будут приемлемы по затратам и не навредят устоявшимся бизнес процессам. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    },
+    {
+     "width": 490,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "ef3e3b5",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/person-presenting-information-for-meeting-on-white-board_23-2149085956-1024x684.jpeg",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "4cb74c6",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "4752efc",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "ec55ed2",
+       "text": "Расчет стоимости услуги всегда индивидуален, т.к. невозможно наперед рассчитать затраты на анализ без погружения нашей команды в ваш бизнес. Он разнится от проекта проекту и варьируется от 300 тыс. руб. до 3 млн. руб.",
+       "html": " <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Расчет стоимости услуги всегда индивидуален, т.к. невозможно наперед рассчитать затраты на анализ без погружения нашей команды в ваш бизнес. Он разнится от проекта проекту и варьируется от 300 тыс. руб. до 3 млн. руб. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(49, 49, 49)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "518e770",
+       "text": "Получить консультацию",
+       "links": [
+        {
+         "text": "Получить консультацию",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23501d3",
+   "height": 201,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "5f41358",
+       "height": 81,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "840d3f0",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ БИЗНЕС-АНАЛИТИКИ"
+           },
+           "text": "НАШИ БИЗНЕС-АНАЛИТИКИ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши бизнес-аналитики</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6f6698a",
+   "height": 478,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "6cc5ae5",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "39fc8ae",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "68b7476",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "9c6e202",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "0a40f9a",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p5539-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8bdd82",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "9b5980a",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/uaIf82_LoXw?si=uPZeP72fCyTMn2HF\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "309c088",
+       "height": 224,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "8a5c639",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами про маркетинговые стратегии. Какой путь развития бизнеса выбрать. Какая стратегия маркетинга подойдет для стартапа, а какая для зрелого бизнеса. И как разработать свою стратегию.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами про маркетинговые стратегии. Какой путь развития бизнеса выбрать. Какая стратегия маркетинга подойдет для стартапа, а какая для зрелого бизнеса. И как разработать свою стратегию.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

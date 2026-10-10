@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/audit-ekspert/",
+ "group": "portfolio",
+ "title": "Аудит эксперт",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6466"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1484,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы вывели сайт бухгалтерских услуг Топ- 3 Яндекс и Google и увеличили клиентскую базу в 2 раза с помощью SEO"
+       },
+       "text": "Как мы вывели сайт бухгалтерских услуг Топ- 3 Яндекс и Google и увеличили клиентскую базу в 2 раза с помощью SEO",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы вывели сайт бухгалтерских услуг Топ- 3 Яндекс и Google и увеличили клиентскую базу в 2 раза с помощью SEO</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания “Аудит эксперт”* занимается бухгалтерским консалтингом уже 10 лет. Ее клиентская база состоит из их постоянных клиентов в количестве около 40 юридических лиц и 60 предпринимателей. Но после ковида и трудностей в экономике в связи со санкциями недружественных стран их клиентская база стала таять на глазах. При этом, конкуренция на этом рынке только растет. У нашего заказчика никогда не возникала необходимость продвигать и рекламировать свой сайт. Он просто был и иногда обновлялся. Руководство компании обратилась к нам за помощью, чтобы мы наладили приток новых клиентов.",
+       "html": "  <p><span style=\"font-weight: 400;\">Компания “Аудит эксперт”<span style=\"color: #999999;\">*</span> занимается бухгалтерским консалтингом уже 10 лет. Ее клиентская база состоит из их постоянных клиентов в количестве около 40 юридических лиц и 60 предпринимателей. Но после ковида и трудностей в экономике в связи со санкциями недружественных стран их клиентская база стала таять на глазах. При этом, конкуренция на этом рынке только растет. У нашего заказчика никогда не возникала необходимость продвигать и рекламировать свой сайт. Он просто был и иногда обновлялся. Руководство компании обратилась к нам за помощью, чтобы мы наладили приток новых клиентов.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить клиентскую базу на 30% за 6 месяцев.",
+       "html": " <p><span style=\"font-weight: 400;\">Увеличить клиентскую базу на 30% за 6 месяцев.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести анализ текущего сайта Провести конкурентный анализ Выявить уникальное предложение в услугах заказчика Собрать семантическое ядро для продвижения сайта Обновить сайт или спроектировать новый Написать текст, адаптированный под Google и Яндекс Провести технический аудит, адаптировать сайт Обрести ссылки с тематических сайтов",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести анализ текущего сайта</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести конкурентный анализ</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Выявить уникальное предложение в услугах заказчика</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Собрать семантическое ядро для продвижения сайта</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обновить сайт или спроектировать новый</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Написать текст, адаптированный под Google и Яндекс</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести технический аудит, адаптировать сайт</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обрести ссылки с тематических сайтов</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Первичный анализ показал полную непригодность сайта к продвижению. Еще бы, сайт не обновлялся практически 10 лет ни по контенту, ни по дизайну. Кроме того, в нем было столько вирусов, что было решено его просто отправить на пенсию. Далее мы приступили к разработке нового, современного и креативного сайта. Большим преимуществом было наличие базы лояльных клиентов, из которых мы слепили сюжетные кейсы. Мы использовали их не только на сайте, но и впоследствии в пиаре. В поисковой выдаче сайт был за 5-м десятком. У наших таргетологов чесались руки решить проблему быстро и эффективно (хоть и дорого), но наши сеошники защитили проект своим перспективным прогнозом роста видимости сайта в Яндексе и Google по среднечастотным ключевым словам. Другими словами, они гарантировали, что трафик сайта увеличится минимум в два раза спустя 3 месяца. По нашим подсчетам, чтобы обеспечить приток хотя бы 10 клиентов в месяц, нам надо было либо поднять конверсию сайта на 30%, либо увеличить трафик в 2,5 раза. Мы пошли обими путями. За пол года мы обновили 14 посадочных страниц, 40 информационных страниц и приобрели более сотни релевантных ссылок. Практически по всем основным ключевым словам, связанным с бухгалтерскими услугами сайт вышел в топ-10, а по коммерческим в Топ- 3. За пол года пришло более 60 новых клиентов с ежемесячным приростом 10-15 юридических лиц. Это означает, что мы поставили процесс на рельсы и обеспечили постоянный рост бизнеса.",
+       "html": " <p><span style=\"font-weight: 400;\">Первичный анализ показал полную непригодность сайта к продвижению. Еще бы, сайт не обновлялся практически 10 лет ни по контенту, ни по дизайну. Кроме того, в нем было столько вирусов, что было решено его просто отправить на пенсию. Далее мы приступили к разработке нового, современного и креативного сайта. Большим преимуществом было наличие базы лояльных клиентов, из которых мы слепили сюжетные кейсы. Мы использовали их не только на сайте, но и впоследствии в пиаре. </span></p><p><span style=\"font-weight: 400;\">В поисковой выдаче сайт был за 5-м десятком. У наших таргетологов чесались руки решить проблему быстро и эффективно (хоть и дорого), но наши сеошники защитили проект своим перспективным прогнозом роста видимости сайта в Яндексе и Google по среднечастотным ключевым словам. Другими словами, они гарантировали, что трафик сайта увеличится минимум в два раза спустя 3 месяца. По нашим подсчетам, чтобы обеспечить приток хотя бы 10 клиентов в месяц, нам надо было либо поднять конверсию сайта на 30%, либо увеличить трафик в 2,5 раза. Мы пошли обими путями. </span></p><p><span style=\"font-weight: 400;\">За пол года мы обновили 14 посадочных страниц, 40 информационных страниц и приобрели более сотни релевантных ссылок. Практически по всем основным ключевым словам, связанным с бухгалтерскими услугами сайт вышел в топ-10, а по коммерческим в Топ- 3. За пол года пришло более 60 новых клиентов с ежемесячным приростом 10-15 юридических лиц. Это означает, что мы поставили процесс на рельсы и обеспечили постоянный рост бизнеса.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 150,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "2"
+           },
+           "text": "2 раза Рост клиентской базы",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-avatar restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>2</h1> <h3>раза</h3> </div> <div class=\"counter_title\"> <h4>Рост клиентской базы</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 166,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "400"
+           },
+           "text": "400 % Рост видимости сайта",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>400</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост видимости сайта</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 138,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "50"
+           },
+           "text": "50 пп Рост ср. позиций сайта",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>50</h1> <h3>пп</h3> </div> <div class=\"counter_title\"> <h4>Рост ср. позиций сайта</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 166,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "0"
+           },
+           "text": "0 руб. Вложений в контекстную рекламу",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>0</h1> <h3>руб.</h3> </div> <div class=\"counter_title\"> <h4>Вложений в контекстную рекламу</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6466-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbf099d",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

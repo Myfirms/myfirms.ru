@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/avtosalon-maksimum/",
+ "group": "portfolio",
+ "title": "Автосалон Максимум",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6402"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1071,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы увеличили количество продаж автомобилей"
+       },
+       "text": "Как мы увеличили количество продаж автомобилей",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы увеличили количество продаж автомобилей</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Автомобильный салон «Максимум»* столкнулся с проблемой низкой эффективности своих рекламных кампаний по продвижению автомобилей Volkswagen. Несмотря на использование контекстной рекламы, им не удавалось привлекать достаточное количество потенциальных клиентов и конвертировать их в реальные продажи.",
+       "html": "  <p>Автомобильный салон «Максимум»<span style=\"color: #999999;\">*</span> столкнулся с проблемой низкой эффективности своих рекламных кампаний по продвижению автомобилей Volkswagen. Несмотря на использование контекстной рекламы, им не удавалось привлекать достаточное количество потенциальных клиентов и конвертировать их в реальные продажи.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Ключевыми задачами были наращивание количества лидов и снижение стоимости заявок.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Ключевыми задачами были наращивание количества лидов и снижение стоимости заявок.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Подготовка и запуск. Сформирован аудиторный сегмент по ключевым запросам по модели Touareg, объявления показывались в формате “Карусель” и с промопостами. Масштабирование. Использованы более широкие ключевые запросы по бренду Volkswagen, таргетинг на мужчин и женщин отдельно. Локальный таргетинг. Реклама показывалась посетителям дилерских центров конкурентов. Запуск промо новой модели Teramont. Продвижение Touareg продолжалось, добавилась кампания по Teramont и бренду Volkswagen в целом.",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\">Подготовка и запуск. Сформирован аудиторный сегмент по ключевым запросам по модели Touareg, объявления показывались в формате “Карусель” и с промопостами.</li><li style=\"font-weight: 400;\" aria-level=\"1\">Масштабирование. Использованы более широкие ключевые запросы по бренду Volkswagen, таргетинг на мужчин и женщин отдельно.</li><li aria-level=\"1\">Локальный таргетинг. Реклама показывалась посетителям дилерских центров конкурентов.</li><li aria-level=\"1\">Запуск промо новой модели Teramont. Продвижение Touareg продолжалось, добавилась кампания по Teramont и бренду Volkswagen в целом.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Кампания была реализована в несколько этапов, каждый из которых позволял оптимизировать и масштабировать рекламные усилия. В результате, за месяц было получено 108 обращений за консультациями, из которых 8 конвертировались в покупку автомобиля. Это означает, что конверсия из обращений в покупку составила 7,4% – каждая 14-я заявка превратилась в реальную продажу. Кроме того, стоимость лида оказалась в два раза ниже по сравнению с контекстной рекламой и составила 1381 рубль. Таким образом, нам удалось значительно повысить эффективность рекламной кампании и помочь автосалону «Максимум» увеличить продажи автомобилей Volkswagen.",
+       "html": " <p>Кампания была реализована в несколько этапов, каждый из которых позволял оптимизировать и масштабировать рекламные усилия. В результате, за месяц было получено 108 обращений за консультациями, из которых 8 конвертировались в покупку автомобиля. Это означает, что конверсия из обращений в покупку составила 7,4% – каждая 14-я заявка превратилась в реальную продажу.</p><p data-last=\"true\">Кроме того, стоимость лида оказалась в два раза ниже по сравнению с контекстной рекламой и составила 1381 рубль. Таким образом, нам удалось значительно повысить эффективность рекламной кампании и помочь автосалону «Максимум» увеличить продажи автомобилей Volkswagen.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "218"
+           },
+           "text": "218 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>218</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 170,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "2"
+           },
+           "text": "2 раза Снижение цены заявки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>2</h1> <h3>раза</h3> </div> <div class=\"counter_title\"> <h4>Снижение цены заявки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 163,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "7.4"
+           },
+           "text": "7.4 % Конверсия в продажу",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>7.4</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Конверсия в продажу</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 146,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "36"
+           },
+           "text": "36 % Рост выручки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>36</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост выручки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6402-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "729715c",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

@@ -1,0 +1,852 @@
+{
+ "url": "https://myfirms.ru/marketing/video-reklama/",
+ "group": "page",
+ "title": "Настройка видеорекламы",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3908"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "4340c75",
+   "height": 515,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "864e4d4",
+       "heading": {
+        "tag": "h3",
+        "text": "ВИДЕОМАРКЕТИНГ"
+       },
+       "text": "ВИДЕОМАРКЕТИНГ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Видеомаркетинг</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "c87c605",
+       "height": 371,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 562,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "499c674",
+           "text": "Повысим узнаваемость вашего бренда через видеомаркетинг. Мы познакомим с вашим товаром или услугой широкую аудиторию видеосети YouTube и VK. С помощью коротких видеороликов на вашем канале, а также через видеорекламу мы донесем ценность вашего продукта и завоюем доверие ваших потенциальных клиентов. Это в конечном итоге принесет вам больше продаж.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Повысим узнаваемость вашего бренда через видеомаркетинг. Мы познакомим с вашим товаром или услугой широкую аудиторию видеосети YouTube и VK. С помощью коротких видеороликов на вашем канале, а также через видеорекламу мы донесем ценность вашего продукта и завоюем доверие ваших потенциальных клиентов. Это в конечном итоге принесет вам больше продаж.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "56754e7",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 546,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "0f40701",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/12388.jpg",
+             "w": 1000,
+             "h": 667
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c46f118",
+   "height": 408,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 493,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "f6a3c9a",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-vk-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "1cb18c1",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-telegramma-app-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "f9b2ea2",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icon-dzen.png",
+         "w": 98,
+         "h": 98
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "9de3a4f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/zzz-80x72.png",
+         "w": 80,
+         "h": 72
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "a510295",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/icons8-odnoklassniki-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "a510295",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/icons8-odnoklassniki-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "4c0ff22",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-youtube-play-96-80x80.png",
+         "w": 80,
+         "h": 80
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 783,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "0942a0c",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "ad83b90",
+       "heading": {
+        "tag": "h3",
+        "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА"
+       },
+       "text": "ГДЕ БУДЕТ ПОКАЗЫВАТЬСЯ ВАША РЕКЛАМА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Где будет показываться ваша реклама</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "icon-list.default",
+       "id": "2b19371",
+       "text": "YouTube (медийная реклама временно недоступна в РФ, но возможно продвижение через свой канал и нативное размещение у блогеров) Вконтакте Одноклассники Видеосеть Яндекса (реклама в электронных СМИ, блогах, тематических сайтах и др.) Зарубежные соц. сети и сервисы (работающие за пределами РФ)",
+       "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-youtube\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">YouTube (медийная реклама временно недоступна в РФ, но возможно продвижение через свой канал и нативное размещение у блогеров)</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-vk\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z\"></path></svg> </span> <span class=\"elementor-icon-list-text\"> Вконтакте</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-odnoklassniki\" viewBox=\"0 0 320 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Одноклассники</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fab-yandex\" viewBox=\"0 0 256 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M153.1 315.8L65.7 512H2l96-209.8c-45.1-22.9-75.2-64.4-75.2-141.1C22.7 53.7 90.8 0 171.7 0H254v512h-55.1V315.8h-45.8zm45.8-269.3h-29.4c-44.4 0-87.4 29.4-87.4 114.6 0 82.3 39.4 108.8 87.4 108.8h29.4V46.5z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Видеосеть Яндекса (реклама в электронных СМИ, блогах, тематических сайтах и др.)</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"flaticon flaticon-map\"></i> </span> <span class=\"elementor-icon-list-text\">Зарубежные соц. сети и сервисы (работающие за пределами РФ)</span> </li> </ul> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "5f4805b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 49,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "32363d4",
+   "height": 394,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 380,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "ccb97c2",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "b4dfebf",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/13581.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 39,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "551c2fe",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "divider.default",
+       "id": "310d806",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 717,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "358691a",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "f4b6d9a",
+       "heading": {
+        "tag": "h3",
+        "text": "КАКИЕ ПРЕИМУЩЕСТВА ВЫ ПОЛУЧИТЕ ОТ ВИДЕОМАРКЕТИНГА"
+       },
+       "text": "КАКИЕ ПРЕИМУЩЕСТВА ВЫ ПОЛУЧИТЕ ОТ ВИДЕОМАРКЕТИНГА",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Какие преимущества вы получите от видеомаркетинга</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "e835f81",
+       "text": "Вы обретете свою лояльную аудиторию, которая не только впоследствии станет вашими клиентами, но и будет активно делиться вашими видео с друзьями, коллегами и знакомыми. Мы создаем видео под интересы вашей целевой аудитории, делаем их яркими, запоминающимися и эмоциональными. Видеореклама будет показываться тем, кто с наибольшей вероятностью станет вашим клиентом в будущем или вашим подписчиком в настоящем. Наши креативные видео захватывают внимание с первых секунд и удерживают зрителя до конца видеоролика.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Вы обретете свою лояльную аудиторию, которая не только впоследствии станет вашими клиентами, но и будет активно делиться вашими видео с друзьями, коллегами и знакомыми. Мы создаем видео под интересы вашей целевой аудитории, делаем их яркими, запоминающимися и эмоциональными. Видеореклама будет показываться тем, кто с наибольшей вероятностью станет вашим клиентом в будущем или вашим подписчиком в настоящем. Наши креативные видео захватывают внимание с первых секунд и удерживают зрителя до конца видеоролика. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "cd3c162",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "028bb8c",
+   "height": 322,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "e95701b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "78e09f8",
+       "heading": {
+        "tag": "h3",
+        "text": "КАК МЫ БУДЕМ АНАЛИЗИРОВАТЬ РЕЗУЛЬТАТ"
+       },
+       "text": "КАК МЫ БУДЕМ АНАЛИЗИРОВАТЬ РЕЗУЛЬТАТ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы будем анализировать результат</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "6b4d5eb",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "01 Post-view заявки - когда пользователь смотрит какое-либо видео, видит рекламу, по которой не переходит но запоминает ее, и позже переходит из любого другого источника на ваш сайт, где оформляет заказ;",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">01</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Post-view заявки - когда пользователь смотрит какое-либо видео, видит рекламу, по которой не переходит но запоминает ее, и позже переходит из любого другого источника на ваш сайт, где оформляет заказ;</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "d054c90",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "fba039b",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "02 Post-click заявки - когда пользователь смотрит видео, ему отображается реклама, по которой он переходит на сайт и либо сразу совершает заказ, либо делает это спустя время, когда будет готов к покупке.",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">02</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Post-click заявки - когда пользователь смотрит видео, ему отображается реклама, по которой он переходит на сайт и либо сразу совершает заказ, либо делает это спустя время, когда будет готов к покупке. </p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f92cce3",
+   "height": 478,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/000.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 718,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "86d67c2",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "0a15d25",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ УСЛУГ ВИДЕОМАРКЕТИНГА"
+       },
+       "text": "СТОИМОСТЬ УСЛУГ ВИДЕОМАРКЕТИНГА Создание видеороликов о продукте и рекламных видеороликов достаточно дорогое мероприятие. Производство подобного контента и его распространение стоит от 500 000 руб. в мес. в зависимости от выбранного формата видеоролика (рекламное 15 сек, имиджевое 1 мин., информационно-познавательное до 30 мин. и др.) и способа продвижения (через рекламную сеть или через собственный канал и блогеров). Для каждого типа бизнеса мы разрабатываем индивидуальный медиаплан, который сможет дать максимальный эффект. Рассчитать стоимость поможет менеджер с опытом продвижения в вашем бизнесе.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость услуг видеомаркетинга</h3> <p>Создание видеороликов о продукте и рекламных видеороликов достаточно дорогое мероприятие. Производство подобного контента и его распространение стоит от 500 000 руб. в мес. в зависимости от выбранного формата видеоролика (рекламное 15 сек, имиджевое 1 мин., информационно-познавательное до 30 мин. и др.) и способа продвижения (через рекламную сеть или через собственный канал и блогеров). Для каждого типа бизнеса мы разрабатываем индивидуальный медиаплан, который сможет дать максимальный эффект. Рассчитать стоимость поможет менеджер с опытом продвижения в вашем бизнесе.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "bfd1557",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "7fc74a7",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "772cc04",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/yvayva.png",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "b018105",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "94423aa",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "343be47",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "a6fcd80",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "7963b25",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "5de0b1a",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "936f403",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p3908-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c168a80",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "a169a98",
+       "video": "{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=GUu7_1rGf6U\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "91ff70f",
+       "height": 224,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "a116f78",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как привлекать клиентов через YouTube. Как раскрутить ютуб канал для бизнеса. Продвижение бренда и реклама продукта через видео контент.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, как привлекать клиентов через YouTube. Как раскрутить ютуб канал для бизнеса. Продвижение бренда и реклама продукта через видео контент.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

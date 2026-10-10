@@ -1,0 +1,282 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/",
+ "group": "portfolio",
+ "title": "Канцелярский мир",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6565"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1128,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Увеличили продажи канцелярских товаров на маркетплейсе"
+       },
+       "text": "Увеличили продажи канцелярских товаров на маркетплейсе",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Увеличили продажи канцелярских товаров на маркетплейсе</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Наш клиент, компания “Канцелярский мир”*, специализирующаяся на продаже широкого ассортимента канцелярских товаров. Организация обратилась к нам за помощью в увеличении своих продаж на OZON.",
+       "html": "  <p>Наш клиент, компания “Канцелярский мир”<span style=\"color: #999999;\">*</span><span style=\"font-family: Roboto;\">, специализирующаяся на продаже широкого ассортимента канцелярских товаров. Организация обратилась к нам за помощью в увеличении своих продаж на OZON.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить ежемесячные продажи канцелярских товаров на OZON до 150 000 рублей.",
+       "html": " <p>Увеличить ежемесячные продажи канцелярских товаров на OZON до 150 000 рублей.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести конкурентный анализ Дать предложение по увеличению прибыли Создать фотографии и видеоролики с участием популярных блогеров у школьников Написать тексты для карточек товаров, акцентирующих внимание на комплексности решения и экономии для родителей. Оформить привлекательные карточек товаров на OZON с использованием фото и видео-контента. Запустили несколько вариантов рекламы: продвижение самого товара и медийная реклама (баннеры на площадке) Использование карточек товара на сайте и в социальных сетях. Запустить рекламу у блогеров Сбор и публикация положительных отзывов клиентов.",
+       "html": " <ul><li>Провести конкурентный анализ</li><li>Дать предложение по увеличению прибыли</li><li>Создать фотографии и видеоролики с участием популярных блогеров у школьников</li><li>Написать тексты для карточек товаров, акцентирующих внимание на комплексности решения и экономии для родителей.</li><li>Оформить привлекательные карточек товаров на OZON с использованием фото и видео-контента.</li><li>Запустили несколько вариантов рекламы: продвижение самого товара и медийная реклама (баннеры на площадке)</li><li>Использование карточек товара на сайте и в социальных сетях.</li><li>Запустить рекламу у блогеров</li><li>Сбор и публикация положительных отзывов клиентов.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "В первый месяц работы мы провели анализ конкурентов и дали предложения по продвижению бренда. Основная идея заключалась в создании нового продукта — набора канцелярских товаров для школьников. Основной акцент был сделан на комплексности решения и экономии для родителей: заплатив одну сумму, родитель мог получить целый набор для ученика. Дополнительно, продавец вкладывал в наборы маленькие подарки для детей — мягкую игрушку-брелок. Через месяц нам удалось продать товары на сумму 35 000 рублей. Во второй месяц показатель вырос до 75 000 рублей, а к школьному сезону продажи так увеличились, что перешагнули отметку в 150 000 рублей, достигнув 750 000 рублей. Благодаря успешному запуску “Школьных Наборов” на OZON, компания “Канцелярский мир” приняла решение о расширении ассортимента и выходе на другие маркетплейсы.",
+       "html": " <p>В первый месяц работы мы провели анализ конкурентов и дали предложения по продвижению бренда. Основная идея заключалась в создании нового продукта — набора канцелярских товаров для школьников. Основной акцент был сделан на комплексности решения и экономии для родителей: заплатив одну сумму, родитель мог получить целый набор для ученика. Дополнительно, продавец вкладывал в наборы маленькие подарки для детей — мягкую игрушку-брелок. Через месяц нам удалось продать товары на сумму 35 000 рублей. Во второй месяц показатель вырос до 75 000 рублей, а к школьному сезону продажи так увеличились, что перешагнули отметку в 150 000 рублей, достигнув 750 000 рублей. Благодаря успешному запуску “Школьных Наборов” на OZON, компания “Канцелярский мир” приняла решение о расширении ассортимента и выходе на другие маркетплейсы.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 166,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 146,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 310,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "114"
+           },
+           "text": "114 % Рост продаж в месяц",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>114</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост продаж в месяц</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 310,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "69"
+           },
+           "text": "69 + Новых отзывов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>69</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>Новых отзывов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6565-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "627f032",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

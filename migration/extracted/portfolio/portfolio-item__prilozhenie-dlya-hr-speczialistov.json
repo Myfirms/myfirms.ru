@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/",
+ "group": "portfolio",
+ "title": "Приложение для HR-специалистов",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6572"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1238,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Новая услуга по управлению персоналом для российских компаний"
+       },
+       "text": "Новая услуга по управлению персоналом для российских компаний",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Новая услуга по управлению персоналом для российских компаний</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Наш клиент – HR-платформа*, предоставляющая комплексные решения для управления персоналом. Компания решила расширить свой продуктовый портфель и запустить новую услугу по автоматизации и оптимизации кадровых процессов для российских предприятий. Приложение, в котором сконцентрированы все кадровые документы и есть возможность сотруднику запрашивать необходимые справки у работодателя. Также руководитель отдела, в котором работает сотрудник может подписывать заявления на отпуск своих сотрудников без обязательного личного присутсвия. Перед нами стояла задача провести всесторонний анализ рынка, определить потенциал новой услуги и разработать стратегию ее успешного вывода на рынок.",
+       "html": "  <p>Наш клиент – HR-платформа<span style=\"color: #999999;\">*</span>, предоставляющая комплексные решения для управления персоналом. Компания решила расширить свой продуктовый портфель и запустить новую услугу по автоматизации и оптимизации кадровых процессов для российских предприятий. Приложение, в котором сконцентрированы все кадровые документы и есть возможность сотруднику запрашивать необходимые справки у работодателя. Также руководитель отдела, в котором работает сотрудник может подписывать заявления на отпуск своих сотрудников без обязательного личного присутсвия. Перед нами стояла задача провести всесторонний анализ рынка, определить потенциал новой услуги и разработать стратегию ее успешного вывода на рынок.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Провести анализ рынка, предоставить выводы, разработать стратегию вывода нового продукта.",
+       "html": " <p>Провести анализ рынка, предоставить выводы, разработать стратегию вывода нового продукта.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести конкурентный анализ по новой услуге Составить портрет целевой аудитории Запустить опрос среди пользователей площадки Запустить опрос среди целевой аудитории через сервис анкетирования Провести анализ спроса через статистику поисковой выдачи Провести исследование рынка TAM, SAM, SOM Провести SWOT анализ Дать предложение по развитию продукта Составить маркетинговый план с оценкой примерных вложений Дать прогноз по окупаемости затрат и росту выручки",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести конкурентный анализ по новой услуге</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Составить портрет целевой аудитории</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить опрос среди пользователей площадки</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить опрос среди целевой аудитории через сервис анкетирования</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести анализ спроса через статистику поисковой выдачи</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести исследование рынка TAM, SAM, SOM</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести SWOT анализ</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Дать предложение по развитию продукта</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Составить маркетинговый план с оценкой примерных вложений</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Дать прогноз по окупаемости затрат и росту выручки</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Проведенное исследование показало, что рынок управления персоналом в России имеет большой потенциал для роста. Конкуренция в сегменте автоматизации кадровых процессов пока остается умеренной, что создает благоприятные условия для вывода новой услуги. Анализ потребностей целевой аудитории выявил высокий спрос на решения, которые позволяют оптимизировать и стандартизировать HR-функции, снизить трудозатраты и повысить эффективность работы с персоналом. SWOT-анализ помог определить ключевые конкурентные преимущества нашего клиента и потенциальные риски, связанные с выходом на рынок. На основе полученных данных был разработан подробный план вывода новой услуги на рынок, включающий маркетинговую стратегию и финансовый прогноз. Заказчик получил всестороннюю аналитику и рекомендации по успешному запуску нового продукта.",
+       "html": " <p>Проведенное исследование показало, что рынок управления персоналом в России имеет большой потенциал для роста. Конкуренция в сегменте автоматизации кадровых процессов пока остается умеренной, что создает благоприятные условия для вывода новой услуги. Анализ потребностей целевой аудитории выявил высокий спрос на решения, которые позволяют оптимизировать и стандартизировать HR-функции, снизить трудозатраты и повысить эффективность работы с персоналом. SWOT-анализ помог определить ключевые конкурентные преимущества нашего клиента и потенциальные риски, связанные с выходом на рынок. На основе полученных данных был разработан подробный план вывода новой услуги на рынок, включающий маркетинговую стратегию и финансовый прогноз. Заказчик получил всестороннюю аналитику и рекомендации по успешному запуску нового продукта.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Понимание потенциала рынка",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-idea-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Понимание потенциала рынка</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Прогноз по приросту клиентов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Прогноз по приросту клиентов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 180,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "1"
+           },
+           "text": "1 + План по запуску новой услуги",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-document restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>1</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>План по запуску новой услуги</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 130,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "90"
+           },
+           "text": "90 % Снижение рисков провала",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-alert restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>90</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Снижение рисков провала</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6572-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "46002b2",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

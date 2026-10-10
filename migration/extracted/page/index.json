@@ -1,0 +1,1680 @@
+{
+ "url": "https://myfirms.ru/",
+ "group": "page",
+ "title": "Главная",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "2131"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "d41c996",
+   "height": 1,
+   "bg": {},
+   "cls": "elementor-section-full_width",
+   "columns": [
+    {
+     "width": 1440,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "897c10f",
+   "height": 800,
+   "bg": {},
+   "cls": "elementor-section-full_width",
+   "columns": [
+    {
+     "width": 1440,
+     "bg": {},
+     "items": [
+      {
+       "type": "shortcode.default",
+       "id": "6517b36",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape.png",
+         "w": 546,
+         "h": 584
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/round1.png",
+         "w": 281,
+         "h": 280
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/2020.png",
+         "w": 419,
+         "h": 593
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape1.png",
+         "w": 244,
+         "h": 144
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape2.png",
+         "w": 125,
+         "h": 126
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape5.png",
+         "w": 86,
+         "h": 26
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/round1.png",
+         "w": 281,
+         "h": 280
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape.png",
+         "w": 546,
+         "h": 584
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/2020.png",
+         "w": 419,
+         "h": 593
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape1.png",
+         "w": 244,
+         "h": 144
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape2.png",
+         "w": 125,
+         "h": 126
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape5.png",
+         "w": 86,
+         "h": 26
+        }
+       ],
+       "links": [
+        {
+         "text": "",
+         "href": "/marketing/"
+        },
+        {
+         "text": "",
+         "href": ""
+        },
+        {
+         "text": "Подробнее arrow_right_alt",
+         "href": "/marketing/"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "42ebc50",
+   "height": 657,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1400,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "5b72b28",
+       "height": 153,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 1380,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "4f92088",
+           "heading": {
+            "tag": "h3",
+            "text": "МАРКЕТИНГОВОЕ АГЕНТСТВО MYFIRMS"
+           },
+           "text": "МАРКЕТИНГОВОЕ АГЕНТСТВО MYFIRMS Мы создадим для вас отдел маркетинга на аутсорсе. И привлечем только необходимых специалистов для достижения результата, измеримого в продажах и выручке.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Маркетинговое агентство MyFirms</h3> <p>Мы создадим для вас отдел маркетинга на аутсорсе. И привлечем только необходимых специалистов для достижения результата, измеримого в продажах и выручке.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "96b46c8",
+       "height": 379,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 345,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "201d79a",
+           "heading": {
+            "tag": "h2",
+            "text": "Реклама в интернете"
+           },
+           "text": "Реклама в интернете Запустим поток заявок с контекстной и таргетированной рекламы. ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-network-1 restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Реклама в интернете</h2> </div> <div class=\"feature-box-desc\"> <p>Запустим поток заявок с контекстной и таргетированной рекламы. <br><br></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/reklama-v-internete/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/reklama-v-internete/"
+            }
+           ],
+           "style": {
+            "color": "rgb(30, 135, 253)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 345,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "51b41b2",
+           "heading": {
+            "tag": "h2",
+            "text": "SEO продвижение сайта"
+           },
+           "text": "SEO продвижение сайта Приведем потенциальных клиентов на ваш сайт из поисковых систем Яндекса и Google. ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-support-6 restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>SEO продвижение сайта</h2> </div> <div class=\"feature-box-desc\"> <p>Приведем потенциальных клиентов на ваш сайт из поисковых систем Яндекса и Google. </p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/seo_prodvizhenie/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/seo_prodvizhenie/"
+            }
+           ],
+           "style": {
+            "color": "rgb(162, 25, 255)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 345,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "32bc694",
+           "heading": {
+            "tag": "h2",
+            "text": "SMM продвижение"
+           },
+           "text": "SMM продвижение Найдем подписчиков в ваши сообщества и сделаем их вашими клиентами. ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-networking restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>SMM продвижение</h2> </div> <div class=\"feature-box-desc\"> <p>Найдем подписчиков в ваши сообщества и сделаем их вашими клиентами. <br><br></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/smm-prodvizhenie/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/smm-prodvizhenie/"
+            }
+           ],
+           "style": {
+            "color": "rgb(101, 202, 34)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 345,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "b336436",
+           "heading": {
+            "tag": "h2",
+            "text": "PR и контент-маркетинг"
+           },
+           "text": "PR и контент-маркетинг Повысим узнаваемость бренда и продукта через электронные СМИ и соц. сети. ПОДРОБНЕЕ",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-user restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>PR и контент-маркетинг</h2> </div> <div class=\"feature-box-desc\"> <p>Повысим узнаваемость бренда и продукта через электронные СМИ и соц. сети. <br><br></p> </div> <div class=\"feature-btn\"> <a href=\"https://myfirms.ru/marketing/kontent-marketing-i-pr/\"> Подробнее </a> </div> </div> </div> ",
+           "links": [
+            {
+             "text": "ПОДРОБНЕЕ",
+             "href": "https://myfirms.ru/marketing/kontent-marketing-i-pr/"
+            }
+           ],
+           "style": {
+            "color": "rgb(17, 74, 207)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "4babb54",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/feature-shape-2.png",
+             "w": 241,
+             "h": 241
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8a731ac",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/000.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "48f5148",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/59ErBbcQUyw?si=O7MiZ2WQPHW6Fygq\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "de22ff0",
+       "height": 301,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "fb31460",
+           "heading": {
+            "tag": "h3",
+            "text": "УПАКОВКА БИЗНЕСА"
+           },
+           "text": "УПАКОВКА БИЗНЕСА Мы сделаем ваш сайт полезным для вашей целевой аудитории. Выделим ваши ключевые преимущества перед конкурентами и расскажем о них понятным языком. Выберем подходящую стратегию маркетинга, с помощью которой будем захватывать рынок и увеличивать прибыль.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Упаковка бизнеса</h3> <p>Мы сделаем ваш сайт полезным для вашей целевой аудитории. Выделим ваши ключевые преимущества перед конкурентами и расскажем о них понятным языком. Выберем подходящую стратегию маркетинга, с помощью которой будем захватывать рынок и увеличивать прибыль.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "b089fee",
+           "text": "Подробнее",
+           "links": [
+            {
+             "text": "Подробнее",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c65b580",
+   "height": 500,
+   "bg": {
+    "color": "rgb(250, 247, 247)"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 728,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "d9792d2",
+       "heading": {
+        "tag": "h3",
+        "text": "ПРОДВИЖЕНИЕ ТОВАРОВ И УСЛУГ"
+       },
+       "text": "ПРОДВИЖЕНИЕ ТОВАРОВ И УСЛУГ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Продвижение товаров и услуг</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "9f6e2d9",
+       "text": "Разработаем современный интернет-магазин или каталог услуг; Разместим информацию в поисковых справочниках, картах, рейтингах и отзовиках; Настроим учет остатков и бухгалтерский учет в 1С; Разместим ассортимент в маркетплейсах Wildberries, Ozon, Яндекс Маркет, СберМаркет и др; Поможем с интеграцией торгового оборудования.",
+       "html": "  <ul><li><a href=\"https://myfirms.ru/marketing/prodvizhenie-na-marketplejsah/\">Разработаем современный интернет-магазин или каталог услуг;</a></li><li><a href=\"#\">Разместим информацию в поисковых справочниках, картах, рейтингах и отзовиках;</a></li><li><a href=\"#\">Настроим учет остатков и бухгалтерский учет в 1С;</a></li><li><a href=\"https://myfirms.ru/marketing/prodvizhenie-na-marketplejsah/\">Разместим ассортимент в маркетплейсах Wildberries, Ozon, Яндекс Маркет, СберМаркет и др;</a></li><li><a href=\"#\">Поможем с интеграцией торгового оборудования.</a></li></ul> ",
+       "links": [
+        {
+         "text": "Разработаем современный интернет-магазин или каталог услуг;",
+         "href": "https://myfirms.ru/marketing/prodvizhenie-na-marketplejsah/"
+        },
+        {
+         "text": "Разместим информацию в поисковых справочниках, картах, рейтингах и отзовиках;",
+         "href": "#"
+        },
+        {
+         "text": "Настроим учет остатков и бухгалтерский учет в 1С;",
+         "href": "#"
+        },
+        {
+         "text": "Разместим ассортимент в маркетплейсах Wildberries, Ozon, Яндекс Маркет, СберМаркет и др;",
+         "href": "https://myfirms.ru/marketing/prodvizhenie-na-marketplejsah/"
+        },
+        {
+         "text": "Поможем с интеграцией торгового оборудования.",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 690,
+     "bg": {},
+     "items": [
+      {
+       "type": "image-carousel.default",
+       "id": "bdd74d7",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/torgovyj-1024x681.jpg",
+         "alt": "торговый",
+         "w": 1024,
+         "h": 681
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/pppppppp.jpg",
+         "alt": "Mature woman at online shop. She is owner of small online shop. Receiving orders and packing boxes for delivery.",
+         "w": 1024,
+         "h": 682
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/pppyyypp.jpg",
+         "alt": "пппыыыпп",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/vapva.jpg",
+         "alt": "вапва",
+         "w": 1000,
+         "h": 667
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/ozon-1024x681.jpg",
+         "alt": "озон",
+         "w": 1024,
+         "h": 681
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/torgovyj-1024x681.jpg",
+         "alt": "торговый",
+         "w": 1024,
+         "h": 681
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/pppppppp.jpg",
+         "alt": "Mature woman at online shop. She is owner of small online shop. Receiving orders and packing boxes for delivery.",
+         "w": 1024,
+         "h": 682
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4b92dac",
+   "height": 211,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "18329ff",
+       "height": 131,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "b350315",
+           "heading": {
+            "tag": "h2",
+            "text": "НАШИ КОМПЕТЕНЦИИ"
+           },
+           "text": "НАШИ КОМПЕТЕНЦИИ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "30px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "9ae7585",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/ya_metrik150a.png",
+             "alt": "ya_metrik150a",
+             "w": 150,
+             "h": 31
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/ggggczczczczcz.png",
+             "alt": "ггггццццц",
+             "w": 120,
+             "h": 41
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/ya_metrik150a.png",
+             "alt": "ya_metrik150a",
+             "w": 150,
+             "h": 31
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/ggggczczczczcz.png",
+             "alt": "ггггццццц",
+             "w": 120,
+             "h": 41
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k01-150x40.png",
+             "alt": "k01",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/vk-165-reklama-yyylogo-3.png",
+             "alt": "VK 165 Реклама ыыыLogo",
+             "w": 150,
+             "h": 27
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k04-150x40.png",
+             "alt": "k04",
+             "w": 150,
+             "h": 40
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2021/09/k08-150x40.png",
+             "alt": "k08",
+             "w": 150,
+             "h": 40
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2a818d6",
+   "height": 755,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/11/techno-4.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "faf1be8",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/about2.png",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "63ad979",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape2-1.png",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "7a0583a",
+       "height": 501,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 520,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "5226884",
+           "heading": {
+            "tag": "h5",
+            "text": "О КОМПАНИИ"
+           },
+           "text": "О КОМПАНИИ МЫ РАБОТАЕМ ПО МОДЕЛИ PERFOMANCE MyFirms заинтересован в росте вашего бизнеса. Потому что наша система мотивации (KPI) включает вознаграждение за достижение измеримых маркетинговых и бизнес показателей:",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h5>О Компании</h5> <h3>Мы работаем по</h3> <h2>модели perfomance<span></span></h2> <p>MyFirms заинтересован в росте вашего бизнеса. Потому что наша система мотивации (KPI) включает вознаграждение за достижение измеримых маркетинговых и бизнес показателей: </p> </div> </div> ",
+           "style": {
+            "color": "rgb(237, 44, 65)",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "fontFamily": "\"Roboto Condensed\"",
+            "align": "left"
+           }
+          },
+          {
+           "type": "inner-section",
+           "id": "bd3dc8e",
+           "height": 106,
+           "bg": {},
+           "cls": "elementor-inner-section elementor-section-boxed",
+           "columns": [
+            {
+             "width": 247,
+             "bg": {},
+             "items": [
+              {
+               "type": "iconbox.default",
+               "id": "fdf6c69",
+               "heading": {
+                "tag": "h2",
+                "text": "Количество заявок"
+               },
+               "text": "Количество заявок",
+               "html": " <div class=\"icon-box style-three\"> <div class=\"icon-box-icon\"> <div class=\"icon\"> <i class=\"flaticon flaticon-chat-1\"></i> </div> </div> <div class=\"icon-box-content\"> <div class=\"title\"> <h2>Количество заявок</h2> </div> <div class=\"description\"> <p></p> </div> </div> </div> ",
+               "style": {
+                "color": "rgb(0, 0, 0)",
+                "fontSize": "16px",
+                "fontWeight": "300",
+                "fontFamily": "Roboto",
+                "align": "left"
+               }
+              }
+             ]
+            },
+            {
+             "width": 252,
+             "bg": {},
+             "items": [
+              {
+               "type": "iconbox.default",
+               "id": "f07f3fc",
+               "heading": {
+                "tag": "h2",
+                "text": "Стоимость заявки"
+               },
+               "text": "Стоимость заявки",
+               "html": " <div class=\"icon-box style-three\"> <div class=\"icon-box-icon\"> <div class=\"icon\"> <i class=\"flaticon flaticon-money-2\"></i> </div> </div> <div class=\"icon-box-content\"> <div class=\"title\"> <h2>Стоимость заявки</h2> </div> <div class=\"description\"> <p></p> </div> </div> </div> ",
+               "style": {
+                "color": "rgb(0, 0, 0)",
+                "fontSize": "16px",
+                "fontWeight": "300",
+                "fontFamily": "Roboto",
+                "align": "left"
+               }
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "inner-section",
+           "id": "2927af7",
+           "height": 150,
+           "bg": {},
+           "cls": "elementor-inner-section elementor-section-boxed",
+           "columns": [
+            {
+             "width": 250,
+             "bg": {},
+             "items": [
+              {
+               "type": "iconbox.default",
+               "id": "a74a653",
+               "heading": {
+                "tag": "h2",
+                "text": "Доход с заявок"
+               },
+               "text": "Доход с заявок",
+               "html": " <div class=\"icon-box style-three\"> <div class=\"icon-box-icon\"> <div class=\"icon\"> <i class=\"flaticon flaticon-money-1\"></i> </div> </div> <div class=\"icon-box-content\"> <div class=\"title\"> <h2>Доход с заявок</h2> </div> <div class=\"description\"> <p></p> </div> </div> </div> ",
+               "style": {
+                "color": "rgb(0, 0, 0)",
+                "fontSize": "16px",
+                "fontWeight": "300",
+                "fontFamily": "Roboto",
+                "align": "left"
+               }
+              }
+             ]
+            },
+            {
+             "width": 250,
+             "bg": {},
+             "items": [
+              {
+               "type": "iconbox.default",
+               "id": "17ddf8e",
+               "heading": {
+                "tag": "h2",
+                "text": "Окупаемость вложений"
+               },
+               "text": "Окупаемость вложений",
+               "html": " <div class=\"icon-box style-three\"> <div class=\"icon-box-icon\"> <div class=\"icon\"> <i class=\"flaticon flaticon-time\"></i> </div> </div> <div class=\"icon-box-content\"> <div class=\"title\"> <h2>Окупаемость вложений</h2> </div> <div class=\"description\"> <p></p> </div> </div> </div> ",
+               "style": {
+                "color": "rgb(0, 0, 0)",
+                "fontSize": "16px",
+                "fontWeight": "300",
+                "fontFamily": "Roboto",
+                "align": "left"
+               }
+              },
+              {
+               "type": "image.default",
+               "id": "957eb23",
+               "images": [
+                {
+                 "src": "https://myfirms.ru/wp-content/uploads/2022/01/feature-shape-2-1.png",
+                 "w": 0,
+                 "h": 0
+                }
+               ],
+               "style": {
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "Roboto",
+                "align": "center"
+               }
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "width": 177,
+         "bg": {},
+         "items": []
+        }
+       ]
+      },
+      {
+       "type": "dit-button.default",
+       "id": "e023dc3",
+       "text": "Подробнее",
+       "links": [
+        {
+         "text": "Подробнее",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e99007b",
+   "height": 552,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-full_width",
+   "columns": [
+    {
+     "width": 1440,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "466c546",
+       "height": 472,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 570,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "fa9941a",
+           "heading": {
+            "tag": "h3",
+            "text": "УЛУЧШИМ ВАШИ ПОКАЗАТЕЛИ"
+           },
+           "text": "УЛУЧШИМ ВАШИ ПОКАЗАТЕЛИ",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Улучшим ваши показатели</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "185385a",
+           "text": "Посетителей сайта",
+           "html": "  <span class=\"elementor-title\" id=\"elementor-progress-bar-185385a\"> Посетителей сайта </span> <div aria-labelledby=\"elementor-progress-bar-185385a\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"90\"> <div class=\"elementor-progress-bar\" data-max=\"90\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "c6fcb14",
+           "text": "Конверсия сайта",
+           "html": " <span class=\"elementor-title\" id=\"elementor-progress-bar-c6fcb14\"> Конверсия сайта </span> <div aria-labelledby=\"elementor-progress-bar-c6fcb14\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"65\"> <div class=\"elementor-progress-bar\" data-max=\"65\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "6b8e708",
+           "text": "Заявок на сайте",
+           "html": " <span class=\"elementor-title\" id=\"elementor-progress-bar-6b8e708\"> Заявок на сайте </span> <div aria-labelledby=\"elementor-progress-bar-6b8e708\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"80\"> <div class=\"elementor-progress-bar\" data-max=\"80\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "686a907",
+           "text": "Конверсия в продажи",
+           "html": " <span class=\"elementor-title\" id=\"elementor-progress-bar-686a907\"> Конверсия в продажи </span> <div aria-labelledby=\"elementor-progress-bar-686a907\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"70\"> <div class=\"elementor-progress-bar\" data-max=\"70\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "a808920",
+           "text": "Количество продаж",
+           "html": " <span class=\"elementor-title\" id=\"elementor-progress-bar-a808920\"> Количество продаж </span> <div aria-labelledby=\"elementor-progress-bar-a808920\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"85\"> <div class=\"elementor-progress-bar\" data-max=\"85\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          },
+          {
+           "type": "progress.default",
+           "id": "c2f143a",
+           "text": "Средний чек",
+           "html": " <span class=\"elementor-title\" id=\"elementor-progress-bar-c2f143a\"> Средний чек </span> <div aria-labelledby=\"elementor-progress-bar-c2f143a\" class=\"elementor-progress-wrapper\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"75\"> <div class=\"elementor-progress-bar\" data-max=\"75\"> <span class=\"elementor-progress-text\"></span> </div> </div> ",
+           "style": {
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "fontFamily": "Roboto",
+            "align": "start"
+           }
+          }
+         ]
+        },
+        {
+         "width": 570,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "709e4c7",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/04/single-img2.jpg",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "ed92485",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "b05f87b",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+             "w": 77,
+             "h": 86
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e83359e",
+   "height": 435,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 495,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b950bfc",
+       "heading": {
+        "tag": "h3",
+        "text": "У НАС ДОСТАТОЧНО ОПЫТА ДЛЯ РЕАЛИЗАЦИИ ПРОЕКТА ЛЮБОГО МАСШТАБА И СЛОЖНОСТИ"
+       },
+       "text": "У НАС ДОСТАТОЧНО ОПЫТА ДЛЯ РЕАЛИЗАЦИИ ПРОЕКТА ЛЮБОГО МАСШТАБА И СЛОЖНОСТИ Мы накопили внушительный опыт развития бизнесов в разных сферах: IT-сервисы, финансовый сектор, строительство, медицина, бьюти-индустрия, сельское хозяйство, сфера образования и др.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>У нас достаточно опыта для реализации проекта любого масштаба и сложности</h3> <p>Мы накопили внушительный опыт развития бизнесов в разных сферах: IT-сервисы, финансовый сектор, строительство, медицина, бьюти-индустрия, сельское хозяйство, сфера образования и др. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    },
+    {
+     "width": 645,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "0cde644",
+       "height": 287,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 208,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "14c169d",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 + лет на рынке маркетинга и IT",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>лет на рынке маркетинга и IT</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 208,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "5673285",
+           "heading": {
+            "tag": "h1",
+            "text": "200"
+           },
+           "text": "200 + реализованных проектов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>200</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>реализованных проектов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 208,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "4c0cf83",
+           "heading": {
+            "tag": "h1",
+            "text": "1"
+           },
+           "text": "1 млн+ приведенных клиентов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>1</h1> <h3>млн+</h3> </div> <div class=\"counter_title\"> <h4>приведенных <br>клиентов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9cb8724",
+   "height": 118,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "a3cab37",
+       "height": 91,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "ebd679f",
+           "heading": {
+            "tag": "h3",
+            "text": "ИСТОРИИ О НАШИХ ПРОЕКТАХ"
+           },
+           "text": "ИСТОРИИ О НАШИХ ПРОЕКТАХ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Истории о наших проектах</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "60873da",
+   "height": 812,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "da5f719",
+       "height": 792,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "posts.cards",
+           "id": "251901e",
+           "heading": {
+            "tag": "h3",
+            "text": "Сервис по онлайн-бронированию отелей"
+           },
+           "text": "Сервис по онлайн-бронированию отелей ЧИТАТЬ » Приложение для HR-специалистов ЧИТАТЬ » Канцелярский мир ЧИТАТЬ » Автоматические кормушки для животных ЧИТАТЬ » Финансовый Эксперт ЧИТАТЬ » Бьюти Лайн ЧИТАТЬ »",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/06/2148095344.jpg",
+             "w": 1000,
+             "h": 667
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/17909.jpg",
+             "w": 1000,
+             "h": 667
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/06/2147656010.jpg",
+             "w": 1000,
+             "h": 667
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/06/2151310849.jpg",
+             "w": 1000,
+             "h": 693
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/groupe-personnes-preparant-plan-affaires-dans-bureau.jpg",
+             "w": 1000,
+             "h": 667
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/06/close-up-hair-trimmer-supplies_23-2148352856-1024x683.jpeg",
+             "w": 1024,
+             "h": 683
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+            },
+            {
+             "text": "Сервис по онлайн-бронированию отелей",
+             "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/servis-po-onlain-bronirovaniyu-otelei/"
+            },
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+            },
+            {
+             "text": "Приложение для HR-специалистов",
+             "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/prilozhenie-dlya-hr-speczialistov/"
+            },
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+            },
+            {
+             "text": "Канцелярский мир",
+             "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/kancelyarskij-mir/"
+            },
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+            },
+            {
+             "text": "Автоматические кормушки для животных",
+             "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/avtomaticheskie-kormushki-dlya-zhivotnyh/"
+            },
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+            },
+            {
+             "text": "Финансовый Эксперт",
+             "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/finansovyj-ehkspert/"
+            },
+            {
+             "text": "",
+             "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+            },
+            {
+             "text": "Бьюти Лайн",
+             "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+            },
+            {
+             "text": "ЧИТАТЬ »",
+             "href": "https://myfirms.ru/portfolio-item/byuti-lain/"
+            }
+           ],
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ee08d82",
+   "height": 190,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "23a0fa8",
+       "height": 108,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "245b7a0",
+           "heading": {
+            "tag": "h3",
+            "text": "НАША КОМАНДА ЭКСПЕРТОВ"
+           },
+           "text": "НАША КОМАНДА ЭКСПЕРТОВ В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наша команда экспертов</h3> <p>В нашей компании работают специалисты с доказанным высоким уровнем квалификации и внушительным опытом в своей отрасли.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ae2f651",
+   "height": 454,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "5d54ae8",
+   "height": 20,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": []
+  },
+  {
+   "id": "244cdb7",
+   "height": 733,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "40c4820",
+       "height": 254,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 808,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "42ddcaa",
+           "heading": {
+            "tag": "h3",
+            "text": "ОБУЧАЮЩИЕ МАТЕРИАЛЫ ПО МАРКЕТИНГУ И РАЗВИТИЮ БИЗНЕСА"
+           },
+           "text": "ОБУЧАЮЩИЕ МАТЕРИАЛЫ ПО МАРКЕТИНГУ И РАЗВИТИЮ БИЗНЕСА Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Обучающие материалы по маркетингу и развитию бизнеса</h3> <p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 312,
+         "bg": {},
+         "items": [
+          {
+           "type": "dit-button.default",
+           "id": "2b7e38f",
+           "text": "Все уроки",
+           "links": [
+            {
+             "text": "Все уроки",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "2467729",
+       "height": 299,
+       "bg": {},
+       "cls": "e-con-boxed",
+       "columns": [
+        {
+         "width": 1100,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c559878",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "3b5f296",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "f4b2b00",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "825b514",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "0a67c78",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p2131-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

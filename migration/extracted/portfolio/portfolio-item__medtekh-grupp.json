@@ -1,0 +1,298 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/medtekh-grupp/",
+ "group": "portfolio",
+ "title": "Медтех Групп",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6498"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1298,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Увеличение количества заявок, но отсутствие продаж у официального дистрибьютора медицинского и косметологического оборудования"
+       },
+       "text": "Увеличение количества заявок, но отсутствие продаж у официального дистрибьютора медицинского и косметологического оборудования",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Увеличение количества заявок, но отсутствие продаж у официального дистрибьютора медицинского и косметологического оборудования</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания “Медтех Групп” является официальным дистрибьютором ведущих мировых производителей медицинского и косметологического оборудования. В попытке нарастить клиентскую базу, компания увеличила вложения в рекламу. Однако с ростом количества заявок, продаж больше не становилось. В результате, вложения в рекламу перестали окупаться.",
+       "html": "  <p>Компания “Медтех Групп” является официальным дистрибьютором ведущих мировых производителей медицинского и косметологического оборудования. В попытке нарастить клиентскую базу, компания увеличила вложения в рекламу. Однако с ростом количества заявок, продаж больше не становилось. В результате, вложения в рекламу перестали окупаться.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Выявить причину низкой конверсии заявок в продажи и разработать эффективную стратегию для увеличения объема продаж.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Выявить причину низкой конверсии заявок в продажи и разработать эффективную стратегию для увеличения объема продаж.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Проанализировать настройки контекстной рекламы и источники трафика на сайт. Выявить нецелевые поисковые запросы, по которым приходят заявки. Оптимизировать настройки контекстной рекламы, исключив нерелевантные поисковые фразы. Провести анализ качества трафика и конверсии заявок в продажи. Разработать комплексную стратегию по привлечению целевых клиентов.",
+       "html": " <ul><li>Проанализировать настройки контекстной рекламы и источники трафика на сайт.</li><li>Выявить нецелевые поисковые запросы, по которым приходят заявки.</li><li>Оптимизировать настройки контекстной рекламы, исключив нерелевантные поисковые фразы.</li><li>Провести анализ качества трафика и конверсии заявок в продажи.</li><li>Разработать комплексную стратегию по привлечению целевых клиентов.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "После анализа настроек контекстной рекламы было выявлено, что значительная часть трафика на сайт компании “Медтех Групп” приходила по нецелевым запросам, таким как “купить косметику”, “медицинские товары для дома” и т.д. Это приводило к росту количества заявок, но при этом конверсия в продажи была крайне низкой. Для решения данной проблемы были внесены следующие изменения: Исключены нерелевантные поисковые фразы из настроек контекстной рекламы. Оптимизированы ключевые слова и объявления, направленные на привлечение целевых клиентов, заинтересованных в профессиональном медицинском и косметологическом оборудовании. Проведен анализ качества трафика и конверсии заявок в продажи. В результате проведенных мероприятий количество заявок снизилось на 25%, но при этом конверсия в продажи выросла на 40%. Это позволило компании “Медтех Групп” значительно увеличить объем продаж и укрепить свои позиции на рынке.",
+       "html": " <p>После анализа настроек контекстной рекламы было выявлено, что значительная часть трафика на сайт компании “Медтех Групп” приходила по нецелевым запросам, таким как “купить косметику”, “медицинские товары для дома” и т.д. Это приводило к росту количества заявок, но при этом конверсия в продажи была крайне низкой.</p><p>Для решения данной проблемы были внесены следующие изменения:</p><ul><li><span style=\"color: #000000;\">Исключены нерелевантные поисковые фразы из настроек контекстной рекламы.</span></li><li><span style=\"color: #000000;\">Оптимизированы ключевые слова и объявления, направленные на привлечение целевых клиентов, заинтересованных в профессиональном медицинском и косметологическом оборудовании.</span></li><li><span style=\"color: #000000;\">Проведен анализ качества трафика и конверсии заявок в продажи.</span></li></ul><p data-last=\"true\">В результате проведенных мероприятий количество заявок снизилось на 25%, но при этом конверсия в продажи выросла на 40%. Это позволило компании “Медтех Групп” значительно увеличить объем продаж и укрепить свои позиции на рынке.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "40"
+           },
+           "text": "40 % Рост продаж",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>40</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост продаж</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "25"
+           },
+           "text": "25 % Снижение количества заявок",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>25</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Снижение количества заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 % Рост выручки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост выручки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6498-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

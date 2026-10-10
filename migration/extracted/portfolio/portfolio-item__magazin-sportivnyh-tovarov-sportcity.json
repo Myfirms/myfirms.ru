@@ -1,0 +1,305 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/magazin-sportivnyh-tovarov-sportcity/",
+ "group": "portfolio",
+ "title": "Магазин спортивных товаров Sportcity",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6420"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1124,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы снизили рекламные расходы магазина спортивных товаров"
+       },
+       "text": "Как мы снизили рекламные расходы магазина спортивных товаров",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы снизили рекламные расходы магазина спортивных товаров</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Спортивный магазин Sportcity*, специализирующийся на продаже оборудования и одежды для горных лыж, сноубординга, беговых лыж, туризма, велоспорта и роллер-спорта, столкнулся с проблемой низкой конверсии сайта. Несмотря на высокий трафик, многие посетители покидали сайт, не совершив покупку.",
+       "html": "  <p>Спортивный магазин Sportcity<span style=\"color: #999999;\">*</span>, специализирующийся на продаже оборудования и одежды для горных лыж, сноубординга, беговых лыж, туризма, велоспорта и роллер-спорта, столкнулся с проблемой низкой конверсии сайта. Несмотря на высокий трафик, многие посетители покидали сайт, не совершив покупку.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Руководство Sportcity обратилось в агентство Myfirms с целью увеличить количество продаж среди тех, кто уже заходил на сайт, при этом не превысив долю рекламных расходов (ДРР) в 18%.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Руководство Sportcity обратилось в агентство Myfirms с целью увеличить количество продаж среди тех, кто уже заходил на сайт, при этом не превысив долю рекламных расходов (ДРР) в 18%.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Изучили целевую аудиторию посетителей сайта Обновили контент на сайте и в сообществе клиента Настроили автоматическое обновление каталога товаров Проработали креативы Запустили три рекламные кампании, нацеленные на разные группы пользователей: те, кто просматривал карточки товаров, но не добавил их в корзину; те, кто добавил товары в корзину, но не завершил покупку; и те, кто совершал покупки на сайте в последние 60-180 дней.",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\">Изучили целевую аудиторию посетителей сайта</li><li style=\"font-weight: 400;\" aria-level=\"1\">Обновили контент на сайте и в сообществе клиента</li><li style=\"font-weight: 400;\" aria-level=\"1\">Настроили автоматическое обновление каталога товаров</li><li style=\"font-weight: 400;\" aria-level=\"1\">Проработали креативы</li><li style=\"font-weight: 400;\" aria-level=\"1\">Запустили три рекламные кампании, нацеленные на разные группы пользователей: те, кто просматривал карточки товаров, но не добавил их в корзину; те, кто добавил товары в корзину, но не завершил покупку; и те, кто совершал покупки на сайте в последние 60-180 дней.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Каждая кампания была разбита на подгруппы с учетом периода взаимодействия пользователей с сайтом, что позволило точнее настроить таргетинг и оптимизировать бюджет. Объявления в кампаниях были автоматически сгенерированы на основе каталога товаров и вели пользователей на соответствующие страницы сайта. В ходе кампании специалисты Myfirms постоянно анализировали эффективность каждой группы объявлений и вносили необходимые корректировки, чтобы добиться максимального результата. В итоге доля рекламных расходов (ДРР) составила 14%, что ниже целевого показателя в 18%. Таким образом, агентству удалось не только увеличить продажи на сайте Sportcity, но и обеспечить высокую окупаемость рекламных вложений. Количество заявок на спортивный инвентарь выросли в 16%. Продажи выросли на 17%",
+       "html": " <p>Каждая кампания была разбита на подгруппы с учетом периода взаимодействия пользователей с сайтом, что позволило точнее настроить таргетинг и оптимизировать бюджет. Объявления в кампаниях были автоматически сгенерированы на основе каталога товаров и вели пользователей на соответствующие страницы сайта.</p> <p data-last=\"true\">В ходе кампании специалисты Myfirms постоянно анализировали эффективность каждой группы объявлений и вносили необходимые корректировки, чтобы добиться максимального результата. В итоге доля рекламных расходов (ДРР) составила 14%, что ниже целевого показателя в 18%. Таким образом, агентству удалось не только увеличить продажи на сайте Sportcity, но и обеспечить высокую окупаемость рекламных вложений. Количество заявок на спортивный инвентарь выросли в 16%. Продажи выросли на 17%</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "16"
+           },
+           "text": "16 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>16</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "14"
+           },
+           "text": "14 % Доля рекламных расходов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>14</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Доля рекламных расходов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "17"
+           },
+           "text": "17 % Рост продаж",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>17</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост продаж</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6420-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7c20181",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/autopost/",
+ "group": "portfolio",
+ "title": "Аutopost",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6252"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1384,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы увеличили количество заявок и снизили расходы на рекламу сервиса отложенных публикаций"
+       },
+       "text": "Как мы увеличили количество заявок и снизили расходы на рекламу сервиса отложенных публикаций",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы увеличили количество заявок и снизили расходы на рекламу сервиса отложенных публикаций</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Сервис отложенных публикаций “Аutopost”* столкнулся с проблемой большого расхода на контекстную рекламу и низкую при этом конверсию. Пробовали увеличить бюджет, но результата это не дало- бюджет быстро таял, а заявки не росли. Тогда компания обратилась к нам за помощью.",
+       "html": "  <p>Сервис отложенных публикаций “Аutopost”<span style=\"color: #999999;\">*</span> столкнулся с проблемой большого расхода на контекстную рекламу и низкую при этом конверсию. Пробовали увеличить бюджет, но результата это не дало- бюджет быстро таял, а заявки не росли. Тогда компания обратилась к нам за помощью.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Снизить расход на рекламу в 2 раза. Увеличить количество заявок на 30% больше за 2 месяца.",
+       "html": " <p>Снизить расход на рекламу в 2 раза. Увеличить количество заявок на 30% больше за 2 месяца.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести анализ спроса на сервис автопостинга и определить целевую аудиторию. Провести конкурентный анализ и выявить основные преимущества конкурентов. Определить уникальное торговое предложение (УТП) сервиса “Аutopost”. Провести анализ ранее созданных рекламных кампаний. Провести анализ входящего трафика на сайт Дать рекомендации по улучшению сайта Подготовить привлекательные рекламные объявления. Проработать триггерные заголовки и тексты для объявлений Подключить новые ключевые фразы Изменить рекламную стратегию Запустить контекстную рекламу в социальных сетях и поисковых системах. Провести A/B-тестирование объявлений и целевых страниц. Оптимизировать стратегию и улучшить результат.",
+       "html": " <ol><li>Провести анализ спроса на сервис автопостинга и определить целевую аудиторию.</li><li>Провести конкурентный анализ и выявить основные преимущества конкурентов.</li><li>Определить уникальное торговое предложение (УТП) сервиса “Аutopost”.</li><li>Провести анализ ранее созданных рекламных кампаний.</li><li>Провести анализ входящего трафика на сайт</li><li>Дать рекомендации по улучшению сайта</li><li>Подготовить привлекательные рекламные объявления.&nbsp;</li><li>Проработать триггерные заголовки и тексты для объявлений</li><li>Подключить новые ключевые фразы</li><li>Изменить рекламную стратегию</li><li>Запустить контекстную рекламу в социальных сетях и поисковых системах.</li><li>Провести A/B-тестирование объявлений и целевых страниц.</li><li>Оптимизировать стратегию и улучшить результат.</li></ol> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "В первую неделю после запуска контекстной рекламы мы снизили расход на рекламные кампании на 12% и увеличили количество регистраций на сервис на 20% от среднего недельного значения. Для увеличения эффективности рекламы, мы приняли запустить рекламную кампанию дополнительную в Вконтакте, где была замечена более высокая конверсия. К концу первого месяца мы достигли уровня регистраций на 160% выше среднемесячного показателя. Мы запустили ретаргетинг на пользователей, которые посещали сайт, но не зарегистрировались, и внедрили акцию на первый месяц пользования сервисом бесплатно. Этот подход привел к снижению стоимости привлечения нового пользователя на 30% и увеличению количества регистраций более чем в два раза. К концу второго месяца расходы на рекламную кампанию были снижены на 64%. Рекламные кампании, которые мы перезапустили, стали дешевле на 40%. Количество заявок на сайте выросло еще на 5% в сравнении с прошлым месяцем.",
+       "html": " <p dir=\"auto\">В первую неделю после запуска контекстной рекламы мы снизили расход на рекламные кампании на 12% и увеличили количество регистраций на сервис на 20% от среднего недельного значения.&nbsp; Для увеличения эффективности рекламы, мы приняли запустить рекламную кампанию дополнительную&nbsp; в Вконтакте, где была замечена более высокая конверсия.</p><p dir=\"auto\">К концу первого месяца мы достигли уровня регистраций на 160% выше среднемесячного показателя.&nbsp; Мы запустили ретаргетинг на пользователей, которые посещали сайт, но не зарегистрировались, и внедрили акцию на первый месяц пользования сервисом бесплатно. Этот подход привел к снижению стоимости привлечения нового пользователя на 30<span style=\"font-family: Roboto;\">% и увеличению количества регистраций более чем в два раза.</span></p><p dir=\"auto\"><span style=\"font-family: Roboto;\">К концу второго месяца расходы на рекламную кампанию были снижены на 64%. Рекламные кампании, которые мы перезапустили, стали дешевле на 40%. Количество заявок на сайте выросло еще на 5% в сравнении с прошлым месяцем.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "165"
+           },
+           "text": "165 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>165</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "148"
+           },
+           "text": "148 % Рост узнаваемости бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>148</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "54"
+           },
+           "text": "54 % Рост повторных заказов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>54</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост повторных заказов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "64"
+           },
+           "text": "64 % Снижение цены заявки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>64</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Снижение цены заявки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6252-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "75770ad",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

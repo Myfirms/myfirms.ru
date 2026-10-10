@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/pankratov-i-partnery/",
+ "group": "portfolio",
+ "title": "Юридическая фирма \"Панкратов и партнеры\"",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6366"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1259,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "100 статей за 2 месяца для блога юридической компании"
+       },
+       "text": "100 статей за 2 месяца для блога юридической компании",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>100 статей за 2 месяца для блога юридической компании</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Наша студия давно ведет дружбу с адвокатским бюро “Панкратов и партнеры”*. В 2023 году был всплеск потребности на услуги юристов в бизнес-среде, и руководство компании решило расширить штат и увеличить долю рынка в своем регионе. Помимо офлайн рекламы, мы решили продвигать сайт через контент-маркетинг и расширить охват с помощью вовлекающих статей, интересующих целевую аудиторию. Этим мы собирались повысить видимость сайта, а также привлечь подписчиков в их сообщество в Телеграм.",
+       "html": "  <p><span style=\"font-weight: 400;\">Наша студия давно ведет дружбу с адвокатским бюро “Панкратов и партнеры”<span style=\"color: #999999;\">*</span>. В 2023 году был всплеск потребности на услуги юристов в бизнес-среде, и руководство компании решило расширить штат и увеличить долю рынка в своем регионе. Помимо офлайн рекламы, мы решили продвигать сайт через контент-маркетинг и расширить охват с помощью вовлекающих статей, интересующих целевую аудиторию. Этим мы собирались повысить видимость сайта, а также привлечь подписчиков в их сообщество в Телеграм. </span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить онлайн-видимость на 20% и привлечь не менее 50 новых клиентов через контент-маркетинг.",
+       "html": " <p><span style=\"font-weight: 400;\">Увеличить онлайн-видимость на 20% и привлечь не менее 50 новых клиентов через контент-маркетинг.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Провести исследование, какие новости, связанные с юридическими услугами, могут интересовать владельцев бизнеса Сделать конкурентный анализ контента блогов и сообществ конкурентов Разработать контент-план на 100 текстов Техническое задание от SEO на каждый текст по использованию ключевых слов Написать текст согласно контент-плану и ТЗ от SEO Скорректировать заголовки, подобрать изображения Разместить в блоге и сообществе заказчика",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Провести исследование, какие новости, связанные с юридическими услугами, могут интересовать владельцев бизнеса</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сделать конкурентный анализ контента блогов и сообществ конкурентов</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разработать контент-план на 100 текстов</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Техническое задание от SEO на каждый текст по использованию ключевых слов</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Написать текст согласно контент-плану и ТЗ от SEO</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Скорректировать заголовки, подобрать изображения</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Разместить в блоге и сообществе заказчика</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Самой сложной частью работы было найти второго копирайтера, который умеет качественно писать тексты в юридической тематике. Наш действующий копирайтер не смог бы справиться один за такие сжатые сроки без потери в качестве. Поиск писателя со стороны – это всегда риск нарваться на “специалистов по Chat GPT”. Нейросеть пишет посредственные и скучные тексты, которые еще потом приходится переписывать. Поэтому мы стараемся выбирать авторов среди бывших журналистов. Только с помощью таких текстов можно побудить в читателе эмоцию, запомниться, вовлечь и подтолкнуть к целевому действию. Разумеется, мы нашли второго автора и уложились в сроки. Спустя 2 месяца мы начали наблюдать, как позиции сайта начали расти по широким запросам (низкочастотным поисковым фразам) в Яндексе и Google. Параллельно мы дублировали эти статьи в Телеграм-канале. Благодаря качественному и уникальному контенту, мы увеличили количество подписчиков на 42%, а видимость сайта поднялась на 26% в Яндексе и на 33% в Google. Целевой трафик на сайт благодаря статьям вырос почти на 50%.",
+       "html": " <p><span style=\"font-weight: 400;\">Самой сложной частью работы было найти второго копирайтера, который умеет качественно писать тексты в юридической тематике. Наш действующий копирайтер не смог бы справиться один за такие сжатые сроки без потери в качестве. Поиск писателя со стороны – это всегда риск нарваться на “специалистов по Chat GPT”. Нейросеть пишет посредственные и скучные тексты, которые еще потом приходится переписывать. Поэтому мы стараемся выбирать авторов среди бывших журналистов. Только с помощью таких текстов можно побудить в читателе эмоцию, запомниться, вовлечь и подтолкнуть к целевому действию. Разумеется, мы нашли второго автора и уложились в сроки. </span></p><p><span style=\"font-weight: 400;\">Спустя 2 месяца мы начали наблюдать, как позиции сайта начали расти по широким запросам (низкочастотным поисковым фразам) в Яндексе и Google. Параллельно мы дублировали эти статьи в Телеграм-канале. Благодаря качественному и уникальному контенту, мы увеличили количество подписчиков на 42%, а видимость сайта поднялась на 26% в Яндексе и на 33% в Google. Целевой трафик на сайт благодаря статьям вырос почти на 50%.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "26"
+           },
+           "text": "26 % Рост видимости Яндекс",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>26</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост видимости Яндекс</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "33"
+           },
+           "text": "33 % Рост видимости Google",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-report restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>33</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост видимости Google</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 153,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "42"
+           },
+           "text": "42 % Рост подписчиков",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>42</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост подписчиков</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 157,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "75"
+           },
+           "text": "75 + Клиентов за 4 месяца",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>75</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>Клиентов за 4 месяца</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6366-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "34fd8af",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

@@ -1,0 +1,17 @@
+# build
+dist/
+.astro/
+node_modules/
+
+# env
+.env
+.env.*
+!.env.example
+
+# migration working data (raw crawl cache, screenshots, tooling deps)
+migration/raw/
+migration/node_modules/
+
+# os/editor
+.DS_Store
+Thumbs.db

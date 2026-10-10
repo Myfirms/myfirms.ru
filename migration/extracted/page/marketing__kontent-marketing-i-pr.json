@@ -1,0 +1,943 @@
+{
+ "url": "https://myfirms.ru/marketing/kontent-marketing-i-pr/",
+ "group": "page",
+ "title": "Контент-маркетинг и PR",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "5484"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "b472632",
+   "height": 515,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "72af270",
+       "heading": {
+        "tag": "h3",
+        "text": "ПРИВЛЕЧЕМ КЛИЕНТОВ ИЗ НОВОСТНЫХ ПОРТАЛОВ И БЛОГОВ"
+       },
+       "text": "ПРИВЛЕЧЕМ КЛИЕНТОВ ИЗ НОВОСТНЫХ ПОРТАЛОВ И БЛОГОВ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Привлечем клиентов из новостных порталов и блогов</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "b7a4a10",
+       "height": 371,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 562,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "882df7d",
+           "text": "Сделаем ваш бренд узнаваемым и популярным с помощью тематических статей, которые будут интересны вашей целевой аудитории. Это новости, обзоры, рассказы, на которые регулярно есть спрос среди людей. Мы умеем отвечать на этот спрос интересными, эмоциональными и вовлекающими статьями, в которых будет упоминаться ваш товар или бренд. С помощью контент-маркетинга вы обретете доверие широкой аудитории, часть которой обязательно станет вашими клиентами или порекомендует знакомым.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Сделаем ваш бренд узнаваемым и популярным с помощью тематических статей, которые будут интересны вашей целевой аудитории. Это новости, обзоры, рассказы, на которые регулярно есть спрос среди людей. Мы умеем отвечать на этот спрос интересными, эмоциональными и вовлекающими статьями, в которых будет упоминаться ваш товар или бренд. <br><br>С помощью контент-маркетинга вы обретете доверие широкой аудитории, часть которой обязательно станет вашими клиентами или порекомендует знакомым. </p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "bb727bc",
+           "text": "Получить консультацию",
+           "links": [
+            {
+             "text": "Получить консультацию",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 546,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "0d3018d",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/kontent2png.png",
+             "w": 1000,
+             "h": 667
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ea4f9e0",
+   "height": 360,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/skill-bg.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 493,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "2d9fad6",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-vk-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "c862b12",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icons8-telegramma-app-96.png",
+         "w": 96,
+         "h": 96
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "d80b8e5",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/lajfzhurnal.png",
+         "w": 96,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "c175164",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/pikabu.png",
+         "w": 94,
+         "h": 89
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "f77fdff",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/icon-dzen-80x80.png",
+         "w": 80,
+         "h": 80
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "520a8ec",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/32_@mail_sign_only_circle_b@2x.png",
+         "w": 64,
+         "h": 64
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "520a8ec",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/32_@mail_sign_only_circle_b@2x.png",
+         "w": 64,
+         "h": 64
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "ef11949",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/03/snimok-ekrana-2024-03-28-v-23.24.12-1-80x80.png",
+         "w": 80,
+         "h": 80
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 783,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "b1bd9e5",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "b6cb6ee",
+       "heading": {
+        "tag": "h3",
+        "text": "ГДЕ БУДЕТ ПИАРИТЬСЯ ВАШ БРЕНД ИЛИ ПРОДУКТ"
+       },
+       "text": "ГДЕ БУДЕТ ПИАРИТЬСЯ ВАШ БРЕНД ИЛИ ПРОДУКТ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Где будет пиариться ваш бренд или продукт</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "icon-list.default",
+       "id": "77bfa2c",
+       "text": "Новостные региональные или федеральные порталы Каналы в Дзен, VC.ru, Pikabu, Пульс, Тинькофф журнал, LiveJournal и другие порталы с высокими охватами Тематические сообщества в Вконтакте, Telegram",
+       "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"flaticon flaticon-pin-2\"></i> </span> <span class=\"elementor-icon-list-text\">Новостные региональные или федеральные порталы</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <i aria-hidden=\"true\" class=\"flaticon flaticon-internet\"></i> </span> <span class=\"elementor-icon-list-text\">Каналы в Дзен, VC.ru, Pikabu, Пульс, Тинькофф журнал, LiveJournal и другие порталы с высокими охватами</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-far-comments\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M532 386.2c27.5-27.1 44-61.1 44-98.2 0-80-76.5-146.1-176.2-157.9C368.3 72.5 294.3 32 208 32 93.1 32 0 103.6 0 192c0 37 16.5 71 44 98.2-15.3 30.7-37.3 54.5-37.7 54.9-6.3 6.7-8.1 16.5-4.4 25 3.6 8.5 12 14 21.2 14 53.5 0 96.7-20.2 125.2-38.8 9.2 2.1 18.7 3.7 28.4 4.9C208.1 407.6 281.8 448 368 448c20.8 0 40.8-2.4 59.8-6.8C456.3 459.7 499.4 480 553 480c9.2 0 17.5-5.5 21.2-14 3.6-8.5 1.9-18.3-4.4-25-.4-.3-22.5-24.1-37.8-54.8zm-392.8-92.3L122.1 305c-14.1 9.1-28.5 16.3-43.1 21.4 2.7-4.7 5.4-9.7 8-14.8l15.5-31.1L77.7 256C64.2 242.6 48 220.7 48 192c0-60.7 73.3-112 160-112s160 51.3 160 112-73.3 112-160 112c-16.5 0-33-1.9-49-5.6l-19.8-4.5zM498.3 352l-24.7 24.4 15.5 31.1c2.6 5.1 5.3 10.1 8 14.8-14.6-5.1-29-12.3-43.1-21.4l-17.1-11.1-19.9 4.6c-16 3.7-32.5 5.6-49 5.6-54 0-102.2-20.1-131.3-49.7C338 339.5 416 272.9 416 192c0-3.4-.4-6.7-.7-10C479.7 196.5 528 238.8 528 288c0 28.7-16.2 50.6-29.7 64z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Тематические сообщества в Вконтакте, Telegram</span> </li> </ul> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "004b918",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "5b9102b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 49,
+     "bg": {},
+     "items": []
+    }
+   ]
+  },
+  {
+   "id": "f5d4e33",
+   "height": 470,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "1e9eccc",
+       "heading": {
+        "tag": "h3",
+        "text": "О ЧЕМ БУДЕМ ПИСАТЬ"
+       },
+       "text": "О ЧЕМ БУДЕМ ПИСАТЬ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>О чем будем писать</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abb4af7",
+   "height": 355,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 380,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "e697fdd",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "b2bbf5e",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2149311472.jpg",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 39,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "205a9a3",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "divider.default",
+       "id": "6862b51",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 717,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "ab4b7c2",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "e1cbfb3",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/11/section1.png",
+         "w": 60,
+         "h": 61
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "723c687",
+       "heading": {
+        "tag": "h3",
+        "text": "ЧТО ДАСТ КОНТЕНТ-МАРКЕТИНГ"
+       },
+       "text": "ЧТО ДАСТ КОНТЕНТ-МАРКЕТИНГ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Что даст контент-маркетинг</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "fd1436d",
+       "text": "Конечные цели могут быть разные: привести вам новых клиентов или удержать действующих, сделать доп. продажу, повысить средний чек, увеличить средний срок жизни клиента и прибыль с одного клиента за все время сотрудничества с ним. Но способ достижения всех целей сводится к построению устойчивой коммуникации с вашими клиентами через контент. Если вы регулярно закрываете информационную потребность аудитории, то она чаще о вас вспоминает.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Конечные цели могут быть разные: привести вам новых клиентов или удержать действующих, сделать доп. продажу, повысить средний чек, увеличить средний срок жизни клиента и прибыль с одного клиента за все время сотрудничества с ним. Но способ достижения всех целей сводится к построению устойчивой коммуникации с вашими клиентами через контент. Если вы регулярно закрываете информационную потребность аудитории, то она чаще о вас вспоминает.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "af3e384",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape5.png",
+         "w": 86,
+         "h": 26
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eb2517b",
+   "height": 202,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "3df7558",
+       "text": "Контент-маркетинг не принесет вам продажи здесь и сейчас. Однако правильно подобранные статьи и места их размещения помогут вашей аудитории чаще контактировать с вашим брендом и продуктом. Это подогревает интерес к нему и завоевывает доверие. Лояльной аудитории легче продать что-либо или удержать среди своих клиентов.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Контент-маркетинг не принесет вам продажи здесь и сейчас. Однако правильно подобранные статьи и места их размещения помогут вашей аудитории чаще контактировать с вашим брендом и продуктом. Это подогревает интерес к нему и завоевывает доверие. Лояльной аудитории легче продать что-либо или удержать среди своих клиентов. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11d12d5",
+   "height": 635,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "f31083b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "a5d7707",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ КОНТЕНТ-МАРКЕТИНГА"
+       },
+       "text": "СТОИМОСТЬ КОНТЕНТ-МАРКЕТИНГА Стоит понимать, что контент-маркетинг - это стратегия, а не публикация статей. Мы проводим детальный анализ спроса вашей целевой аудитории, в ходе которого выясняем, где потребляют информацию ваши потенциальные клиенты, и что они обычно читают, на какие каналы подписаны. Далее составляем медиа карту и медиаплан, которые и будут нашей стратегией по популяризации вашего бренда и продукта. Мы будем системно знакомить широкую аудиторию с вашим товаром или услугой через нативные упоминания.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость контент-маркетинга</h3> <p>Стоит понимать, что контент-маркетинг - это стратегия, а не публикация статей. Мы проводим детальный анализ спроса вашей целевой аудитории, в ходе которого выясняем, где потребляют информацию ваши потенциальные клиенты, и что они обычно читают, на какие каналы подписаны. <br><br>Далее составляем медиа карту и медиаплан, которые и будут нашей стратегией по популяризации вашего бренда и продукта. Мы будем системно знакомить широкую аудиторию с вашим товаром или услугой через нативные упоминания. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "c264fe1",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/ry.png",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "3b09019",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "be608af",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "aaec62f",
+       "text": "Реализация такой стратегии потребует минимум три месяца, а первые результаты принесет не ранее, чем через пол года. Поэтому стоимость услуг начинается от 100 000 руб. в мес. за работу контент-маркетолога. Публикации в тематических сообществах и электронных СМИ оплачивается отдельно.",
+       "html": " <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Реализация такой стратегии потребует минимум три месяца, а первые результаты принесет не ранее, чем через пол года. Поэтому стоимость услуг начинается от 100 000 руб. в мес. за работу контент-маркетолога. Публикации в тематических сообществах и электронных СМИ оплачивается отдельно. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(49, 49, 49)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "16e1d58",
+       "text": "Заказать рекламу",
+       "links": [
+        {
+         "text": "Заказать рекламу",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15d520a",
+   "height": 258,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "43a3b06",
+       "height": 138,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "0f7a0dc",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ КОНТЕНТ-МАРКЕТОЛОГИ"
+           },
+           "text": "НАШИ КОНТЕНТ-МАРКЕТОЛОГИ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши контент-маркетологи</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "sectiontitle.default",
+           "id": "f56828a",
+           "text": "Наши контент-маркетологи - это профессиональные пиарщики и журналисты с опытом работы в разных сферах бизнеса.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <p>Наши контент-маркетологи - это профессиональные пиарщики и журналисты с опытом работы в разных сферах бизнеса.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1503758",
+   "height": 478,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "cb8d926",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "ee00cbc",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "d46ed4c",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "f7ac36f",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "8a84b65",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p5484-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9a3ac61",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "211e6b9",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/JJTOcaEPkRs?si=kRJXVyp0TF7e-4_f\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "f51306c",
+       "height": 224,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 506,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "f6b6679",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами, что такое контент-маркетинг. Как завоевать внимание и доверие клиентов с помощью статей в интернете. Какая стратегия контент маркетинга подойдет вашему бизнесу. Что такое крауд маркетинг.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами, что такое контент-маркетинг. Как завоевать внимание и доверие клиентов с помощью статей в интернете. Какая стратегия контент маркетинга подойдет вашему бизнесу. Что такое крауд маркетинг.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 190,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

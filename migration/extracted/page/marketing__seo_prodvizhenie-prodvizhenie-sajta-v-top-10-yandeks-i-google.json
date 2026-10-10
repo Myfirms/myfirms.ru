@@ -1,0 +1,1095 @@
+{
+ "url": "https://myfirms.ru/marketing/seo_prodvizhenie-prodvizhenie-sajta-v-top-10-yandeks-i-google/",
+ "group": "page",
+ "title": "Продвижение сайта в топ 10 Яндекс и Google",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "4049"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "ebbaf5f",
+   "height": 790,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "2ce065f",
+       "height": 770,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "b894a0d",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/round1-1.png",
+             "w": 281,
+             "h": 280
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "4129fbe",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/keeksuccessful-female-entrepreneur-in-blue-collar-shirt-1-450x450.png",
+             "w": 450,
+             "h": 450
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "ad4bd15",
+           "heading": {
+            "tag": "h3",
+            "text": "Сделаем Ваш Сайт Эффективным"
+           },
+           "text": "Сделаем Ваш Сайт Эффективным Мы знаем, как использовать алгоритмы Яндекса и Google для увеличения позиций в поиске сайта. Проведем комплекс работ по поисковой оптимизации и выйдем на первые поисковые позиции Яндекса и Google",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Сделаем ваш сайт эффективным</h3> <p>Мы знаем, как использовать алгоритмы Яндекса и Google для увеличения позиций в поиске сайта. Проведем комплекс работ по поисковой оптимизации и выйдем на первые поисковые позиции Яндекса и Google </p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "a836535",
+           "text": "Заказать рекламу",
+           "links": [
+            {
+             "text": "Заказать рекламу",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3685887",
+   "height": 374,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "a6242ef",
+       "heading": {
+        "tag": "h3",
+        "text": "Что Такое Поисковая Оптимизация Сайта"
+       },
+       "text": "Что Такое Поисковая Оптимизация Сайта SEO (поисковая оптимизация) – это комплекс мероприятий по улучшению веб-сайта для достижения высоких позиций в результатах поиска Яндекса и Google по определенным запросам. Это направлено на увеличение посещаемости сайта и, в конечном итоге, на получение дохода.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Что такое поисковая оптимизация сайта</h3> <p>SEO (поисковая оптимизация) – это комплекс мероприятий по улучшению веб-сайта для достижения высоких позиций в результатах поиска Яндекса и Google по определенным запросам. Это направлено на увеличение посещаемости сайта и, в конечном итоге, на получение дохода.</p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "image-carousel.default",
+       "id": "a1e253f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-18_11-56-31.png",
+         "alt": "2022-12-18_11-56-31",
+         "w": 1919,
+         "h": 1079
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-18_11-50-44.png",
+         "alt": "2022-12-18_11-50-44",
+         "w": 1919,
+         "h": 1079
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-11_13-49-39.png",
+         "alt": "2022-12-11_13-49-39",
+         "w": 1337,
+         "h": 860
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-17_17-29-59.png",
+         "alt": "2022-12-17_17-29-59",
+         "w": 1286,
+         "h": 721
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-18_11-56-31.png",
+         "alt": "2022-12-18_11-56-31",
+         "w": 1919,
+         "h": 1079
+        },
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/2022-12-18_11-50-44.png",
+         "alt": "2022-12-18_11-50-44",
+         "w": 1919,
+         "h": 1079
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5ed4692",
+   "height": 1091,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "a78abce",
+       "height": 1071,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 275,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "9635f66",
+           "heading": {
+            "tag": "h3",
+            "text": "Как Мы Выведем Ваш Сайт В Топ Поисковых Систем"
+           },
+           "text": "Как Мы Выведем Ваш Сайт В Топ Поисковых Систем",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы выведем ваш сайт в топ поисковых систем</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "icon-list.default",
+           "id": "192cf59",
+           "text": "Проведем анализ текущего состояния сайта и поможем исправить технические ошибки Проведем конкурентный анализ Соберем семантическое ядро и подберем поисковые запросы Соберем ключевые слова и правильно распределим их по страницам сайта Создадим и разместим качественный контент, который будет отвечать требованиям поисковых систем Подготовим рекомендации по юзабилити сайта для более успешного функционирования ресурса Подготовим статистику и дадим полный отчет о результатах",
+           "html": " <link rel=\"stylesheet\" href=\"https://myfirms.ru/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Проведем анализ текущего состояния сайта и поможем исправить технические ошибки</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Проведем конкурентный анализ</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Соберем семантическое ядро и подберем поисковые запросы</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Соберем ключевые слова и правильно распределим их по страницам сайта</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Создадим и разместим качественный контент, который будет отвечать требованиям поисковых систем</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Подготовим рекомендации по юзабилити сайта для более успешного функционирования ресурса</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Подготовим статистику и дадим полный отчет о результатах </span> </li> </ul> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "517c9cc",
+           "text": "ЗАКАЗАТЬ РЕКЛАМУ",
+           "links": [
+            {
+             "text": "ЗАКАЗАТЬ РЕКЛАМУ",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 275,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "width": 570,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "45ddeea",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/shape9.png",
+         "w": 77,
+         "h": 86
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "5e74534",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2023/10/business-research-1024x683.jpg",
+         "w": 1024,
+         "h": 683
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bce79f9",
+   "height": 333,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "7ca2d9a",
+       "heading": {
+        "tag": "h3",
+        "text": "Сколько Стоит Вывести Сайт В Топ Поисковых Систем"
+       },
+       "text": "Сколько Стоит Вывести Сайт В Топ Поисковых Систем",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Сколько стоит вывести сайт в топ поисковых систем</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "42afa89",
+       "height": 163,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "text-editor.default",
+           "id": "18a7fb5",
+           "heading": {
+            "tag": "h2",
+            "text": "Цена за услуги по настройке рассчитывается индивидуально. Мы узнаем, какой у вас бюджет. Проводим анализ текущей позиции сайта. Рассчитаем охват рынка и конкуренцию. По исходным данным предоставим вам прогноз по изменению позиций сайта в поисковой выдачи и объем выполняемых работ. Наше вознаграждение будет складываться из минимальной стоимости за работы и премии. Премия рассчитывается исходя из количества заявок и затраченного бюджета на привлечение. Мы сделаем расчет так, чтобы вам окупались инвестиции в рекламу и затраты на наши услуги."
+           },
+           "text": "Цена за услуги по настройке рассчитывается индивидуально. Мы узнаем, какой у вас бюджет. Проводим анализ текущей позиции сайта. Рассчитаем охват рынка и конкуренцию. По исходным данным предоставим вам прогноз по изменению позиций сайта в поисковой выдачи и объем выполняемых работ. Наше вознаграждение будет складываться из минимальной стоимости за работы и премии. Премия рассчитывается исходя из количества заявок и затраченного бюджета на привлечение. Мы сделаем расчет так, чтобы вам окупались инвестиции в рекламу и затраты на наши услуги.",
+           "html": "  <h2><span style=\"font-size: 20px;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Цена за услуги по настройке рассчитывается индивидуально. Мы узнаем, какой у вас бюджет. Проводим анализ текущей позиции сайта. Рассчитаем охват рынка и конкуренцию. По исходным данным предоставим вам прогноз по изменению позиций сайта в поисковой выдачи и объем выполняемых работ. Наше вознаграждение будет складываться из минимальной стоимости за работы и премии. Премия рассчитывается исходя из количества заявок и затраченного бюджета на привлечение. Мы сделаем расчет так, чтобы вам окупались инвестиции в рекламу и затраты на наши услуги.</span></span></span></h2> ",
+           "style": {
+            "color": "rgb(21, 20, 35)",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "fontFamily": "\"Roboto Condensed\"",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "57cdd89",
+   "height": 162,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "05b416f",
+       "height": 142,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "heading.default",
+           "id": "2fb3859",
+           "heading": {
+            "tag": "h2",
+            "text": "Наши компетенции"
+           },
+           "text": "Наши компетенции",
+           "style": {
+            "color": "rgb(110, 193, 228)",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          },
+          {
+           "type": "image-carousel.default",
+           "id": "213eeae",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00-150x80.png",
+             "alt": "111Снимок экрана 2023-10-10 в 21.39.00",
+             "w": 150,
+             "h": 80
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/121-150x34.png",
+             "alt": "121",
+             "w": 150,
+             "h": 34
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/snimok-ekrana-2023-10-10-v-21.37.35-150x45.png",
+             "alt": "Снимок экрана 2023-10-10 в 21.37.35",
+             "w": 150,
+             "h": 45
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/150x56.png",
+             "alt": "150x56",
+             "w": 150,
+             "h": 56
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/1google-search-console-150x74.png",
+             "alt": "1Google Search Console",
+             "w": 150,
+             "h": 74
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00-150x80.png",
+             "alt": "111Снимок экрана 2023-10-10 в 21.39.00",
+             "w": 150,
+             "h": 80
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/121-150x34.png",
+             "alt": "121",
+             "w": 150,
+             "h": 34
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/snimok-ekrana-2023-10-10-v-21.37.35-150x45.png",
+             "alt": "Снимок экрана 2023-10-10 в 21.37.35",
+             "w": 150,
+             "h": 45
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/150x56.png",
+             "alt": "150x56",
+             "w": 150,
+             "h": 56
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/1google-search-console-150x74.png",
+             "alt": "1Google Search Console",
+             "w": 150,
+             "h": 74
+            },
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2023/10/111snimok-ekrana-2023-10-10-v-21.39.00-150x80.png",
+             "alt": "111Снимок экрана 2023-10-10 в 21.39.00",
+             "w": 150,
+             "h": 80
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ee08d82",
+   "height": 724,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "23a0fa8",
+       "height": 159,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "245b7a0",
+           "heading": {
+            "tag": "h3",
+            "text": "Наши SEO Специалисты"
+           },
+           "text": "Наши SEO Специалисты Настраиваем рекламу с 2013 года. Более 300 успешных проектов. 30+ SEO. Компетенции в любой сфере бизнеса.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши SEO специалисты</h3> <p>Настраиваем рекламу с 2013 года. Более 300 успешных проектов. 30+ SEO. Компетенции в любой сфере бизнеса.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "1e06d27",
+       "height": 545,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 373,
+         "bg": {},
+         "items": [
+          {
+           "type": "team.default",
+           "id": "be84b0f",
+           "heading": {
+            "tag": "h2",
+            "text": "Олег Матушкин"
+           },
+           "text": "Олег Матушкин Директор по маркетингу",
+           "html": " <div class=\"single-team style8\"> <div class=\"single-team-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg\" alt=\"\"> </div> <div class=\"single-team-content\"> <div class=\"single-team-content-inner\"> <div class=\"name-designation\"> <h2>Олег Матушкин</h2> <span>Директор по маркетингу</span> </div> <div class=\"single-team-socail\"> <div class=\"single-team-socail-inner\"> <a href=\"http://Получить%20консультацию\" class=\"social-icon\"> <i class=\"fa fa-picture-o\"></i> </a> </div> </div> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg",
+             "w": 270,
+             "h": 310
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "http://Получить%20консультацию"
+            }
+           ],
+           "style": {
+            "color": "rgb(237, 41, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 373,
+         "bg": {},
+         "items": [
+          {
+           "type": "team.default",
+           "id": "5bb8ac0",
+           "heading": {
+            "tag": "h2",
+            "text": "Алексей Васюхно"
+           },
+           "text": "Алексей Васюхно Технический директор",
+           "html": " <div class=\"single-team style8\"> <div class=\"single-team-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg\" alt=\"\"> </div> <div class=\"single-team-content\"> <div class=\"single-team-content-inner\"> <div class=\"name-designation\"> <h2>Алексей Васюхно</h2> <span>Технический директор</span> </div> <div class=\"single-team-socail\"> <div class=\"single-team-socail-inner\"> <a href=\"http://Получить%20консультацию\" class=\"social-icon\"> <i class=\"fa fa-picture-o\"></i> </a> </div> </div> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg",
+             "w": 270,
+             "h": 310
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "http://Получить%20консультацию"
+            }
+           ],
+           "style": {
+            "color": "rgb(237, 41, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 373,
+         "bg": {},
+         "items": [
+          {
+           "type": "team.default",
+           "id": "503f187",
+           "heading": {
+            "tag": "h2",
+            "text": "Олег Матушкин"
+           },
+           "text": "Олег Матушкин Директор по маркетингу",
+           "html": " <div class=\"single-team style8\"> <div class=\"single-team-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg\" alt=\"\"> </div> <div class=\"single-team-content\"> <div class=\"single-team-content-inner\"> <div class=\"name-designation\"> <h2>Олег Матушкин</h2> <span>Директор по маркетингу</span> </div> <div class=\"single-team-socail\"> <div class=\"single-team-socail-inner\"> <a href=\"http://Получить%20консультацию\" class=\"social-icon\"> <i class=\"fa fa-picture-o\"></i> </a> </div> </div> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2021/09/team01.jpg",
+             "w": 270,
+             "h": 310
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "http://Получить%20консультацию"
+            }
+           ],
+           "style": {
+            "color": "rgb(237, 41, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d44b0fa",
+   "height": 1153,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "cedc18d",
+       "height": 127,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "21ebbb2",
+           "heading": {
+            "tag": "h3",
+            "text": "Наши Лучшие Кейсы По Оптимизации Сайта"
+           },
+           "text": "Наши Лучшие Кейсы По Оптимизации Сайта",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши лучшие кейсы по оптимизации сайта</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "15e1d08",
+       "height": 475,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "13b0ed6",
+           "heading": {
+            "tag": "h2",
+            "text": "Scloud"
+           },
+           "text": "Scloud Professionally formulate error free after B2C human it",
+           "html": " <div class=\"feature-box style-four\"> <div class=\"feature-box-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/001.jpg\" alt=\"\"> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-icon\"> <span><i class=\" \"></i></span> </div> <div class=\"feature-box-title\"> <h2>Scloud</h2> </div> <div class=\"feature-box-desc\"> <p>Professionally formulate error free after B2C human it</p> </div> <div class=\"feature-btn\"> <a href=\"#\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-angle-double-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z\"></path></svg> </a> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/001.jpg",
+             "w": 568,
+             "h": 340
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "023ab84",
+           "heading": {
+            "tag": "h2",
+            "text": "Geobooking"
+           },
+           "text": "Geobooking Professionally formulate error free after B2C human it",
+           "html": " <div class=\"feature-box style-four\"> <div class=\"feature-box-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/port-2.jpg\" alt=\"\"> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-icon\"> <span><i class=\" \"></i></span> </div> <div class=\"feature-box-title\"> <h2>Geobooking</h2> </div> <div class=\"feature-box-desc\"> <p>Professionally formulate error free after B2C human it</p> </div> <div class=\"feature-btn\"> <a href=\"#\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-angle-double-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z\"></path></svg> </a> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/port-2.jpg",
+             "w": 568,
+             "h": 340
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "eccc6d4",
+       "height": 475,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "802929b",
+           "heading": {
+            "tag": "h2",
+            "text": "Landix"
+           },
+           "text": "Landix Professionally formulate error free after B2C human it",
+           "html": " <div class=\"feature-box style-four\"> <div class=\"feature-box-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/port-4.jpg\" alt=\"\"> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-icon\"> <span><i class=\" \"></i></span> </div> <div class=\"feature-box-title\"> <h2>Landix</h2> </div> <div class=\"feature-box-desc\"> <p>Professionally formulate error free after B2C human it</p> </div> <div class=\"feature-btn\"> <a href=\"#\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-angle-double-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z\"></path></svg> </a> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/port-4.jpg",
+             "w": 568,
+             "h": 340
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "900169b",
+           "heading": {
+            "tag": "h2",
+            "text": "Народное ЖКХ"
+           },
+           "text": "Народное ЖКХ Professionally formulate error free after B2C human it",
+           "html": " <div class=\"feature-box style-four\"> <div class=\"feature-box-thumb\"> <img decoding=\"async\" src=\"https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/001.jpg\" alt=\"\"> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-icon\"> <span><i class=\" \"></i></span> </div> <div class=\"feature-box-title\"> <h2>Народное ЖКХ</h2> </div> <div class=\"feature-box-desc\"> <p>Professionally formulate error free after B2C human it</p> </div> <div class=\"feature-btn\"> <a href=\"#\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-angle-double-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z\"></path></svg> </a> </div> </div> </div> ",
+           "images": [
+            {
+             "src": "https://wp.ditsolution.net/technodigital/wp-content/uploads/2022/01/001.jpg",
+             "w": 568,
+             "h": 340
+            }
+           ],
+           "links": [
+            {
+             "text": "",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "dit-button.default",
+       "id": "960b2ff",
+       "text": "Портфолио",
+       "links": [
+        {
+         "text": "Портфолио",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c559878",
+   "height": 983,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "3b5f296",
+       "height": 963,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "257e039",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-image.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "f4b2b00",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "0a67c78",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p4049-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "538f594",
+   "height": 427,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "2b7c098",
+       "height": 387,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "c10f812",
+           "heading": {
+            "tag": "h3",
+            "text": "Обучающие Материалы По Маркетингу И Развитию Бизнеса"
+           },
+           "text": "Обучающие Материалы По Маркетингу И Развитию Бизнеса Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Обучающие материалы по маркетингу и развитию бизнеса</h3> <p>Мы будем общаться с вами на вашем языке в сфере вашего бизнеса. В то же время, мы приветствуем компетентность в области маркетинга среди заказчиков. Поэтому мы делаем понятные обучающие видео и инструкции. Ознакомьтесь с ними, это экономит время при обсуждении деталей сотрудничества и дает больше понимания при оценке результата.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "dit-button.default",
+           "id": "c93a4b2",
+           "text": "Все уроки",
+           "links": [
+            {
+             "text": "Все уроки",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "5147ebd",
+       "height": 20,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1120,
+         "bg": {},
+         "items": [
+          {
+           "type": "blogpost.default",
+           "id": "628ac4c",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

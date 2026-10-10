@@ -1,0 +1,799 @@
+{
+ "url": "https://myfirms.ru/marketing/prodvizhenie-na-marketplejsah/",
+ "group": "page",
+ "title": "Продвижение на маркетплейсах",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "5518"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "a3b0640",
+   "height": 488,
+   "bg": {
+    "color": "rgb(255, 255, 255)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "393cf9a",
+       "heading": {
+        "tag": "h3",
+        "text": "УВЕЛИЧИМ ПРОДАЖИ НА МАРКЕТПЛЕЙСАХ"
+       },
+       "text": "УВЕЛИЧИМ ПРОДАЖИ НА МАРКЕТПЛЕЙСАХ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Увеличим продажи на маркетплейсах</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "inner-section",
+       "id": "be7027f",
+       "height": 344,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "ed9597b",
+           "text": "Сделаем ваш бизнес успешным на OZON, Wildberries, Яндекс Маркет, МегаМаркет, СДЭК, Amazon, Kaspi и других маркетплейсах. Запустим продажи с нуля или найдем решение по увеличению выручки.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Сделаем ваш бизнес успешным на OZON, Wildberries, Яндекс Маркет, МегаМаркет, СДЭК, Amazon, Kaspi и других маркетплейсах. Запустим продажи с нуля или найдем решение по увеличению выручки.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          },
+          {
+           "type": "dit-button.default",
+           "id": "4fd17c5",
+           "text": "Заказать продвижение",
+           "links": [
+            {
+             "text": "Заказать продвижение",
+             "href": "#"
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 554,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "79c7608",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148890046-1.jpg",
+             "w": 1000,
+             "h": 667
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1a94009",
+   "height": 710,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "adc263d",
+       "heading": {
+        "tag": "h3",
+        "text": "УСЛУГИ ПО ПРОДВИЖЕНИЮ КАРТОЧЕК ТОВАРОВ НА МАРКЕТПЛЕЙСАХ"
+       },
+       "text": "УСЛУГИ ПО ПРОДВИЖЕНИЮ КАРТОЧЕК ТОВАРОВ НА МАРКЕТПЛЕЙСАХ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Услуги по продвижению карточек товаров на маркетплейсах</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "ee63672",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148970213.jpg",
+         "w": 1000,
+         "h": 667
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 661,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "4e337e9",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "01 Оформим карточки товара, сделаем качественное фото и видео, что повысит конверсию в корзину",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">01</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Оформим карточки товара, сделаем качественное фото и видео, что повысит конверсию в корзину</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "d42bd84",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "02 Создадим gif-иконки и продающие заголовки, что сделает ваш товар заметнее среди конкурентов и повысит кликабельность в каталоге",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">02</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Создадим gif-иконки и продающие заголовки, что сделает ваш товар заметнее среди конкурентов и повысит кликабельность в каталоге</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "aed1691",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "03 Напишем тексты для описания товара с использованием ключевых слов для максимального охвата аудитории маркетплейсов",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">03</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Напишем тексты для описания товара с использованием ключевых слов для максимального охвата аудитории маркетплейсов</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 650,
+     "bg": {},
+     "items": [
+      {
+       "type": "service.default",
+       "id": "a850c70",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "06 Проанализируем нишу, найдем точки роста, подскажем, на какой ассортимент есть спрос",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">06</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Проанализируем нишу, найдем точки роста, подскажем, на какой ассортимент есть спрос</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "ea6088c",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "05 Поможем обрести отзывы, создадим положительную репутацию о товаре, продавце и бренде",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">05</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Поможем обрести отзывы, создадим положительную репутацию о товаре, продавце и бренде</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      },
+      {
+       "type": "service.default",
+       "id": "5e83abb",
+       "heading": {
+        "tag": "h2",
+        "text": ""
+       },
+       "text": "04 Запустим рекламные кампании на целевую аудиторию",
+       "html": " <div class=\"service-box style-five\"> <div class=\"em_service_content d-flex\"> <div class=\"service-number\"> <span class=\"service-box-number\">04</span> </div> <div class=\"service_box_text\"> <div class=\"service-box-title\"> <h2></h2> </div> <div class=\"service-box-inner\"> <div class=\"service-box-desc\"> <p>Запустим рекламные кампании на целевую аудиторию</p> </div> </div> </div> </div> </div> ",
+       "style": {
+        "color": "rgb(237, 44, 65)",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "fontFamily": "Rajdhani",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "dff117f",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2150377123.jpg",
+         "w": 1000,
+         "h": 668
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c0ee7fc",
+   "height": 343,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 380,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "8f92ec0",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "2e3340b",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148985471-e1715621853966.jpg",
+         "w": 680,
+         "h": 454
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 39,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "c9f68de",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "divider.default",
+       "id": "2039762",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    },
+    {
+     "width": 717,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "dc39a6f",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "c6d4e00",
+       "heading": {
+        "tag": "h3",
+        "text": "КАК МЫ РАБОТАЕМ"
+       },
+       "text": "КАК МЫ РАБОТАЕМ",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы работаем</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "1c8a388",
+       "text": "Мы подбираем команду из специалистов с опытом работы в вашей нише: электроника, бытовая техника, косметика, продукты питания, товары для спорта и др. Менеджер проекта изучит имеющиеся данные по продажам и выручке и совместно с вами сформулирует цель по увеличению показателей. Совместно с командой из профильных специалистов он составит план по достижению обозначенной цели.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <p>Мы подбираем команду из специалистов с опытом работы в вашей нише: электроника, бытовая техника, косметика, продукты питания, товары для спорта и др. Менеджер проекта изучит имеющиеся данные по продажам и выручке и совместно с вами сформулирует цель по увеличению показателей. Совместно с командой из профильных специалистов он составит план по достижению обозначенной цели. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "f3df006",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1720f2",
+   "height": 202,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "e-con-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "blockquote.default",
+       "id": "c22bf22",
+       "text": "Команда будет состоять из веб-аналитика, семантиста (SEO), таргетолога, контент-менеджера, дизайнера, копирайтера и специалиста по управлению репутацией (SERM). У каждого из них будут свои задачи и сроки их выполнения. Слаженность нашей команды и накопленный опыт обеспечит высокий результат.",
+       "html": "  <blockquote class=\"elementor-blockquote\"> <p class=\"elementor-blockquote__content\"> Команда будет состоять из веб-аналитика, семантиста (SEO), таргетолога, контент-менеджера, дизайнера, копирайтера и специалиста по управлению репутацией (SERM). У каждого из них будут свои задачи и сроки их выполнения. Слаженность нашей команды и накопленный опыт обеспечит высокий результат. </p> </blockquote> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "start"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e03429f",
+   "height": 400,
+   "bg": {
+    "color": "rgb(255, 255, 255)",
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/contact-bg.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 718,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "337e526",
+       "heading": {
+        "tag": "h3",
+        "text": "СТОИМОСТЬ ПРОДВИЖЕНИЯ НА МАРКЕТПЛЕЙСАХ"
+       },
+       "text": "СТОИМОСТЬ ПРОДВИЖЕНИЯ НА МАРКЕТПЛЕЙСАХ Наша студия работает под ключ. Мы не делаем отдельные виды работ, т.к. невозможно добиться высоких результатов полумерами. Наши услуги стоят от 100 000 руб. Конечная стоимость зависит от перечня проводимых работ и от достигнутого результата согласно оговоренному KPI. Чем больше вы продадите товаров с нашей помощью, тем больше будет наша премия. Мы отлично разбираемся в бизнес-процессах, и окупаемость ваших вложений в продвижение и рекламу - наш приоритет.",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Стоимость продвижения на маркетплейсах</h3> <p>Наша студия работает под ключ. Мы не делаем отдельные виды работ, т.к. невозможно добиться высоких результатов полумерами. Наши услуги стоят от 100 000 руб. Конечная стоимость зависит от перечня проводимых работ и от достигнутого результата согласно оговоренному KPI. Чем больше вы продадите товаров с нашей помощью, тем больше будет наша премия. Мы отлично разбираемся в бизнес-процессах, и окупаемость ваших вложений в продвижение и рекламу - наш приоритет. </p> </div> </div> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "justify"
+       }
+      },
+      {
+       "type": "dit-button.default",
+       "id": "ccc6775",
+       "text": "Заказать продвижение",
+       "links": [
+        {
+         "text": "Заказать продвижение",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "ccb2d14",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 422,
+     "bg": {},
+     "items": [
+      {
+       "type": "image.default",
+       "id": "16c127a",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2024/04/2148567174.png",
+         "w": 0,
+         "h": 0
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      },
+      {
+       "type": "image.default",
+       "id": "5db5285",
+       "images": [
+        {
+         "src": "https://myfirms.ru/wp-content/uploads/2022/01/11.png",
+         "w": 71,
+         "h": 78
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23501d3",
+   "height": 201,
+   "bg": {
+    "color": "rgb(254, 245, 243)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "5f41358",
+       "height": 81,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 1140,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "840d3f0",
+           "heading": {
+            "tag": "h3",
+            "text": "НАШИ СПЕЦИАЛИСТЫ ПО МАРКЕТПЛЕЙСАМ"
+           },
+           "text": "НАШИ СПЕЦИАЛИСТЫ ПО МАРКЕТПЛЕЙСАМ",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Наши специалисты по маркетплейсам</h3> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6f6698a",
+   "height": 500,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/02.jpg"
+   },
+   "cls": "elementor-section-stretched elementor-section-boxed",
+   "columns": []
+  },
+  {
+   "id": "6cc5ae5",
+   "height": 598,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/01/about-bg2.png"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1140,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "39fc8ae",
+       "height": 520,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "image.default",
+           "id": "68b7476",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2022/01/contact-shape1.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          },
+          {
+           "type": "image.default",
+           "id": "9c6e202",
+           "images": [
+            {
+             "src": "https://myfirms.ru/wp-content/uploads/2024/03/phojczjto-1024x683.png",
+             "w": 0,
+             "h": 0
+            }
+           ],
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 560,
+         "bg": {},
+         "items": [
+          {
+           "type": "shortcode.default",
+           "id": "0a40f9a",
+           "heading": {
+            "tag": "h2",
+            "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?"
+           },
+           "text": "ГОТОВЫ ОБСУДИТЬ УСЛОВИЯ?",
+           "form": "wpcf7-f2600-p5518-o3",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8bdd82",
+   "height": 470,
+   "bg": {
+    "color": "rgb(245, 245, 245)"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "video.default",
+       "id": "9b5980a",
+       "video": "{\"youtube_url\":\"https:\\/\\/youtu.be\\/uaIf82_LoXw?si=wDct7hOOF6nHhd3H\",\"video_type\":\"youtube\",\"controls\":\"yes\",\"_ob_widget_stalker_use\":\"no\",\"_ob_poopart_use\":\"yes\",\"_ob_shadough_use\":\"no\",\"_ob_allow_hoveranimator\":\"no\"}",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    },
+    {
+     "width": 720,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "309c088",
+       "height": 224,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 502,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "8a5c639",
+           "heading": {
+            "tag": "h3",
+            "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ"
+           },
+           "text": "УРОКИ ПО МАРКЕТИНГУ ДЛЯ РУКОВОДИТЕЛЕЙ Основатель MyFirms Олег Матушкин расскажет вам простыми словами про маркетинговые стратегии. Какой путь развития бизнеса выбрать. Какая стратегия маркетинга подойдет для стартапа, а какая для зрелого бизнеса. И как разработать свою стратегию.",
+           "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Уроки по маркетингу для руководителей</h3> <p>Основатель MyFirms Олег Матушкин расскажет вам простыми словами про маркетинговые стратегии. Какой путь развития бизнеса выбрать. Какая стратегия маркетинга подойдет для стартапа, а какая для зрелого бизнеса. И как разработать свою стратегию.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "justify"
+           }
+          }
+         ]
+        },
+        {
+         "width": 194,
+         "bg": {},
+         "items": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

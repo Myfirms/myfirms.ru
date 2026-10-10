@@ -1,0 +1,282 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/prodazhi-raketok-dlya-nastolnogo-tennisa/",
+ "group": "portfolio",
+ "title": "Продажи ракеток для настольного тенниса",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6389"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1284,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Помогли нарастить продажи на OZON производителю ракеток для настольного тенниса"
+       },
+       "text": "Помогли нарастить продажи на OZON производителю ракеток для настольного тенниса",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Помогли нарастить продажи на OZON производителю ракеток для настольного тенниса</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "У нашего заказчика Владимира* давно была мечта наладить производство теннисных ракеток. Он несколько раз побеждал на региональных турнирах и с головой увлечен этим спортом. Все свои ракетки он делал своими руками. Пришло время сделать из этого бизнес. Благодаря своей известности, у него заказывали ракетки его знакомые и ученики. Но дальше знакомых продажи не шли. Владимир пробовал размещать свои товары на OZON и Wildberries, но не получил ни одной продажи. Он обратился к нам за помощью.",
+       "html": "  <p><span style=\"font-weight: 400;\">У нашего заказчика Владимира<span style=\"color: #999999;\">*</span> давно была мечта наладить производство теннисных ракеток. Он несколько раз побеждал на региональных турнирах и с головой увлечен этим спортом. Все свои ракетки он делал своими руками. Пришло время сделать из этого бизнес. Благодаря своей известности, у него заказывали ракетки его знакомые и ученики. Но дальше знакомых продажи не шли. Владимир пробовал размещать свои товары на OZON и Wildberries, но не получил ни одной продажи. Он обратился к нам за помощью.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Делать не менее 10 продаж в месяц на маркетплейсах.",
+       "html": " <p><span style=\"font-weight: 400;\">Делать не менее 10 продаж в месяц на маркетплейсах.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Придумать бренд Сделать фото с товаром Сделать фото и видео с амбассадором Написать продающие тексты Оформить карточки товаров на OZON Запустить таргетированную рекламу внутри маркетплейса Обрести положительные отзывы",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Придумать бренд</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сделать фото с товаром</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сделать фото и видео с амбассадором</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Написать продающие тексты</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Оформить карточки товаров на OZON</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить таргетированную рекламу внутри маркетплейса</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обрести положительные отзывы</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "В первую очередь, мы поговорили со знакомыми нашего заказчика, за что они ценят эти ракетки. Нам и так это было известно, но важно было услышать язык, которым они выражаются. Именно на этом жаргоне мы хотели написать текст в описании карточки. Наш заказчик сам стал амбассадором, который на фото рекомендовал свой товар. Да, он был известен только в своем регионе, но это было не так важно, как создание образа профессионального спортсмена, рекомендующего инвентарь. Большая ответственность легла на редактора фото, который по нашему заданию смог отобразить эффекты вращения теннисного шарика, комфортного хвата ракетки в руке, надежности материалов. Отдельной фишкой стал теннисный шарик в подарок с автографом амбассадора. После того, как мы опубликовали карточки, мы попросили помочь знакомых заказчика, чтобы они заказали ракетки на OZON и оставили свои отзывы. В части рекламы мы не стали палить бюджет, чтобы товар был на первых строчках выдачи, а сделали ставку на “похожие товары”. В первый месяц мы получили 4 продажи, во второй уже 15, а в третий целых 37! После этого мы решили продолжить экспансию на другие маркетплейсы.",
+       "html": " <p><span style=\"font-weight: 400;\">В первую очередь, мы поговорили со знакомыми нашего заказчика, за что они ценят эти ракетки. Нам и так это было известно, но важно было услышать язык, которым они выражаются. Именно на этом жаргоне мы хотели написать текст в описании карточки. Наш заказчик сам стал амбассадором, который на фото рекомендовал свой товар. Да, он был известен только в своем регионе, но это было не так важно, как создание образа профессионального спортсмена, рекомендующего инвентарь. </span></p><p><span style=\"font-weight: 400;\">Большая ответственность легла на редактора фото, который по нашему заданию смог отобразить эффекты вращения теннисного шарика, комфортного хвата ракетки в руке, надежности материалов. Отдельной фишкой стал теннисный шарик в подарок с автографом амбассадора. </span></p><p><span style=\"font-weight: 400;\">После того, как мы опубликовали карточки, мы попросили помочь знакомых заказчика, чтобы они заказали ракетки на OZON и оставили свои отзывы. В части рекламы мы не стали палить бюджет, чтобы товар был на первых строчках выдачи, а сделали ставку на “похожие товары”. В первый месяц мы получили 4 продажи, во второй уже 15, а в третий целых 37! После этого мы решили продолжить экспансию на другие маркетплейсы.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 166,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 146,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 310,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "37"
+           },
+           "text": "37 + Продаж в месяц",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>37</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>Продаж в месяц</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 310,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "1"
+           },
+           "text": "1 + Новый бренд на рынке",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>1</h1> <h3>+</h3> </div> <div class=\"counter_title\"> <h4>Новый бренд на рынке</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6389-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b281d99",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

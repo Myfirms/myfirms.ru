@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/studiya-osteoplastiki-travinoi/",
+ "group": "portfolio",
+ "title": "Студия остеопластики Травиной",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6260"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1385,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Рост подписчиков с 10 до 3000 человек за 4 месяца студии остеопластики Травиной"
+       },
+       "text": "Рост подписчиков с 10 до 3000 человек за 4 месяца студии остеопластики Травиной",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Рост подписчиков с 10 до 3000 человек за 4 месяца студии остеопластики Травиной</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Студия Травиной* профессионально занимается остеопатией, помогает вылечить заболевания опорно-двигательного аппарата, мышц, суставов, внутренних органов при помощи мануальной терапии. К нам обратился руководитель студии с просьбой помочь увеличить клиентскую базу. Но задача оказалось непростой и нетривиальной. Большая часть медицинских услуг запрещена законом о рекламе, а разрабатывать свой сайт и продвигать его по SEO в регионе неоправданно дорого. Остаются только доски объявлений (с чем наш клиент отлично и сам справился) и поиск клиентов в социальных сетях. Но как обрести аудиторию, которая никогда не слышала о новом способе оздоровления?",
+       "html": "  <p><span style=\"font-weight: 400;\">Студия Травиной<span style=\"color: #999999;\">*</span> профессионально занимается остеопатией, помогает вылечить заболевания опорно-двигательного аппарата, мышц, суставов, внутренних органов при помощи мануальной терапии. К нам обратился руководитель студии с просьбой помочь увеличить клиентскую базу. Но задача оказалось непростой и нетривиальной. Большая часть медицинских услуг запрещена законом о рекламе, а разрабатывать свой сайт и продвигать его по SEO в регионе неоправданно дорого. Остаются только доски объявлений (с чем наш клиент отлично и сам справился) и поиск клиентов в социальных сетях. Но как обрести аудиторию, которая никогда не слышала о новом способе оздоровления?</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить клиентскую базу минимум на 30% за 3 месяца при помощи соц. сетей.",
+       "html": " <p><span style=\"font-weight: 400;\">Увеличить клиентскую базу минимум на 30% за 3 месяца при помощи соц. сетей.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Составить портрет целевой аудитории и карту потребностей Придумать способ познакомить аудиторию с новой услугой Собрать список тематических сообществ Обновить контент в сообществе клиента Настроить таргетированную рекламу на прирост подписчиков Обучить и дисциплинировать клиента регулярно публиковать контент",
+       "html": " <ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Составить портрет целевой аудитории и карту потребностей</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Придумать способ познакомить аудиторию с новой услугой</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Собрать список тематических сообществ</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обновить контент в сообществе клиента</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Настроить таргетированную рекламу на прирост подписчиков</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Обучить и дисциплинировать клиента регулярно публиковать контент</span></li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Когда мы взялись за эту работу, мы столкнулись с серьезной проблемой. У нашего клиента было всего 10 подписчиков. А частота публикаций в сообществе – 1 в месяц. Сначала мы хотели создать лендинг и настроить контекстную рекламу со скрытым посылом на медицинские услуги, но пришли к выводу, что это будет бессмысленной тратой денег, т.к. наш многолетний опыт подсказывал, что это не сработает. Мы решили пойти сложным путем – наращивать сообщество, но не через инфлюенсеров и SMM, а через таргетированную рекламу. Сложнее всего было набрать первую сотню подписчиков. Но каково было наше удивление, что даже из этой сотни подписчиков 15 человек позвонили и записались на прием! Конверсия 15% из подписчиков для нас была в диковинку, мы убедились, что на правильном пути. Уже через 3 месяца мы преодолели барьер 1000 подписчиков, а через 4 месяца у нашего клиента было 3000 потенциальных клиентов. Стоит отметить, что такого успеха невозможно было бы добиться без потрясающей активности самого клиента, который постил новости и кейсы в своем сообществе, как не в себя. Он настолько увлекся этим процессом, как проглядел, что у него не хватает рук в салоне и нужны три новых специалиста и новые кабинеты. Но с этим наш заказчик точно справится, ведь теперь недостатка в клиентах у него нет.",
+       "html": " <p><span style=\"font-weight: 400;\">Когда мы взялись за эту работу, мы столкнулись с серьезной проблемой. У нашего клиента было всего 10 подписчиков. А частота публикаций в сообществе – 1 в месяц. Сначала мы хотели создать лендинг и настроить контекстную рекламу со скрытым посылом на медицинские услуги, но пришли к выводу, что это будет бессмысленной тратой денег, т.к. наш многолетний опыт подсказывал, что это не сработает. Мы решили пойти сложным путем – наращивать сообщество, но не через инфлюенсеров и SMM, а через таргетированную рекламу. </span></p><p><span style=\"font-weight: 400;\">Сложнее всего было набрать первую сотню подписчиков. Но каково было наше удивление, что даже из этой сотни подписчиков 15 человек позвонили и записались на прием! Конверсия 15% из подписчиков для нас была в диковинку, мы убедились, что на правильном пути. </span></p><p><span style=\"font-weight: 400;\">Уже через 3 месяца мы преодолели барьер 1000 подписчиков, а через 4 месяца у нашего клиента было 3000 потенциальных клиентов. Стоит отметить, что такого успеха невозможно было бы добиться без потрясающей активности самого клиента, который постил новости и кейсы в своем сообществе, как не в себя. Он настолько увлекся этим процессом, как проглядел, что у него не хватает рук в салоне и нужны три новых специалиста и новые кабинеты. Но с этим наш заказчик точно справится, ведь теперь недостатка в клиентах у него нет.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "3000"
+           },
+           "text": "3000 % Рост подписчиков",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>3000</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост подписчиков</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "300"
+           },
+           "text": "300 % Рост базы клиентов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>300</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост базы клиентов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "15"
+           },
+           "text": "15 % Конверсия в заказ из подписки",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>15</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Конверсия в заказ из подписки</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 155,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Расширение бизнеса",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Расширение бизнеса</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6260-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "744dc2a",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

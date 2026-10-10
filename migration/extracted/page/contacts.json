@@ -1,0 +1,145 @@
+{
+ "url": "https://myfirms.ru/contacts/",
+ "group": "page",
+ "title": "Контакты",
+ "roots": [
+  {
+   "type": "wp-page",
+   "id": "3654"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "7296a78",
+   "height": 703,
+   "bg": {
+    "image": "https://myfirms.ru/wp-content/uploads/2022/04/techno-4.jpg"
+   },
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 1400,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "fdd0974",
+       "height": 129,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 1400,
+         "bg": {},
+         "items": [
+          {
+           "type": "sectiontitle.default",
+           "id": "9cb61fa",
+           "heading": {
+            "tag": "h3",
+            "text": "МАРКЕТИНГОВОЕ АГЕНТСТВО MYFIRMS"
+           },
+           "text": "МАРКЕТИНГОВОЕ АГЕНТСТВО MYFIRMS Мы принимаем заказы по России и за рубежом. Для связи с нами напишите или позвоните нам по указанным ниже контактам.",
+           "html": " <div class=\"\"> <div class=\"section-title t_center\"> <h3>Маркетинговое агентство MyFirms</h3> <p>Мы принимаем заказы по России и за рубежом. Для связи с нами напишите или позвоните нам по указанным ниже контактам.</p> </div> </div> ",
+           "style": {
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "inner-section",
+       "id": "6d41223",
+       "height": 256,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-full_width",
+       "columns": [
+        {
+         "width": 700,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "00bd3c7",
+           "heading": {
+            "tag": "h2",
+            "text": "Написать нам"
+           },
+           "text": "Написать нам info@myfirms.ru",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-mail restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Написать нам</h2> </div> <div class=\"feature-box-desc\"> <p>info@myfirms.ru </p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(162, 25, 255)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        },
+        {
+         "width": 700,
+         "bg": {},
+         "items": [
+          {
+           "type": "feature.default",
+           "id": "4dd063c",
+           "heading": {
+            "tag": "h2",
+            "text": "Наш адрес"
+           },
+           "text": "Наш адрес Тула, Болдина 98, офис 607",
+           "html": " <div class=\"feature-box style-five \"> <div class=\"feature-box-icon\"> <span><i class=\"flaticon flaticon-map restly-flaticon\"></i></span> </div> <div class=\"feature-box-content\"> <div class=\"feature-box-title\"> <h2>Наш адрес</h2> </div> <div class=\"feature-box-desc\"> <p>Тула, Болдина 98, офис 607</p> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(101, 202, 34)",
+            "fontSize": "45px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "center"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bdt-fancy-list.default",
+       "id": "aa8b642",
+       "heading": {
+        "tag": "h4",
+        "text": "Реквизиты компании в России"
+       },
+       "text": "Реквизиты компании в России Мы готовы созвониться с вами по Zoom, Google meet, Skype, Teams или Discord. При необходимости можем организовать встречу очно с нашим менеджером.",
+       "html": " <div class=\"bdt-fancy-list bdt-fancy-list-style-1\"> <ul class=\"bdt-list bdt-fancy-list-group\"> <li> <a class=\"bdt-fancy-list-wrap\" href=\"#\"> <div class=\"bdt-flex flex-wrap\"> <div class=\"bdt-fancy-list-content\"> <h4 class=\"bdt-fancy-list-title\"> Реквизиты компании в России </h4> <p class=\"bdt-fancy-list-text\"> </p> </div> </div> </a> </li> <li> <div class=\"bdt-fancy-list-wrap\"> <div class=\"bdt-flex flex-wrap\"> <div class=\"bdt-fancy-list-content\"> <h4 class=\"bdt-fancy-list-title\"> Мы готовы созвониться с вами по Zoom, Google meet, Skype, Teams или Discord. При необходимости можем организовать встречу очно с нашим менеджером. </h4> <p class=\"bdt-fancy-list-text\"> </p> </div> </div> </div> </li> </ul> </div> ",
+       "links": [
+        {
+         "text": "Реквизиты компании в России",
+         "href": "#"
+        }
+       ],
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "article": null
+}

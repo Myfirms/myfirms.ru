@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/brend-odezhdy-bella/",
+ "group": "portfolio",
+ "title": "Бренд одежды Bella",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6428"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1242,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы увеличили узнаваемость бренда одежды на 41%"
+       },
+       "text": "Как мы увеличили узнаваемость бренда одежды на 41%",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы увеличили узнаваемость бренда одежды на 41%</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания Bella* обратилась к нам с целью увеличения узнаваемости бренда и стимулирования продаж. Традиционные методы рекламы, такие как контекстная и таргетированная реклама, не приносили желаемых результатов. Необходим был нестандартный подход, чтобы привлечь внимание целевой аудитории.",
+       "html": "  <p>Компания Bella<span style=\"color: #999999;\">*</span> обратилась к нам с целью увеличения узнаваемости бренда и стимулирования продаж. Традиционные методы рекламы, такие как контекстная и таргетированная реклама, не приносили желаемых результатов. Необходим был нестандартный подход, чтобы привлечь внимание целевой аудитории.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Увеличить узнаваемость бренда Bella на 30% и стимулировать продажи.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Увеличить узнаваемость бренда Bella на 30% и стимулировать продажи.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Определить целевую аудиторию бренда Разработать стратегию, направленную на повышение интереса к продукции Выбрать наиболее эффективные каналы коммуникации с аудиторией Запустить рекламную кампанию Настроить ретаргетинг для повторных посетителей",
+       "html": " <ul><li>Определить целевую аудиторию бренда</li><li>Разработать стратегию, направленную на повышение интереса к продукции</li><li>Выбрать наиболее эффективные каналы коммуникации с аудиторией</li><li>Запустить рекламную кампанию</li><li>Настроить ретаргетинг для повторных посетителей</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Благодаря нашему нестандартному подходу, мы не только достигли поставленных целей, но и превзошли ожидания клиента. Узнаваемость бренда Bella выросла на 41%, что подтверждает эффективность нашей стратегии. Ключевым элементом кампании стали 5 видеороликов, в которых модели демонстрировали одежду бренда Bella в естественных условиях. Мы настроили таргетированную рекламу на аудиторию, интересующуюся модой и стилем, с размещением этих видеороликов. Результаты превзошли все ожидания – количество посетителей сайта увеличилось на 10,8%, а количество заказов выросло на 604%, принеся 370 290 рублей прибыли. Особенно высокие показатели были зафиксированы в Санкт-Петербурге, где привлечение и конверсия оказались наиболее эффективными. Стоимость привлечения клиента составила всего 0.35 рублей за действие, что подчеркивает высокую рентабельность видеорекламы. Этот опыт показал, что видеореклама может стать мощным инструментом для увеличения узнаваемости бренда и стимулирования продаж. Компания Bella осталась крайне довольна результатами и планирует продолжить сотрудничество, расширяя использование видеоконтента для охвата новых аудиторий.",
+       "html": " <p>Благодаря нашему нестандартному подходу, мы не только достигли поставленных целей, но и превзошли ожидания клиента. Узнаваемость бренда Bella выросла на 41%, что подтверждает эффективность нашей стратегии.</p><p>Ключевым элементом кампании стали 5 видеороликов, в которых модели демонстрировали одежду бренда Bella в естественных условиях. Мы настроили таргетированную рекламу на аудиторию, интересующуюся модой и стилем, с размещением этих видеороликов. Результаты превзошли все ожидания – количество посетителей сайта увеличилось на 10,8%, а количество заказов выросло на 604%, принеся 370 290 рублей прибыли.</p><p>Особенно высокие показатели были зафиксированы в Санкт-Петербурге, где привлечение и конверсия оказались наиболее эффективными. Стоимость привлечения клиента составила всего 0.35 рублей за действие, что подчеркивает высокую рентабельность видеорекламы.</p><p data-last=\"true\">Этот опыт показал, что видеореклама может стать мощным инструментом для увеличения узнаваемости бренда и стимулирования продаж. Компания Bella осталась крайне довольна результатами и планирует продолжить сотрудничество, расширяя использование видеоконтента для охвата новых аудиторий.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 136,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "41"
+           },
+           "text": "41 % Рост узнаваемости бренда",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>41</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 135,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "604"
+           },
+           "text": "604 % Рост заказов",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>604</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заказов</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 145,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "10.8"
+           },
+           "text": "10.8 % Рост посетителей сайта",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>10.8</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост посетителей сайта</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 204,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "370290"
+           },
+           "text": "370290 руб. Чистая прибыль",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-money-1 restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>370290</h1> <h3>руб.</h3> </div> <div class=\"counter_title\"> <h4>Чистая прибыль</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6428-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1549a51",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

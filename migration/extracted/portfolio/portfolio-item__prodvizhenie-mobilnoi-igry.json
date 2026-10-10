@@ -1,0 +1,305 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/prodvizhenie-mobilnoi-igry/",
+ "group": "portfolio",
+ "title": "Продвижение мобильной игры",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6459"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 882,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Кейс: Продвижение мобильной игры \"Космические приключения\" с помощью рекламы у блогеров"
+       },
+       "text": "Кейс: Продвижение мобильной игры \"Космические приключения\" с помощью рекламы у блогеров",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Кейс: Продвижение мобильной игры \"Космические приключения\" с помощью рекламы у блогеров</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "Компания-разработчик мобильных игр “Galaxy Game” поставила перед нами задачу привлечь внимание к своей новой игре “Космические приключения”* и увеличить ее количество загрузок. После запуска игры ее скачали 2600 пользователей. Для достижения этих целей было принято решение использовать рекламу у популярных блогеров.",
+       "html": "  <p>Компания-разработчик мобильных игр “<span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"0:9\">Galaxy</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"10:4\">Game</span>” поставила перед нами задачу привлечь внимание к своей новой игре “Космические приключения”<span style=\"color: #999999;\">*</span> и увеличить ее количество загрузок.&nbsp; После запуска игры ее скачали 2600 пользователей. Для достижения этих целей было принято решение использовать рекламу у популярных блогеров.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Основная цель кампании – увеличить количество загрузок игры “Космические приключения” на 60% в течение 3 месяцев.",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Основная цель кампании – увеличить количество загрузок игры “Космические приключения” на 60% в течение 3 месяцев.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Анализ целевой аудитории и выбор наиболее подходящих блогеров. Разработка креативной концепции рекламных материалов. Проведение переговоров и заключение договоров с отобранными блогерами. Запуск рекламной кампании с публикацией постов, обзоров и розыгрышей. Мониторинг эффективности кампании и оптимизация по необходимости.",
+       "html": " <ul><li>Анализ целевой аудитории и выбор наиболее подходящих блогеров.</li><li>Разработка креативной концепции рекламных материалов.</li><li>Проведение переговоров и заключение договоров с отобранными блогерами.</li><li>Запуск рекламной кампании с публикацией постов, обзоров и розыгрышей.</li><li>Мониторинг эффективности кампании и оптимизация по необходимости.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "В результате проведенной рекламной кампании с участием 10 популярных блогеров в социальных сетях, количество загрузок игры “Космические приключения” увеличилось на 65% за 3 месяца. Средняя вовлеченность аудитории в публикациях блогеров составила 18%, что позволило эффективно донести информацию о новой игре до целевой аудитории. Рекламная кампания от Мyfirms была успешной и позволила компании “Galaxy Game” достичь поставленных целей.",
+       "html": " <p>В результате проведенной рекламной кампании с участием 10 популярных блогеров в социальных сетях, количество загрузок игры “Космические приключения” увеличилось на 65% за 3 месяца. Средняя вовлеченность аудитории в публикациях блогеров составила 18%, что позволило эффективно донести информацию о новой игре до целевой аудитории. Рекламная кампания от&nbsp; Мyfirms была&nbsp; успешной и позволила компании “<span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"0:9\">Galaxy</span>&nbsp;<span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"10:4\">Game</span>” достичь поставленных целей.&nbsp;</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "65"
+           },
+           "text": "65 % Рост загрузки игры",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>65</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост загрузки игры</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "4160"
+           },
+           "text": "4160 Новых скачиваний",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>4160</h1> <h3></h3> </div> <div class=\"counter_title\"> <h4>Новых скачиваний</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 207,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "23"
+           },
+           "text": "23 % Рост узнаваемости бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>23</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6459-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e5febaa",
+   "height": 183,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

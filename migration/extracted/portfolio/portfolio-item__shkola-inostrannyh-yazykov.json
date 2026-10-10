@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/shkola-inostrannyh-yazykov/",
+ "group": "portfolio",
+ "title": "Школа иностранных языков",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6454"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1109,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Как мы привлекли в школу иностранных языков новых учеников"
+       },
+       "text": "Как мы привлекли в школу иностранных языков новых учеников",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Как мы привлекли в школу иностранных языков новых учеников</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "К нам обратилась Ирина, владелица школы иностранных языков*, с просьбой помочь ей увеличить узнаваемость бренда и привлечь новых учеников в школу. Ирина ведет аккаунт в социальных сетях, но делает это не слишком активно и не использует рекламу. Мы предложили ей сделать быстрый старт через сотрудничество с блогерами, чтобы охватить целевую аудиторию и повысить интерес к ее школе.",
+       "html": "  <p>К нам обратилась Ирина, владелица школы иностранных языков<span style=\"color: #999999;\">*</span>, с просьбой помочь ей увеличить узнаваемость бренда и привлечь новых учеников в школу. Ирина ведет аккаунт в социальных сетях, но делает это не слишком активно и не использует рекламу. Мы предложили ей сделать быстрый старт через сотрудничество с блогерами, чтобы охватить целевую аудиторию и повысить интерес к ее школе.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "Основной целью Ирины было увеличить узнаваемость бренда школы иностранных языков и привлечь не менее 50 новых учеников в течение месяца. Команда Мyfirms сформулировала более конкретную цель: “Увеличить узнаваемость бренда и обеспечить приток новых учеников, не менее 60 человек в квартал.”",
+       "html": " <p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Основной целью Ирины было увеличить узнаваемость бренда школы иностранных языков и привлечь не менее 50 новых учеников в течение месяца. Команда Мyfirms сформулировала более конкретную цель: “Увеличить узнаваемость бренда и обеспечить приток новых учеников, не менее 60 человек в квартал.”</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Сформировать портрет целевой аудитории. Найти релевантные сообщества в городе. Выйти на лидеров мнений и договориться о размещении рекламы. Подготовить качественный и креативный контент. Оформить сообщество клиенту. Запустить рекламную кампанию.",
+       "html": " <ul><li>Сформировать портрет целевой аудитории.</li><li>Найти релевантные сообщества в городе.</li><li>Выйти на лидеров мнений и договориться о размещении рекламы.</li><li>Подготовить качественный и креативный контент.</li><li>Оформить сообщество клиенту.</li><li>Запустить рекламную кампанию.</li></ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Работа с блогерами оказалась непростой задачей. Некоторые не понимали, зачем нам нужно размещение рекламы в их сообществах, а другие запрашивали слишком высокие цены. Однако наши менеджеры по работе с блогерами справились с этой задачей. Они не только договорились о размещении рекламы, но и предложили интересные идеи для совместных розыгрышей и акций. В результате проведенной кампании, зимой Ирина получила 68 новых учеников, а весной – еще 82. Успех был обеспечен не только качественным контентом и эффективной рекламой, но и самим продуктом – школой иностранных языков Ирины. Ученики делились своими впечатлениями в социальных сетях, что способствовало дальнейшему росту интереса к школе.",
+       "html": " <p>Работа с блогерами оказалась непростой задачей. Некоторые не понимали, зачем нам нужно размещение рекламы в их сообществах, а другие запрашивали слишком высокие цены. Однако наши менеджеры по работе с блогерами справились с этой задачей. Они не только договорились о размещении рекламы, но и предложили интересные идеи для совместных розыгрышей и акций.</p><p data-last=\"true\">В результате проведенной кампании, зимой Ирина получила 68 новых учеников, а весной – еще 82. Успех был обеспечен не только качественным контентом и эффективной рекламой, но и самим продуктом – школой иностранных языков Ирины. Ученики делились своими впечатлениями в социальных сетях, что способствовало дальнейшему росту интереса к школе.</p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 204,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 184,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 166,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "150"
+           },
+           "text": "150 Новых учеников школы",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>150</h1> <h3></h3> </div> <div class=\"counter_title\"> <h4>Новых учеников школы</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 138,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "28"
+           },
+           "text": "28 % Рост продаж",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>28</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост продаж</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 166,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "43"
+           },
+           "text": "43 % Рост узнаваемости бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-light-bulb restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>43</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост узнаваемости бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 150,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "69"
+           },
+           "text": "69 % Рост аудитории социальных сетей",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-avatar restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>69</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост аудитории социальных сетей</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6454-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ab98995",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}

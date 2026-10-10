@@ -1,0 +1,328 @@
+{
+ "url": "https://myfirms.ru/portfolio-item/magazin-svechei-ruchnoi-raboty/",
+ "group": "portfolio",
+ "title": "Магазин свечей ручной работы",
+ "roots": [
+  {
+   "type": "wp-post",
+   "id": "6326"
+  },
+  {
+   "type": "section",
+   "id": "3677"
+  }
+ ],
+ "banner": null,
+ "sections": [
+  {
+   "id": "92d319a",
+   "height": 1185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "sectiontitle.default",
+       "id": "b181401",
+       "heading": {
+        "tag": "h3",
+        "text": "Подняли заказы магазина свечей ручной работы на 400% через блогеров"
+       },
+       "text": "Подняли заказы магазина свечей ручной работы на 400% через блогеров",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Подняли заказы магазина свечей ручной работы на 400% через блогеров</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "6e71f0c",
+       "text": "К нам обратилась предприниматель Юлия* с просьбой помочь встать на ноги ее бизнесу и найти первых клиентов. У нее небольшая мастерская по изготовлению свечей. На досках объявлений слишком много предложений этого товара по крайне низкой цене и такого же невысокого качества. Пытаться конкурировать и работать в себе в убыток ради обретения репутации заведомо неверный путь. Мы предложили сделать быстрый старт через инфлюенсеров. На уровне одного города запустить нативную рекламу не так дорого, если уметь четко сформулировать техническое задание, подготовить креативный контент с качественными изображениями и видео, а также проконтролировать результат. У блогеров есть подписчики, а у нас есть знание процессов и опыт.",
+       "html": "  <p><span style=\"font-weight: 400;\">К нам обратилась предприниматель Юлия<span style=\"color: #999999;\">*</span> с просьбой помочь встать на ноги ее бизнесу и найти первых клиентов. У нее небольшая мастерская по изготовлению свечей. На досках объявлений слишком много предложений этого товара по крайне низкой цене и такого же невысокого качества. Пытаться конкурировать и работать в себе в убыток ради обретения репутации заведомо неверный путь. Мы предложили сделать быстрый старт через инфлюенсеров. На уровне одного города запустить нативную рекламу не так дорого, если уметь четко сформулировать техническое задание, подготовить креативный контент с качественными изображениями и видео, а также проконтролировать результат. У блогеров есть подписчики, а у нас есть знание процессов и опыт.&nbsp;</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "56f5f6c",
+       "heading": {
+        "tag": "h3",
+        "text": "Цель"
+       },
+       "text": "Цель",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Цель</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "a586634",
+       "text": "“Получить хотя бы 20 заказов” – так звучала цель от нашего клиента. “Обеспечить приток аудитории на 400 человек за месяц и не менее 20 заказов ежемесячно” – так была сформулирована цель нашим менеджером для нашей команды.",
+       "html": " <p><span style=\"font-weight: 400;\">“Получить хотя бы 20 заказов” – так звучала цель от нашего клиента. “Обеспечить приток аудитории на 400 человек за месяц и не менее 20 заказов ежемесячно” – так была сформулирована цель нашим менеджером для нашей команды.</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "97aaeb1",
+       "heading": {
+        "tag": "h3",
+        "text": "План"
+       },
+       "text": "План",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>План</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "15fad4b",
+       "text": "Сформировать портрет целевой аудитории Найти релевантные сообщества в городе Выйти на лидеров мнений и договориться о рекламе Подготовить качественный и креативный контент Оформить сообщество клиенту Запустить рекламу",
+       "html": " <ul> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Сформировать портрет целевой аудитории</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Найти релевантные сообщества в городе</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Выйти на лидеров мнений и договориться о рекламе</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Подготовить качественный и креативный контент</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Оформить сообщество клиенту</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Запустить рекламу</span></li> </ul> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "sectiontitle.default",
+       "id": "d3dff90",
+       "heading": {
+        "tag": "h3",
+        "text": "Результаты"
+       },
+       "text": "Результаты",
+       "html": " <div class=\"\"> <div class=\"section-title t_left\"> <h3>Результаты</h3> </div> </div> ",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "text-editor.default",
+       "id": "fd63a35",
+       "text": "Самое сложное в этом кейсе было договориться с городскими блогерами. Одни не понимали, зачем мы хотим у них разместить рекламу, другие заряжали “конский” ценник. Но наши менеджеры по работе с блогерами (многие из которых по совместительству продюсеры популярных блогеров) справились на 5+. Мы придумали не только красивые видео, но и преподнесли продукцию нашего заказчика, как призы для розыгрышей, которые проводились в сообществах. По истечению 1го месяца наш клиент получил 42 заказа, а в следующий еще 63. Но стоит отметить, что успех обеспечила не только наша команда, но и качество свечей нашего заказчика. Подписчики блогеров сами постили эти свечки, а их друзья просили себе такие же. Получился виральный охват и “сарафанное радио”.",
+       "html": " <p><span style=\"font-weight: 400;\">Самое сложное в этом кейсе было договориться с городскими блогерами. Одни не понимали, зачем мы хотим у них разместить рекламу, другие заряжали “конский” ценник. Но наши менеджеры по работе с блогерами (многие из которых по совместительству продюсеры популярных блогеров) справились на 5+. Мы придумали не только красивые видео, но и преподнесли продукцию нашего заказчика, как призы для розыгрышей, которые проводились в сообществах. По истечению 1го месяца наш клиент получил 42 заказа, а в следующий еще 63. Но стоит отметить, что успех обеспечила не только наша команда, но и качество свечей нашего заказчика. Подписчики блогеров сами постили эти свечки, а их друзья просили себе такие же. Получился виральный охват и “сарафанное радио”.&nbsp;</span></p> ",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "88d6237",
+   "height": 185,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "inner-section",
+       "id": "17f1e7f",
+       "height": 165,
+       "bg": {},
+       "cls": "elementor-inner-section elementor-section-boxed",
+       "columns": [
+        {
+         "width": 140,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "96754e6",
+           "heading": {
+            "tag": "h1",
+            "text": "400"
+           },
+           "text": "400 % Рост заявок",
+           "html": "  <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-growth restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>400</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Рост заявок</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 173,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "3b272c1",
+           "heading": {
+            "tag": "h1",
+            "text": "50000"
+           },
+           "text": "50000 руб. Рекламный бюджет",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-payment restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>50000</h1> <h3>руб.</h3> </div> <div class=\"counter_title\"> <h4>Рекламный бюджет</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 160,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "772af1f",
+           "heading": {
+            "tag": "h1",
+            "text": "70"
+           },
+           "text": "70 % Узнаваемость бренда",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-temporary-agency restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>70</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Узнаваемость бренда</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        },
+        {
+         "width": 146,
+         "bg": {},
+         "items": [
+          {
+           "type": "counter.default",
+           "id": "95892e4",
+           "heading": {
+            "tag": "h1",
+            "text": "100"
+           },
+           "text": "100 % Расширение аудитории",
+           "html": " <div class=\"single_counter default_style center\"> <div class=\"single_counter_inner\"> <div class=\"counter_icon\"> <i class=\"flaticon flaticon-select restly-flaticon\"></i> </div> <div class=\"countr_text\"> <h1>100</h1> <h3>%</h3> </div> <div class=\"counter_title\"> <h4>Расширение аудитории</h4> </div> </div> </div> ",
+           "style": {
+            "color": "rgb(34, 34, 34)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Roboto",
+            "align": "left"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d249a71",
+   "height": 782,
+   "bg": {},
+   "cls": "elementor-section-boxed",
+   "columns": [
+    {
+     "width": 640,
+     "bg": {},
+     "items": [
+      {
+       "type": "spacer.default",
+       "id": "826786b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "bdt-contact-form-7.default",
+       "id": "1fedf43",
+       "heading": {
+        "tag": "h2",
+        "text": "Хотите такие же результаты в вашем бизнесе?"
+       },
+       "text": "Хотите такие же результаты в вашем бизнесе?",
+       "form": "wpcf7-f6211-p6326-o3",
+       "style": {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      },
+      {
+       "type": "spacer.default",
+       "id": "c2a016b",
+       "style": {
+        "color": "rgb(34, 34, 34)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Roboto",
+        "align": "left"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0550914",
+   "height": 132,
+   "bg": {},
+   "cls": "e-con-boxed",
+   "columns": []
+  }
+ ],
+ "article": null
+}
