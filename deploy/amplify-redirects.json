@@ -1,19 +1,98 @@
 [
-  { "source": "/em_case_study/<*>", "target": "/", "status": "301", "condition": null },
-  { "source": "/em_case_study", "target": "/", "status": "301", "condition": null },
-  { "source": "/em_brand/<*>", "target": "/", "status": "301", "condition": null },
-  { "source": "/em_brand", "target": "/", "status": "301", "condition": null },
-  { "source": "/em_portfolios/<*>", "target": "/portfolio/", "status": "301", "condition": null },
-  { "source": "/em_portfolios", "target": "/portfolio/", "status": "301", "condition": null },
-  { "source": "/author/<*>", "target": "/", "status": "301", "condition": null },
-  { "source": "/portfolio_filter/performance-marketing/", "target": "/portfolio/", "status": "301", "condition": null },
-  { "source": "/portfolio_filter/integraczii/", "target": "/portfolio/", "status": "301", "condition": null },
-  { "source": "/veb-analitika/", "target": "/marketing/veb-analitika/", "status": "301", "condition": null },
-  { "source": "/feed/<*>", "target": "/", "status": "301", "condition": null },
-  { "source": "/comments/feed/<*>", "target": "/", "status": "301", "condition": null },
-  { "source": "/wp-sitemap.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
-  { "source": "/sitemap_index.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
-  { "source": "/page-sitemap.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
-  { "source": "/portfolio-sitemap.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
-  { "source": "/<*>", "target": "/404.html", "status": "404", "condition": null }
+  {
+    "source": "/em_case_study/<*>",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/em_case_study",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/em_brand/<*>",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/em_brand",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/em_portfolios/<*>",
+    "target": "/portfolio/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/em_portfolios",
+    "target": "/portfolio/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/author/<*>",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/portfolio_filter/performance-marketing/",
+    "target": "/portfolio/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/portfolio_filter/integraczii/",
+    "target": "/portfolio/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/veb-analitika/",
+    "target": "/marketing/veb-analitika/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/feed/<*>",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/comments/feed/<*>",
+    "target": "/",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/wp-sitemap.xml",
+    "target": "/sitemap-index.xml",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/sitemap_index.xml",
+    "target": "/sitemap-index.xml",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/page-sitemap.xml",
+    "target": "/sitemap-index.xml",
+    "status": "301",
+    "condition": null
+  },
+  {
+    "source": "/portfolio-sitemap.xml",
+    "target": "/sitemap-index.xml",
+    "status": "301",
+    "condition": null
+  }
 ]
