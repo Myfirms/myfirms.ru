@@ -84,7 +84,8 @@ export const handler = async (event) => {
   try {
     await ses.send(
       new SendEmailCommand({
-        FromEmailAddress: `MyFirms — сайт <${FROM_EMAIL}>`,
+        // ASCII display name: SES requires RFC 2047 encoding for non-ASCII ones.
+        FromEmailAddress: `MyFirms Website <${FROM_EMAIL}>`,
         Destination: { ToAddresses: [NOTIFY_EMAIL] },
         ReplyToAddresses: lead.email ? [lead.email] : undefined,
         Content: {

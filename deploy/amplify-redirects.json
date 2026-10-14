@@ -15,5 +15,5 @@
   { "source": "/sitemap_index.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
   { "source": "/page-sitemap.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
   { "source": "/portfolio-sitemap.xml", "target": "/sitemap-index.xml", "status": "301", "condition": null },
-  { "source": "/<*>", "target": "/404.html", "status": "404-200", "condition": null }
+  { "source": "/<*>", "target": "/404.html", "status": "404", "condition": null }
 ]

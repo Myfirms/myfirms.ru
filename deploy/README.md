@@ -8,7 +8,7 @@
 Amplify → приложение → **Hosting → Rewrites and redirects → Manage redirects → Open text editor**,
 вставить содержимое [`amplify-redirects.json`](amplify-redirects.json), **Save**.
 
-Последнее правило (`/<*>` → `/404.html`, 404-200) должно оставаться последним: оно отдаёт
+Последнее правило (`/<*>` → `/404.html`, статус 404) должно оставаться последним: оно отдаёт
 нашу страницу 404 с кодом 404 для всех неизвестных адресов.
 
 Что закрывают правила: мусор темы WP (`/em_case_study/`, `/em_brand/`, `/em_portfolios/`),

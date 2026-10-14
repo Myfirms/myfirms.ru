@@ -195,3 +195,8 @@ docs/
 темы убраны (кроме героя); ссылки на видео для карточек «Смотреть видео»; 4 сотрудника с разными
 должностями на разных страницах (оставлено как на WP); 152-ФЗ — трансграничная передача через AWS
 (уведомление РКН) или обработчик форм в Яндекс.Облаке.
+
+
+### AWS (настроено 2026-10-14)
+
+SES identity `it@myfirms.ru` (us-west-2, подтверждён), Lambda `myfirms-lead-intake` (Node 24, timeout 10 с, inline-политика `SendLeadEmail` на `ses:SendEmail`), Function URL `https://n6xdo23cr5emsqog5ayrpauiqy0tuacc.lambda-url.us-west-2.on.aws/` (auth NONE, CORS: myfirms.ru, www.myfirms.ru, main.d269uw2hjcf883.amplifyapp.com, POST, content-type). Amplify app `d269uw2hjcf883`: переменная `PUBLIC_LEAD_ENDPOINT_URL`, редиректы из `deploy/amplify-redirects.json`. Дальше: перенос обработчика в Яндекс Облако (решение владельца), затем переключение домена.

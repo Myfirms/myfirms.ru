@@ -21,12 +21,11 @@
 ## 2. Lambda — создать функцию
 
 1. **Lambda → Create function** → Author from scratch, имя `myfirms-lead-intake`,
-   runtime **Node.js 22.x** (или новее), architecture arm64.
+   runtime **Node.js 24.x**, architecture arm64.
 2. Вставить содержимое `index.mjs` в редактор, **Deploy**.
    `npm install` не нужен — `@aws-sdk/client-sesv2` есть в рантайме.
-3. **Configuration → Environment variables**:
-   - `NOTIFY_EMAIL` = `it@myfirms.ru`
-   - `SES_REGION` = регион из шага 1
+3. **Configuration → General configuration**: Timeout = 10 сек. Переменные окружения не нужны: в коде по умолчанию
+   получатель `it@myfirms.ru` и регион `us-west-2` (переопределяются `NOTIFY_EMAIL`, `FROM_EMAIL`, `SES_REGION`).
 4. **Configuration → Permissions** → роль → **Add permissions → Create inline policy**:
    разрешить только `ses:SendEmail` (или прикрепить `AmazonSESFullAccess`).
 5. **Configuration → Function URL → Create function URL**:
