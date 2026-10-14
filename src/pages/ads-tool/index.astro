@@ -1,0 +1,90 @@
+---
+/**
+ * /ads-tool — public home page of the "MyFirms Ads API Tool" (Google OAuth /
+ * Google Ads API brand verification). English on purpose. Must stay open
+ * without sign-in, indexable (noindex={false} overrides the pre-launch gate)
+ * and linked to /ads-tool/privacy and /ads-tool/terms. Deliberately not in the
+ * site menu. Do not name clients here.
+ */
+import Button from '../../components/astro/foundation/Button.astro';
+import Section from '../../components/astro/foundation/Section.astro';
+import SiteLayout from '../../layouts/SiteLayout.astro';
+
+const seo = {
+  title: 'MyFirms Ads API Tool — Google Ads reporting and campaign management',
+  description:
+    'MyFirms Ads API Tool is an internal MyFirms tool that uses the Google Ads API for performance reporting and campaign management in authorized Google Ads accounts.',
+};
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'MyFirms Ads API Tool', href: '/ads-tool' },
+];
+---
+
+<SiteLayout seo={seo} h1="MyFirms Ads API Tool" crumbs={crumbs} lang="en" noindex={false} canonicalPath="/ads-tool">
+  <Section background="white">
+    <div class="doc">
+      <p class="lead">
+        MyFirms Ads API Tool is an internal tool operated by MyFirms (<a href="https://myfirms.ru">myfirms.ru</a>). It uses the
+        Google Ads API to produce advertising performance reports and to manage campaigns in Google Ads accounts that we operate
+        ourselves or on behalf of our clients, with the account owner's permission.
+      </p>
+      <p>The Tool is not intended for the general public. Access is limited to our team and to clients who have authorized us.</p>
+
+      <nav class="links" aria-label="Legal documents">
+        <Button href="/ads-tool/privacy" arrow={false}>Privacy Policy</Button>
+        <Button href="/ads-tool/terms" arrow={false}>Terms of Service</Button>
+      </nav>
+
+      <h2>Data the Tool uses</h2>
+      <p>When an authorized user signs in with Google and grants access, the Tool works with:</p>
+      <ul>
+        <li>the structure of the connected Google Ads account (campaigns, ad groups, ads, keywords, budgets and settings);</li>
+        <li>advertising performance statistics (impressions, clicks, costs, conversions);</li>
+        <li>the email address of the Google account used to sign in.</li>
+      </ul>
+      <p>
+        The data is used only for reporting and for managing the connected accounts. Details are in the{' '}
+        <a href="/ads-tool/privacy">Privacy Policy</a> and the <a href="/ads-tool/terms">Terms of Service</a>.
+      </p>
+
+      <h2>Contact</h2>
+      <p>MyFirms — <a href="mailto:it@myfirms.ru">it@myfirms.ru</a></p>
+    </div>
+  </Section>
+</SiteLayout>
+
+<style>
+  .doc {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: var(--text-body-lg);
+    line-height: 1.6;
+  }
+
+  .doc :global(a:not(.btn)) {
+    color: var(--color-link);
+    text-decoration: underline;
+  }
+
+  .lead {
+    font-size: 20px;
+  }
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap-md);
+    margin: var(--gap-lg) 0;
+  }
+
+  h2 {
+    margin: var(--gap-lg) 0 var(--gap-sm);
+    font-size: 24px;
+  }
+
+  ul {
+    padding-left: 1.25em;
+    margin: 0 0 1em;
+  }
+</style>

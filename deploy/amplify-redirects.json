@@ -1,5 +1,23 @@
 [
   {
+    "source": "/ads-tool",
+    "target": "/ads-tool/index.html",
+    "status": "200",
+    "condition": null
+  },
+  {
+    "source": "/ads-tool/privacy",
+    "target": "/ads-tool/privacy/index.html",
+    "status": "200",
+    "condition": null
+  },
+  {
+    "source": "/ads-tool/terms",
+    "target": "/ads-tool/terms/index.html",
+    "status": "200",
+    "condition": null
+  },
+  {
     "source": "/em_case_study/<*>",
     "target": "/",
     "status": "301",

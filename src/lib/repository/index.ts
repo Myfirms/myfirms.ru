@@ -10,5 +10,6 @@ export const portfolioRepository = createContentCollectionRepository('portfolio'
 export const portfolioFiltersRepository = createContentCollectionRepository('portfolioFilters');
 export const teamRepository = createContentCollectionRepository('team');
 export const legalRepository = createContentCollectionRepository('legal');
+export const adsToolRepository = createContentCollectionRepository('adsTool');
 
 export type { ContentRepository } from './types';

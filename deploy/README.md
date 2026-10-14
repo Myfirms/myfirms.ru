@@ -29,3 +29,7 @@ Amplify → приложение → **Hosting → Rewrites and redirects → Ma
    ALIAS/ANAME; если нет — перенести зону в Route 53 и **сначала** перенести туда MX/SPF/DKIM почты mail.ru.
 3. Записи MX, SPF, DKIM почты **не трогать**.
 4. После выпуска сертификата: `PUBLIC_LAUNCHED=true` → Redeploy.
+
+## /ads-tool (Google OAuth / Ads API verification)
+
+Три публичные английские страницы: `/ads-tool`, `/ads-tool/privacy`, `/ads-tool/terms`. Google проверяет их по адресам **без** слэша на конце, поэтому в `amplify-redirects.json` для них стоят правила-подмены со статусом 200 (иначе Amplify ответит 301 на вариант со слэшем). Страницы индексируемы (`noindex={false}`) и разрешены в `robots.txt` даже до запуска сайта. В меню и футер не добавлены.

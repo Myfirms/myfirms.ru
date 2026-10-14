@@ -12,6 +12,8 @@ interface Props {
   noindex?: boolean;
   /** Extra JSON-LD objects for this page (BreadcrumbList, Service, …). */
   jsonLd?: object[];
+  /** Document language: the site is Russian, the /ads-tool/ documents are English. */
+  lang?: 'ru' | 'en';
 }
 
 /** Site-wide pre-launch gate. Unset/anything but "true" = blocked: every page
@@ -31,7 +33,7 @@ const analytics = SITE_LAUNCHED;
  * "google-site-verification=<token>" used for the domain property. */
 const GOOGLE_SITE_VERIFICATION = 'ML-i1XH78KcC7wklGvPZf_gaojYpLpubbNozFDVZEro';
 
-const { title, description, canonicalPath = Astro.url.pathname, ogImage, noindex = !SITE_LAUNCHED, jsonLd = [] } = Astro.props;
+const { title, description, canonicalPath = Astro.url.pathname, ogImage, noindex = !SITE_LAUNCHED, jsonLd = [], lang = 'ru' } = Astro.props;
 const site = Astro.site ?? new URL('https://myfirms.ru');
 const canonical = new URL(canonicalPath, site).toString();
 const og = ogImage ? new URL(ogImage, site).toString() : undefined;
@@ -59,7 +61,7 @@ const organization = {
 ---
 
 <!doctype html>
-<html lang="ru">
+<html lang={lang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -74,7 +76,7 @@ const organization = {
     <meta name="google-site-verification" content={GOOGLE_SITE_VERIFICATION} />
 
     <meta property="og:type" content="website" />
-    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'ru_RU'} />
     <meta property="og:site_name" content="MyFirms" />
     <meta property="og:title" content={title} />
     {description && <meta property="og:description" content={description} />}

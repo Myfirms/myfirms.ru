@@ -1,0 +1,56 @@
+---
+/** /ads-tool/privacy and /ads-tool/terms — English legal documents for Google verification. */
+import type { GetStaticPaths } from 'astro';
+import { render } from 'astro:content';
+import Section from '../../components/astro/foundation/Section.astro';
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { adsToolRepository } from '../../lib/repository';
+
+export const getStaticPaths = (async () => {
+  const docs = await adsToolRepository.getAll();
+  return docs.map((d) => ({ params: { doc: d.id }, props: { entry: d } }));
+}) satisfies GetStaticPaths;
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const path = `/ads-tool/${entry.id}`;
+const seo = { title: entry.data.title, description: entry.data.description };
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'MyFirms Ads API Tool', href: '/ads-tool' },
+  { label: entry.data.heading, href: path },
+];
+---
+
+<SiteLayout seo={seo} h1={entry.data.title} crumbs={crumbs} lang="en" noindex={false} canonicalPath={path}>
+  <Section background="white">
+    <article class="doc prose">
+      <p class="updated">Last updated: {entry.data.updated}</p>
+      <Content />
+    </article>
+  </Section>
+</SiteLayout>
+
+<style>
+  .doc {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .updated {
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+  }
+
+  .doc :global(h2) {
+    font-size: 22px;
+  }
+
+  .doc :global(code) {
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: var(--surface-gray);
+    font-size: 0.9em;
+    word-break: break-all;
+  }
+</style>

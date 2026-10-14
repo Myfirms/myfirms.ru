@@ -167,4 +167,10 @@ const legal = defineCollection({
   schema: z.object({ title: z.string(), path: z.string(), seo, updated: z.string() }),
 });
 
-export const collections = { pages, portfolio, portfolioFilters, team, legal };
+/** English documents for the Google Ads API tool (Google OAuth / brand verification): /ads-tool/*. */
+const adsTool = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/adsTool' }),
+  schema: z.object({ title: z.string(), heading: z.string(), updated: z.string(), description: z.string() }),
+});
+
+export const collections = { pages, portfolio, portfolioFilters, team, legal, adsTool };

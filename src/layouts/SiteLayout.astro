@@ -19,14 +19,18 @@ interface Props {
   h1?: string;
   crumbs?: BreadcrumbItem[];
   jsonLd?: object[];
+  lang?: 'ru' | 'en';
+  /** Overrides the pre-launch noindex gate for pages that must stay crawlable (/ads-tool/*). */
+  noindex?: boolean;
+  canonicalPath?: string;
 }
 
-const { seo, h1, crumbs = [], jsonLd = [] } = Astro.props;
+const { seo, h1, crumbs = [], jsonLd = [], lang, noindex, canonicalPath } = Astro.props;
 const site = (Astro.site ?? new URL('https://myfirms.ru')).toString();
 const ld = crumbs.length ? [toBreadcrumbList(crumbs, site), ...jsonLd] : jsonLd;
 ---
 
-<BaseLayout title={seo.title} description={seo.description} ogImage={seo.ogImage} jsonLd={ld}>
+<BaseLayout title={seo.title} description={seo.description} ogImage={seo.ogImage} jsonLd={ld} lang={lang} noindex={noindex} canonicalPath={canonicalPath}>
   <slot name="head" slot="head" />
   <Header />
   <main id="main">
