@@ -1,4 +1,4 @@
-import { useId, useState, type FormEvent } from 'react';
+import { useId, useState } from 'react';
 import { submitLead } from '../../lib/adapters/leadIntakeAdapter';
 import { trackGoal } from '../../lib/analytics/track';
 import { validateRequestForm, type RequestFormFieldErrors, type RequestFormPayload, type RequestFormSource } from '../../lib/contracts/requestForm';
@@ -28,7 +28,7 @@ export default function RequestForm({ source, extended = false, submitLabel = 'Ð
     setValues((v) => ({ ...v, [k]: value }));
   };
 
-  async function onSubmit(e: FormEvent) {
+  async function onSubmit(e: { preventDefault(): void }) {
     e.preventDefault();
     const found = validateRequestForm({ ...values, consent: consent || undefined } as Partial<RequestFormPayload>, extended);
     setErrors(found);

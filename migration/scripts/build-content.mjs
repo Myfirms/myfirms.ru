@@ -26,7 +26,7 @@ const asset = (url) => {
 };
 const DECOR = /(^|\/)(shape[\w-]*|round\d*|feature-shape[\w-]*|contact-shape\d*|strelka[\w-]*|klipartz[\w.-]*|dummy|11|2020|42dl877|line[\w-]*)\.(png|jpe?g|svg)$/i;
 const isDecor = (src) => DECOR.test(src.split('?')[0]);
-const decode = (s) => s.replace(/&nbsp;/g, ' ').replace(/&#8212;/g, '—').replace(/&laquo;/g, '«').replace(/&raquo;/g, '»').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#8220;|&#8221;/g, '"').replace(/&#8230;/g, '…');
+const decode = (s) => s.replace(/[​-‍﻿]/g, '').replace(/&nbsp;/g, ' ').replace(/&#8212;/g, '—').replace(/&laquo;/g, '«').replace(/&raquo;/g, '»').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#8220;|&#8221;/g, '"').replace(/&#8230;/g, '…');
 const strip = (h) => decode((h ?? '').replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
 /** Sentence-case text the WP site rendered uppercase only via CSS is already
  * stored in its source case in widget HTML; innerText gives the uppercased
