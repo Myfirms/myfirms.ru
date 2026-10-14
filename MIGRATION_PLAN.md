@@ -181,13 +181,13 @@ docs/
 404, robots, sitemap. Сборка: 74 страницы. Конвейер миграции: `migration/scripts/*`
 (crawl → extract-elementor → download-media → build-content), отчёт `migration/extracted/_report.md`.
 
-**Сделано 2026-10-14:** Lambda  (проверена локально), SEO title/description для 67
-страниц, редиректы и заголовки Amplify (), визуальная проверка всех шаблонов (десктоп + мобайл,
-исправлен герой на мобильном),  — 0 ошибок, README / ARCHITECTURE_DECISIONS / CLAUDE.md.
+**Сделано 2026-10-14:** Lambda `lambda/lead-intake` (проверена локально), SEO title/description для 67
+страниц, редиректы и заголовки Amplify (`deploy/`, `customHttp.yml`), визуальная проверка всех шаблонов
+(десктоп + мобайл, исправлен герой на мобильном), `astro check` — 0 ошибок, README / ARCHITECTURE_DECISIONS / CLAUDE.md.
 
 **Дальше (действия владельца в AWS, по инструкциям):**
-1. SES + Lambda + Function URL — ; затем  в Amplify.
-2. Вставить редиректы — .
+1. SES + Lambda + Function URL — `lambda/lead-intake/README.md`; затем `PUBLIC_LEAD_ENDPOINT_URL` в Amplify.
+2. Вставить редиректы — `deploy/README.md`.
 3. Проверить превью Amplify, тестовая заявка.
 4. Переключение домена (этап 10) — после решения по 152-ФЗ и проверки юр. текстов.
 
