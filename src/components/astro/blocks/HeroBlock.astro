@@ -89,6 +89,7 @@ const art = (p: string) => asset(`wp/2022/01/${p}`);
   }
 
   .track {
+    min-width: 0;
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: 100%;
@@ -233,7 +234,7 @@ const art = (p: string) => asset(`wp/2022/01/${p}`);
 
   @media (max-width: 1023px) {
     .inner {
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
       min-height: 0;
       padding-top: calc(76px + 40px);
     }

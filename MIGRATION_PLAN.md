@@ -181,12 +181,15 @@ docs/
 404, robots, sitemap. Сборка: 74 страницы. Конвейер миграции: `migration/scripts/*`
 (crawl → extract-elementor → download-media → build-content), отчёт `migration/extracted/_report.md`.
 
-**Дальше:**
-1. Lambda `lambda/lead-intake` (SES → it@myfirms.ru) + `PUBLIC_LEAD_ENDPOINT_URL` в Amplify — сейчас формы показывают ошибку.
-2. SEO title/description для всех страниц → `src/content/_seo.json`, затем `node scripts/build-content.mjs`.
-3. Проверка мобильной вёрстки, страницы услуг, О компании, Контакты, кейсы — сверка со старыми скриншотами.
-4. Редиректы в Amplify (em_* , author, пустые рубрики, /veb-analitika/).
-5. `astro check`, README, docs/ARCHITECTURE_DECISIONS.md, CLAUDE.md.
+**Сделано 2026-10-14:** Lambda  (проверена локально), SEO title/description для 67
+страниц, редиректы и заголовки Amplify (), визуальная проверка всех шаблонов (десктоп + мобайл,
+исправлен герой на мобильном),  — 0 ошибок, README / ARCHITECTURE_DECISIONS / CLAUDE.md.
+
+**Дальше (действия владельца в AWS, по инструкциям):**
+1. SES + Lambda + Function URL — ; затем  в Amplify.
+2. Вставить редиректы — .
+3. Проверить превью Amplify, тестовая заявка.
+4. Переключение домена (этап 10) — после решения по 152-ФЗ и проверки юр. текстов.
 
 **Открытые вопросы владельцу:** иконки Flaticon → Lucide (ок?); декоративные «летающие» фигуры
 темы убраны (кроме героя); ссылки на видео для карточек «Смотреть видео»; 4 сотрудника с разными
