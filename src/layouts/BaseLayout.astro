@@ -26,6 +26,11 @@ const YM_ID = import.meta.env.PUBLIC_YM_ID ?? '97147329';
 const GA4_ID = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID ?? 'G-KPNZ32WW2F';
 const analytics = SITE_LAUNCHED;
 
+/** Google Search Console ownership token (public by design). Rendered on every page so a
+ * URL-prefix property can verify by meta tag; the same token is the DNS TXT value
+ * "google-site-verification=<token>" used for the domain property. */
+const GOOGLE_SITE_VERIFICATION = 'ML-i1XH78KcC7wklGvPZf_gaojYpLpubbNozFDVZEro';
+
 const { title, description, canonicalPath = Astro.url.pathname, ogImage, noindex = !SITE_LAUNCHED, jsonLd = [] } = Astro.props;
 const site = Astro.site ?? new URL('https://myfirms.ru');
 const canonical = new URL(canonicalPath, site).toString();
@@ -66,6 +71,7 @@ const organization = {
     <link rel="icon" href="/icon-192.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta name="theme-color" content="#121b51" />
+    <meta name="google-site-verification" content={GOOGLE_SITE_VERIFICATION} />
 
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="ru_RU" />
